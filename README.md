@@ -14,11 +14,11 @@
 
 ***
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,762 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,062 | 🐛 106 | 📅 2026-09-02
 
 > A curated list of command line apps.
 
-Inspired by the <b><code>503419⭐</code></b> <b><code> 36745🍴</code></b> [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,762 | 🐛 106 | 📅 2026-09-02) list thing.
+Inspired by the <b><code>503419⭐</code></b> <b><code> 36745🍴</code></b> [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,062 | 🐛 106 | 📅 2026-09-02) list thing.
 
 ## Table of Contents
 
@@ -111,28 +111,28 @@ Inspired by the <b><code>503419⭐</code></b> <b><code> 36745🍴</code></b> [a
 
 ## Entertainment
 
-* <b><code>  3900⭐</code></b> <b><code>   255🍴</code></b> [newsboat](https://github.com/newsboat/newsboat) ⭐ 3,901 | 🐛 409 | 🌐 C++ | 📅 2026-09-05) - An extendable RSS feed reader for text terminals.
-* <b><code>   855⭐</code></b> <b><code>    61🍴</code></b> [golazo](https://github.com/0xjuanma/golazo) ⭐ 855 | 🐛 5 | 🌐 Go | 📅 2026-09-06) - Soccer matches.
+* <b><code>  3900⭐</code></b> <b><code>   255🍴</code></b> [newsboat](https://github.com/newsboat/newsboat) ⭐ 3,902 | 🐛 409 | 🌐 C++ | 📅 2026-09-05) - An extendable RSS feed reader for text terminals.
+* <b><code>   855⭐</code></b> <b><code>    61🍴</code></b> [golazo](https://github.com/0xjuanma/golazo) ⭐ 858 | 🐛 5 | 🌐 Go | 📅 2026-09-07) - Soccer matches.
 * <b><code>   160⭐</code></b> <b><code>     4🍴</code></b> [mal-cli](https://github.com/L4z3x/mal-cli) ⭐ 160 | 🐛 0 | 🌐 Rust | 📅 2025-07-17) - MyAnimeList client.
 
 ### Music
 
-* <b><code> 15625⭐</code></b> <b><code>  2097🍴</code></b> [beets](https://github.com/beetbox/beets) ⭐ 15,628 | 🐛 711 | 🌐 Python | 📅 2026-09-07) - Music library manager and tagger.
-* <b><code>  6236⭐</code></b> <b><code>   522🍴</code></b> [cmus](https://github.com/cmus/cmus) ⭐ 6,236 | 🐛 219 | 🌐 C | 📅 2026-08-12) - Small, fast and powerful console music player.
-* <b><code>  4833⭐</code></b> <b><code>   321🍴</code></b> [musikcube](https://github.com/clangen/musikcube) ⭐ 4,834 | 🐛 178 | 🌐 C++ | 📅 2026-03-23) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
-* <b><code>  4016⭐</code></b> <b><code>   257🍴</code></b> [cliamp](https://github.com/bjarneo/cliamp) ⭐ 4,025 | 🐛 85 | 🌐 Go | 📅 2026-09-05) - Winamp-inspired local, streaming and radio player.
-* <b><code>  2761⭐</code></b> <b><code>   423🍴</code></b> [mpd](https://github.com/MusicPlayerDaemon/MPD) ⭐ 2,762 | 🐛 167 | 🌐 C++ | 📅 2026-09-04) - Music Player Daemon.
+* <b><code> 15625⭐</code></b> <b><code>  2097🍴</code></b> [beets](https://github.com/beetbox/beets) ⭐ 15,640 | 🐛 711 | 🌐 Python | 📅 2026-09-08) - Music library manager and tagger.
+* <b><code>  6236⭐</code></b> <b><code>   522🍴</code></b> [cmus](https://github.com/cmus/cmus) ⭐ 6,237 | 🐛 219 | 🌐 C | 📅 2026-08-12) - Small, fast and powerful console music player.
+* <b><code>  4833⭐</code></b> <b><code>   321🍴</code></b> [musikcube](https://github.com/clangen/musikcube) ⭐ 4,833 | 🐛 178 | 🌐 C++ | 📅 2026-03-23) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
+* <b><code>  4016⭐</code></b> <b><code>   257🍴</code></b> [cliamp](https://github.com/bjarneo/cliamp) ⭐ 4,047 | 🐛 83 | 🌐 Go | 📅 2026-09-07) - Winamp-inspired local, streaming and radio player.
+* <b><code>  2761⭐</code></b> <b><code>   423🍴</code></b> [mpd](https://github.com/MusicPlayerDaemon/MPD) ⭐ 2,764 | 🐛 167 | 🌐 C++ | 📅 2026-09-04) - Music Player Daemon.
 * <b><code>  2479⭐</code></b> <b><code>   245🍴</code></b> [ncmpcpp](https://github.com/arybczak/ncmpcpp) ⭐ 2,479 | 🐛 226 | 🌐 C++ | 📅 2026-06-25) - mpd client.
-* <b><code>  2193⭐</code></b> <b><code>    97🍴</code></b> [termusic](https://github.com/tramhao/termusic) ⭐ 2,195 | 🐛 51 | 🌐 Rust | 📅 2026-09-07) - Music player in rust with download capabilities.
-* <b><code>  1446⭐</code></b> <b><code>   157🍴</code></b> [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) ⭐ 1,446 | 🐛 48 | 🌐 Roff | 📅 2021-01-27) - Instant music downloader.
-* <b><code>  1313⭐</code></b> <b><code>   241🍴</code></b> [spotatui](https://github.com/LargeModGames/spotatui) ⭐ 1,316 | 🐛 31 | 🌐 Rust | 📅 2026-09-06) - Spotify client.
-* <b><code>   596⭐</code></b> <b><code>    33🍴</code></b> [radio-active](https://github.com/deep5050/radio-active) ⭐ 597 | 🐛 16 | 🌐 Python | 📅 2026-06-30) - Internet radio player with 40k+ stations.
-* <b><code>   496⭐</code></b> <b><code>    40🍴</code></b> [ytm-player](https://github.com/peternaame-boop/ytm-player) ⭐ 496 | 🐛 13 | 🌐 Python | 📅 2026-09-07) - YouTube Music player.
+* <b><code>  2193⭐</code></b> <b><code>    97🍴</code></b> [termusic](https://github.com/tramhao/termusic) ⭐ 2,195 | 🐛 50 | 🌐 Rust | 📅 2026-09-08) - Music player in rust with download capabilities.
+* <b><code>  1446⭐</code></b> <b><code>   157🍴</code></b> [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) ⭐ 1,445 | 🐛 48 | 🌐 Roff | 📅 2021-01-27) - Instant music downloader.
+* <b><code>  1313⭐</code></b> <b><code>   241🍴</code></b> [spotatui](https://github.com/LargeModGames/spotatui) ⭐ 1,317 | 🐛 32 | 🌐 Rust | 📅 2026-09-07) - Spotify client.
+* <b><code>   596⭐</code></b> <b><code>    33🍴</code></b> [radio-active](https://github.com/deep5050/radio-active) ⭐ 597 | 🐛 17 | 🌐 Python | 📅 2026-06-30) - Internet radio player with 40k+ stations.
+* <b><code>   496⭐</code></b> <b><code>    40🍴</code></b> [ytm-player](https://github.com/peternaame-boop/ytm-player) ⭐ 495 | 🐛 11 | 🌐 Python | 📅 2026-09-08) - YouTube Music player.
 * <b><code>   435⭐</code></b> <b><code>    29🍴</code></b> [itunes-remote](https://github.com/mischah/itunes-remote) ⭐ 435 | 🐛 10 | 🌐 JavaScript | 📅 2020-03-27) - Control iTunes via CLI.
 * <b><code>   346⭐</code></b> <b><code>    37🍴</code></b> [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) ⭐ 346 | 🐛 453 | 🌐 Python | 📅 2023-03-07) - Spotify lyrics.
 * <b><code>   263⭐</code></b> <b><code>    22🍴</code></b> [dzr](https://github.com/yne/dzr) ⭐ 263 | 🐛 3 | 🌐 Shell | 📅 2026-03-15) - deezer.com player.
 * <b><code>   163⭐</code></b> <b><code>    13🍴</code></b> [somafm-cli](https://github.com/rockymadden/somafm-cli) ⭐ 163 | 🐛 9 | 🌐 Shell | 📅 2024-06-30) - Listen to SomaFM in your terminal.
-* <b><code>   158⭐</code></b> <b><code>     0🍴</code></b> [mpvc](https://github.com/gmt4/mpvc) ⭐ 158 | 🐛 1 | 🌐 Shell | 📅 2026-09-07) - Music player interfacing mpv.
+* <b><code>   158⭐</code></b> <b><code>     0🍴</code></b> [mpvc](https://github.com/gmt4/mpvc) ⭐ 158 | 🐛 1 | 🌐 Shell | 📅 2026-09-08) - Music player interfacing mpv.
 * <b><code>   107⭐</code></b> <b><code>     9🍴</code></b> [tunein-cli](https://github.com/tsirysndr/tunein-cli) ⭐ 107 | 🐛 6 | 🌐 Rust | 📅 2026-09-05) - TuneIn and Radio Browser client.
 * <b><code>    71⭐</code></b> <b><code>     6🍴</code></b> [TUISIC](https://github.com/Dark-Kernel/tuisic) ⭐ 71 | 🐛 7 | 🌐 C++ | 📅 2026-06-28) - Login-free music streaming.
 * 🌎 [pianobar](6xq.net/pianobar/) - Pandora client.
@@ -140,12 +140,12 @@ Inspired by the <b><code>503419⭐</code></b> <b><code> 36745🍴</code></b> [a
 
 ### Video
 
-* <b><code>189290⭐</code></b> <b><code> 16416🍴</code></b> [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 189,506 | 🐛 2,634 | 🌐 Python | 📅 2026-08-30) - A `youtube-dl` fork with additional features and fixes.
-* <b><code>141124⭐</code></b> <b><code> 10669🍴</code></b> [youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐ 141,145 | 🐛 4,126 | 🌐 Python | 📅 2026-02-19) - Download videos from YouTube.com and many other video sites.
-* <b><code> 11735⭐</code></b> <b><code>  1196🍴</code></b> [streamlink](https://github.com/streamlink/streamlink) ⭐ 11,738 | 🐛 72 | 🌐 Python | 📅 2026-09-06) - Extract streams from various websites to a video player of your choosing.
+* <b><code>189290⭐</code></b> <b><code> 16416🍴</code></b> [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 189,740 | 🐛 2,636 | 🌐 Python | 📅 2026-08-30) - A `youtube-dl` fork with additional features and fixes.
+* <b><code>141124⭐</code></b> <b><code> 10669🍴</code></b> [youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐ 141,159 | 🐛 4,125 | 🌐 Python | 📅 2026-02-19) - Download videos from YouTube.com and many other video sites.
+* <b><code> 11735⭐</code></b> <b><code>  1196🍴</code></b> [streamlink](https://github.com/streamlink/streamlink) ⭐ 11,742 | 🐛 72 | 🌐 Python | 📅 2026-09-07) - Extract streams from various websites to a video player of your choosing.
 * <b><code>  8788⭐</code></b> <b><code>   672🍴</code></b> [mps-youtube](https://github.com/mps-youtube/mps-youtube) ⭐ 8,789 | 🐛 227 | 🌐 Python | 📅 2026-03-04) - Youtube player.
-* <b><code>  5485⭐</code></b> <b><code>   371🍴</code></b> [editly](https://github.com/mifi/editly) ⭐ 5,485 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12) - Declarative video editing.
-* <b><code>   415⭐</code></b> <b><code>    61🍴</code></b> [capcut-cli](https://github.com/renezander030/capcut-cli) ⭐ 418 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-06) - Edit CapCut/JianYing projects.
+* <b><code>  5485⭐</code></b> <b><code>   371🍴</code></b> [editly](https://github.com/mifi/editly) ⭐ 5,486 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12) - Declarative video editing.
+* <b><code>   415⭐</code></b> <b><code>    61🍴</code></b> [capcut-cli](https://github.com/renezander030/capcut-cli) ⭐ 424 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-06) - Edit CapCut/JianYing projects.
 * <b><code>    37⭐</code></b> <b><code>     2🍴</code></b> [cinema](https://github.com/marm00/cinema) ⭐ 37 | 🐛 0 | 🌐 C | 📅 2026-06-02) - Multiviewer for videos and streams.
 * 🌎 [mpv](mpv.io) - Superior video player.
 
@@ -171,40 +171,40 @@ Inspired by the <b><code>503419⭐</code></b> <b><code> 36745🍴</code></b> [a
 
 ### Chat
 
-* <b><code>  3134⭐</code></b> <b><code>   395🍴</code></b> [irssi](https://github.com/irssi/irssi) ⭐ 3,134 | 🐛 233 | 🌐 C | 📅 2026-02-01) - IRC chat client.
-* <b><code>  1420⭐</code></b> <b><code>    74🍴</code></b> [concord](https://github.com/chojs23/concord) ⭐ 1,443 | 🐛 39 | 🌐 Rust | 📅 2026-09-04) - Discord client.
-* <b><code>   545⭐</code></b> <b><code>    35🍴</code></b> [kirc](https://github.com/mcpcpc/kirc) ⭐ 545 | 🐛 0 | 🌐 C | 📅 2026-01-02) - Tiny IRC client.
+* <b><code>  3134⭐</code></b> <b><code>   395🍴</code></b> [irssi](https://github.com/irssi/irssi) ⭐ 3,134 | 🐛 234 | 🌐 C | 📅 2026-02-01) - IRC chat client.
+* <b><code>  1420⭐</code></b> <b><code>    74🍴</code></b> [concord](https://github.com/chojs23/concord) ⭐ 1,448 | 🐛 43 | 🌐 Rust | 📅 2026-09-07) - Discord client.
+* <b><code>   545⭐</code></b> <b><code>    35🍴</code></b> [kirc](https://github.com/mcpcpc/kirc) ⭐ 544 | 🐛 0 | 🌐 C | 📅 2026-01-02) - Tiny IRC client.
 * 🌎 [WeeChat](weechat.org/) - Fast, light and extensible chat client.
 
 ## Development
 
-* <b><code> 35656⭐</code></b> <b><code>   838🍴</code></b> [just](https://github.com/casey/just) ⭐ 35,668 | 🐛 171 | 🌐 Rust | 📅 2026-09-01) - Modern `make`-like command runner.
-* <b><code>  8184⭐</code></b> <b><code>   198🍴</code></b> [grex](https://github.com/pemistahl/grex) ⭐ 8,184 | 🐛 18 | 🌐 Rust | 📅 2026-02-27) - Generate regular expressions from user-provided test cases.
+* <b><code> 35656⭐</code></b> <b><code>   838🍴</code></b> [just](https://github.com/casey/just) ⭐ 35,685 | 🐛 171 | 🌐 Rust | 📅 2026-09-01) - Modern `make`-like command runner.
+* <b><code>  8184⭐</code></b> <b><code>   198🍴</code></b> [grex](https://github.com/pemistahl/grex) ⭐ 8,183 | 🐛 18 | 🌐 Rust | 📅 2026-02-27) - Generate regular expressions from user-provided test cases.
 * <b><code>  4113⭐</code></b> <b><code>   381🍴</code></b> [rebound](https://github.com/shobrook/rebound) ⭐ 4,114 | 🐛 24 | 🌐 Python | 📅 2022-02-16) - Fetch Stack Overflow results on compiler error.
 * <b><code>   730⭐</code></b> <b><code>    16🍴</code></b> [add-gitignore](https://github.com/TejasQ/add-gitignore) ⭐ 730 | 🐛 5 | 🌐 JavaScript | 📅 2023-11-20) - Interactively generate a .gitignore for your project based on your needs.
 * <b><code>   721⭐</code></b> <b><code>    31🍴</code></b> [bitwise](https://github.com/mellowcandle/bitwise) ⭐ 721 | 🐛 12 | 🌐 C | 📅 2026-09-05) - Base conversion and bit manipulation.
-* <b><code>   700⭐</code></b> <b><code>    40🍴</code></b> [bcal](https://github.com/jarun/bcal) ⭐ 701 | 🐛 0 | 🌐 C | 📅 2026-09-05) - Byte CALculator for storage conversions and calculations.
+* <b><code>   700⭐</code></b> <b><code>    40🍴</code></b> [bcal](https://github.com/jarun/bcal) ⭐ 702 | 🐛 0 | 🌐 C | 📅 2026-09-05) - Byte CALculator for storage conversions and calculations.
 * <b><code>   602⭐</code></b> <b><code>    55🍴</code></b> [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) ⭐ 602 | 🐛 16 | 🌐 TypeScript | 📅 2026-02-06) - Create pretty HTML from diffs.
 * <b><code>   590⭐</code></b> <b><code>    19🍴</code></b> [legit](https://github.com/captainsafia/legit) ⭐ 590 | 🐛 10 | 🌐 JavaScript | 📅 2019-05-20) - Generate Open Source licences as files or file headers.
 * <b><code>   386⭐</code></b> <b><code>    21🍴</code></b> [cgasm](https://github.com/bnagy/cgasm) ⭐ 386 | 🐛 3 | 🌐 PLpgSQL | 📅 2020-09-19) - x86 assembly documentation.
 * <b><code>   366⭐</code></b> <b><code>    17🍴</code></b> [is-up-cli](https://github.com/sindresorhus/is-up-cli) ⭐ 366 | 🐛 1 | 🌐 JavaScript | 📅 2022-04-23) - Check if a domain is up.
 * <b><code>   290⭐</code></b> <b><code>    16🍴</code></b> [foy](https://github.com/zaaack/foy) ⭐ 290 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-12) - Lightweight general purpose task runner/build tool.
-* <b><code>   208⭐</code></b> <b><code>     7🍴</code></b> [mklicense](https://github.com/cezaraugusto/mklicense) ⭐ 208 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-03) - Create a custom LICENSE file painlessly with customized info.
+* <b><code>   208⭐</code></b> <b><code>     7🍴</code></b> [mklicense](https://github.com/cezaraugusto/mklicense) ⭐ 209 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-03) - Create a custom LICENSE file painlessly with customized info.
 * <b><code>   170⭐</code></b> <b><code>    14🍴</code></b> [iola](https://github.com/pvarentsov/iola) ⭐ 170 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-12) - Socket client with REST API.
 * <b><code>   139⭐</code></b> <b><code>    12🍴</code></b> [mk](https://github.com/pycontribs/mk) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2026-09-07) - Exposes most common actions you can run in unfamiliar repos.
 * <b><code>    80⭐</code></b> <b><code>     4🍴</code></b> [dotenv-diff](https://github.com/Chrilleweb/dotenv-diff) ⭐ 80 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-06) - Validate environment variable usage in a codebase.
-* <b><code>    80⭐</code></b> <b><code>     1🍴</code></b> [ota](https://github.com/ota-run/ota) ⭐ 80 | 🐛 1 | 🌐 Rust | 📅 2026-09-04) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
+* <b><code>    80⭐</code></b> <b><code>     1🍴</code></b> [ota](https://github.com/ota-run/ota) ⭐ 80 | 🐛 1 | 🌐 Rust | 📅 2026-09-07) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
 * <b><code>    40⭐</code></b> <b><code>     3🍴</code></b> [reachable](https://github.com/italolelis/reachable) ⭐ 40 | 🐛 0 | 🌐 Go | 📅 2021-07-03) - Check if a domain is up.
 
 ### Text Editors
 
-* <b><code>102164⭐</code></b> <b><code>  7083🍴</code></b> [neovim](https://github.com/neovim/neovim) ⭐ 102,202 | 🐛 1,895 | 🌐 Vim Script | 📅 2026-09-07) - Modern vim.
-* <b><code> 46095⭐</code></b> <b><code>  3724🍴</code></b> [helix](https://github.com/helix-editor/helix) ⭐ 46,113 | 🐛 1,643 | 🌐 Rust | 📅 2026-09-01) - Modal editor inspired by kakoune.
-* <b><code> 40861⭐</code></b> <b><code>  6138🍴</code></b> [vim](https://github.com/vim/vim) ⭐ 40,866 | 🐛 1,642 | 🌐 Vim Script | 📅 2026-09-06) - Vim - the ubiquitous text editor.
-* <b><code> 29523⭐</code></b> <b><code>  1359🍴</code></b> [micro](https://github.com/zyedidia/micro) ⭐ 29,536 | 🐛 975 | 🌐 Go | 📅 2026-09-07) - A simple and intuitive editor.
-* <b><code> 14542⭐</code></b> <b><code>   730🍴</code></b> [Microsoft Edit](https://github.com/microsoft/edit) ⭐ 14,543 | 🐛 174 | 🌐 Rust | 📅 2026-08-27) - Simple editor.
-* <b><code> 11048⭐</code></b> <b><code>   781🍴</code></b> [kakoune](https://github.com/mawww/kakoune) ⭐ 11,048 | 🐛 916 | 🌐 C++ | 📅 2026-09-06) - Modal editor inspired by vim.
-* <b><code>  5188⭐</code></b> <b><code>  1401🍴</code></b> [emacs](https://github.com/emacs-mirror/emacs) ⭐ 5,190 | 🐛 16 | 🌐 Emacs Lisp | 📅 2026-09-06) - An extensible, customizable, free/libre text editor — and more.
+* <b><code>102164⭐</code></b> <b><code>  7083🍴</code></b> [neovim](https://github.com/neovim/neovim) ⭐ 102,213 | 🐛 1,902 | 🌐 Vim Script | 📅 2026-09-08) - Modern vim.
+* <b><code> 46095⭐</code></b> <b><code>  3724🍴</code></b> [helix](https://github.com/helix-editor/helix) ⭐ 46,130 | 🐛 1,645 | 🌐 Rust | 📅 2026-09-01) - Modal editor inspired by kakoune.
+* <b><code> 40861⭐</code></b> <b><code>  6138🍴</code></b> [vim](https://github.com/vim/vim) ⭐ 40,868 | 🐛 1,636 | 🌐 Vim Script | 📅 2026-09-07) - Vim - the ubiquitous text editor.
+* <b><code> 29523⭐</code></b> <b><code>  1359🍴</code></b> [micro](https://github.com/zyedidia/micro) ⭐ 29,543 | 🐛 978 | 🌐 Go | 📅 2026-09-08) - A simple and intuitive editor.
+* <b><code> 14542⭐</code></b> <b><code>   730🍴</code></b> [Microsoft Edit](https://github.com/microsoft/edit) ⭐ 14,548 | 🐛 174 | 🌐 Rust | 📅 2026-08-27) - Simple editor.
+* <b><code> 11048⭐</code></b> <b><code>   781🍴</code></b> [kakoune](https://github.com/mawww/kakoune) ⭐ 11,049 | 🐛 916 | 🌐 C++ | 📅 2026-09-06) - Modal editor inspired by vim.
+* <b><code>  5188⭐</code></b> <b><code>  1401🍴</code></b> [emacs](https://github.com/emacs-mirror/emacs) ⭐ 5,192 | 🐛 16 | 🌐 Emacs Lisp | 📅 2026-09-08) - An extensible, customizable, free/libre text editor — and more.
 * <b><code>   698⭐</code></b> <b><code>    18🍴</code></b> [o](https://github.com/xyproto/o) ⭐ 699 | 🐛 0 | 🌐 Go | 📅 2026-09-04) - Configuration-free text editor and IDE.
 * <b><code>    22⭐</code></b> <b><code>     3🍴</code></b> [Prosaic](https://github.com/DimwitLabs/Prosaic) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-08-28) - A writer-first app crafted for long-form writing.
 
@@ -232,29 +232,29 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ### Database
 
-* <b><code> 13373⭐</code></b> <b><code>   608🍴</code></b> [pgcli](https://github.com/dbcli/pgcli) ⭐ 13,373 | 🐛 38 | 🌐 Python | 📅 2026-09-04) - Postgres client with autocompletion and syntax highlighting.
-* <b><code> 11973⭐</code></b> <b><code>   698🍴</code></b> [mycli](https://github.com/dbcli/mycli) ⭐ 11,974 | 🐛 2 | 🌐 Python | 📅 2026-09-05) - MySQL client with autocompletion and syntax highlighting.
-* <b><code> 10099⭐</code></b> <b><code>   403🍴</code></b> [usql](https://github.com/xo/usql) ⭐ 10,099 | 🐛 119 | 🌐 Go | 📅 2026-06-19) - Universal SQL client with autocompletion and syntax highlighting.
-* <b><code>  2741⭐</code></b> <b><code>   119🍴</code></b> [iredis](https://github.com/laixintao/iredis) ⭐ 2,741 | 🐛 52 | 🌐 Python | 📅 2026-09-02) - Redis client with autocompletion and syntax highlighting.
+* <b><code> 13373⭐</code></b> <b><code>   608🍴</code></b> [pgcli](https://github.com/dbcli/pgcli) ⭐ 13,375 | 🐛 40 | 🌐 Python | 📅 2026-09-04) - Postgres client with autocompletion and syntax highlighting.
+* <b><code> 11973⭐</code></b> <b><code>   698🍴</code></b> [mycli](https://github.com/dbcli/mycli) ⭐ 11,974 | 🐛 1 | 🌐 Python | 📅 2026-09-07) - MySQL client with autocompletion and syntax highlighting.
+* <b><code> 10099⭐</code></b> <b><code>   403🍴</code></b> [usql](https://github.com/xo/usql) ⭐ 10,102 | 🐛 119 | 🌐 Go | 📅 2026-06-19) - Universal SQL client with autocompletion and syntax highlighting.
+* <b><code>  2741⭐</code></b> <b><code>   119🍴</code></b> [iredis](https://github.com/laixintao/iredis) ⭐ 2,743 | 🐛 52 | 🌐 Python | 📅 2026-09-02) - Redis client with autocompletion and syntax highlighting.
 * <b><code>   658⭐</code></b> <b><code>   150🍴</code></b> [sqlline](https://github.com/julianhyde/sqlline) ⭐ 658 | 🐛 63 | 🌐 Java | 📅 2023-07-07) - Shell for issuing SQL via JDBC.
-* <b><code>   268⭐</code></b> <b><code>    19🍴</code></b> [squix](https://github.com/eduardofuncao/squix) ⭐ 268 | 🐛 13 | 🌐 Go | 📅 2026-08-31) - SQL client with query management and interactive results.
+* <b><code>   268⭐</code></b> <b><code>    19🍴</code></b> [squix](https://github.com/eduardofuncao/squix) ⭐ 267 | 🐛 13 | 🌐 Go | 📅 2026-08-31) - SQL client with query management and interactive results.
 * <b><code>    75⭐</code></b> <b><code>    17🍴</code></b> [pgxcli](https://github.com/Balaji01-4D/pgxcli) ⭐ 75 | 🐛 5 | 🌐 Go | 📅 2026-08-30) - Feature-complete PostgreSQL client in Go.
 * <b><code>    62⭐</code></b> <b><code>     8🍴</code></b> [rdsai-cli](https://github.com/aliyun/rdsai-cli) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2026-05-02) - AI-powered MySQL client.
 
 ### Devops
 
-* <b><code> 43290⭐</code></b> <b><code>  2725🍴</code></b> [pm2](https://github.com/Unitech/pm2) ⭐ 43,287 | 🐛 1,096 | 🌐 JavaScript | 📅 2026-09-04) - Production Process Manager for Node.js.
-* <b><code> 34514⭐</code></b> <b><code>  2278🍴</code></b> [k9s](https://github.com/derailed/k9s) ⭐ 34,525 | 🐛 82 | 🌐 Go | 📅 2026-09-06) - Manage Kubernetes Clusters.
+* <b><code> 43290⭐</code></b> <b><code>  2725🍴</code></b> [pm2](https://github.com/Unitech/pm2) ⭐ 43,290 | 🐛 1,096 | 🌐 JavaScript | 📅 2026-09-04) - Production Process Manager for Node.js.
+* <b><code> 34514⭐</code></b> <b><code>  2278🍴</code></b> [k9s](https://github.com/derailed/k9s) ⭐ 34,539 | 🐛 85 | 🌐 Go | 📅 2026-09-07) - Manage Kubernetes Clusters.
 * <b><code>  5303⭐</code></b> <b><code>   279🍴</code></b> [SAWS](https://github.com/donnemartin/saws) ⭐ 5,302 | 🐛 39 | 🌐 Python | 📅 2024-04-02) - Supercharged AWS CLI.
-* <b><code>  4907⭐</code></b> <b><code>   905🍴</code></b> [s3cmd](https://github.com/s3tools/s3cmd) ⭐ 4,907 | 🐛 311 | 🌐 Python | 📅 2025-10-22) - Fully-Featured S3 client.
-* <b><code>  4183⭐</code></b> <b><code>   345🍴</code></b> [s5cmd](https://github.com/peak/s5cmd) ⭐ 4,183 | 🐛 191 | 🌐 Go | 📅 2025-06-13) - Blazing fast S3 and local filesystem execution tool.
+* <b><code>  4907⭐</code></b> <b><code>   905🍴</code></b> [s3cmd](https://github.com/s3tools/s3cmd) ⭐ 4,908 | 🐛 311 | 🌐 Python | 📅 2025-10-22) - Fully-Featured S3 client.
+* <b><code>  4183⭐</code></b> <b><code>   345🍴</code></b> [s5cmd](https://github.com/peak/s5cmd) ⭐ 4,184 | 🐛 191 | 🌐 Go | 📅 2025-06-13) - Blazing fast S3 and local filesystem execution tool.
 * <b><code>  2286⭐</code></b> <b><code>    74🍴</code></b> [logdy](https://github.com/logdyhq/logdy-core) ⭐ 2,286 | 🐛 37 | 🌐 Go | 📅 2025-08-25) - Supercharge terminal logs with web UI.
 * <b><code>  1514⭐</code></b> <b><code>   149🍴</code></b> [ops](https://github.com/nanovms/ops) ⭐ 1,514 | 🐛 144 | 🌐 Go | 📅 2026-08-23) - Unikernel compilation and orchestration tool.
 * <b><code>  1449⭐</code></b> <b><code>    60🍴</code></b> [cronboard](https://github.com/antoniorodr/Cronboard) ⭐ 1,449 | 🐛 6 | 🌐 Python | 📅 2026-07-29) - Dashboard for managing cron jobs.
-* <b><code>  1331⭐</code></b> <b><code>   143🍴</code></b> [flog](https://github.com/mingrammer/flog) ⭐ 1,331 | 🐛 32 | 🌐 Go | 📅 2025-06-05) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
-* <b><code>  1168⭐</code></b> <b><code>   117🍴</code></b> [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) ⭐ 1,168 | 🐛 32 | 🌐 JavaScript | 📅 2025-05-10) - Deploy static websites to <b><code> 23059⭐</code></b> <b><code>  1548🍴</code></b> [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview) ⭐ 23,060 | 🐛 8 | 📅 2025-05-01).
-* <b><code>  1129⭐</code></b> <b><code>    61🍴</code></b> [updo](https://github.com/Owloops/updo) ⭐ 1,131 | 🐛 6 | 🌐 Go | 📅 2026-05-26) - Website monitoring tool.
-* <b><code>   969⭐</code></b> <b><code>   149🍴</code></b> [updatecli](https://github.com/updatecli/updatecli) ⭐ 969 | 🐛 129 | 🌐 Go | 📅 2026-09-07) - A declarative dependency management tool.
+* <b><code>  1331⭐</code></b> <b><code>   143🍴</code></b> [flog](https://github.com/mingrammer/flog) ⭐ 1,332 | 🐛 32 | 🌐 Go | 📅 2025-06-05) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+* <b><code>  1168⭐</code></b> <b><code>   117🍴</code></b> [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) ⭐ 1,168 | 🐛 32 | 🌐 JavaScript | 📅 2025-05-10) - Deploy static websites to <b><code> 23059⭐</code></b> <b><code>  1548🍴</code></b> [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview) ⭐ 23,059 | 🐛 8 | 📅 2025-05-01).
+* <b><code>  1129⭐</code></b> <b><code>    61🍴</code></b> [updo](https://github.com/Owloops/updo) ⭐ 1,132 | 🐛 6 | 🌐 Go | 📅 2026-05-26) - Website monitoring tool.
+* <b><code>   969⭐</code></b> <b><code>   149🍴</code></b> [updatecli](https://github.com/updatecli/updatecli) ⭐ 970 | 🐛 124 | 🌐 Go | 📅 2026-09-07) - A declarative dependency management tool.
 * <b><code>   894⭐</code></b> <b><code>    40🍴</code></b> [bencher](https://github.com/bencherdev/bencher) ⭐ 894 | 🐛 165 | 🌐 Rust | 📅 2026-08-30) - A continuous benchmarking tool.
 * <b><code>   862⭐</code></b> <b><code>    46🍴</code></b> [PingMe](https://github.com/kha7iq/pingme) ⭐ 862 | 🐛 4 | 🌐 Go | 📅 2026-07-15) - Send messages/alerts to multiple messaging platforms & email.
 * <b><code>   647⭐</code></b> <b><code>    18🍴</code></b> [Discharge](https://github.com/brandonweiss/discharge) ⭐ 647 | 🐛 20 | 🌐 JavaScript | 📅 2021-04-09) - Deploy static websites to Amazon S3.
@@ -264,7 +264,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ### Docker
 
-* <b><code> 52745⭐</code></b> <b><code>  1686🍴</code></b> [lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 52,753 | 🐛 299 | 🌐 Go | 📅 2026-04-19) - Simple docker/docker-compose interface.
+* <b><code> 52745⭐</code></b> <b><code>  1686🍴</code></b> [lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 52,756 | 🐛 299 | 🌐 Go | 📅 2026-04-19) - Simple docker/docker-compose interface.
 * <b><code> 17836⭐</code></b> <b><code>   587🍴</code></b> [ctop](https://github.com/bcicen/ctop) ⭐ 17,838 | 🐛 120 | 🌐 Go | 📅 2024-07-08) - Top like interface for container metrics.
 * <b><code>  4033⭐</code></b> <b><code>   162🍴</code></b> [dockly](https://github.com/lirantal/dockly) ⭐ 4,033 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-23) - Interactively manage containers.
 * <b><code>   724⭐</code></b> <b><code>    52🍴</code></b> [kool](https://github.com/kool-dev/kool) ⭐ 723 | 🐛 11 | 🌐 Go | 📅 2026-08-15) - Web development with containers made easy.
@@ -274,44 +274,44 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ### Release
 
-* <b><code> 24025⭐</code></b> <b><code>  1807🍴</code></b> [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,026 | 🐛 405 | 🌐 JavaScript | 📅 2026-09-05) - Fully automated version management and package publishing.
-* <b><code>  9043⭐</code></b> <b><code>   573🍴</code></b> [release-it](https://github.com/webpro/release-it) ⭐ 9,046 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-09) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+* <b><code> 24025⭐</code></b> <b><code>  1807🍴</code></b> [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,028 | 🐛 404 | 🌐 JavaScript | 📅 2026-09-05) - Fully automated version management and package publishing.
+* <b><code>  9043⭐</code></b> <b><code>   573🍴</code></b> [release-it](https://github.com/webpro/release-it) ⭐ 9,050 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-09) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 * <b><code>  7713⭐</code></b> <b><code>   311🍴</code></b> [np](https://github.com/sindresorhus/np) ⭐ 7,714 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-01) - A better `npm publish`.
 * <b><code>  3585⭐</code></b> <b><code>   117🍴</code></b> [release](https://github.com/vercel/release) ⭐ 3,585 | 🐛 46 | 🌐 JavaScript | 📅 2026-05-21) - Generate changelogs with a single command.
 * <b><code>   920⭐</code></b> <b><code>    46🍴</code></b> [clog](https://github.com/clog-tool/clog-cli) ⭐ 920 | 🐛 27 | 🌐 Rust | 📅 2024-08-15) - A conventional changelog for the rest of us.
 
 ### Npm
 
-* <b><code> 10310⭐</code></b> <b><code>   372🍴</code></b> [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,311 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-06) - Find newer versions of package dependencies than what your package.json allows.
+* <b><code> 10310⭐</code></b> <b><code>   372🍴</code></b> [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,312 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-08) - Find newer versions of package dependencies than what your package.json allows.
 * <b><code>   360⭐</code></b> <b><code>     6🍴</code></b> [wipe-modules](https://github.com/bntzio/wipe-modules) ⭐ 360 | 🐛 4 | 🌐 Shell | 📅 2023-01-30) - Remove `node_modules` of inactive projects.
 * <b><code>   289⭐</code></b> <b><code>    19🍴</code></b> [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) ⭐ 289 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-15) - Check whether a package name is available on npm.
 * <b><code>   198⭐</code></b> <b><code>     8🍴</code></b> [npm-home](https://github.com/sindresorhus/npm-home) ⭐ 198 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-25) - Open the npm page of the package in the current directory.
-* <b><code>   109⭐</code></b> <b><code>     9🍴</code></b> [updates](https://github.com/silverwind/updates) ⭐ 109 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-04) - Flexible npm dependency update tool.
+* <b><code>   109⭐</code></b> <b><code>     9🍴</code></b> [updates](https://github.com/silverwind/updates) ⭐ 109 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-07) - Flexible npm dependency update tool.
 * <b><code>    41⭐</code></b> <b><code>     3🍴</code></b> [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) ⭐ 41 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-27) - Check for deprecated dependencies.
 * <b><code>    32⭐</code></b> <b><code>     5🍴</code></b> [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-28) - Get user info of a npm user.
 * <b><code>    28⭐</code></b> <b><code>     3🍴</code></b> [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2025-06-05) - Find the root directory of a npm package.
 
 ### Boilerplate
 
-* <b><code> 25076⭐</code></b> <b><code>  2272🍴</code></b> [cookiecutter](https://github.com/audreyr/cookiecutter) ⭐ 25,078 | 🐛 311 | 🌐 Python | 📅 2026-04-01) - Create projects from templates.
+* <b><code> 25076⭐</code></b> <b><code>  2272🍴</code></b> [cookiecutter](https://github.com/audreyr/cookiecutter) ⭐ 25,081 | 🐛 311 | 🌐 Python | 📅 2026-04-01) - Create projects from templates.
 * <b><code>  3965⭐</code></b> <b><code>   407🍴</code></b> [yo](https://github.com/yeoman/yo) ⭐ 3,965 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-01) - Scaffolding tool for running Yeoman generators.
 * <b><code>  1761⭐</code></b> <b><code>   115🍴</code></b> [boilr](https://github.com/tmrts/boilr) ⭐ 1,761 | 🐛 44 | 🌐 Go | 📅 2023-03-07) - Create projects from boilerplate templates.
-* <b><code>   830⭐</code></b> <b><code>   151🍴</code></b> [mevn-cli](https://github.com/madlabsinc/mevn-cli) ⭐ 830 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-20) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+* <b><code>   830⭐</code></b> <b><code>   151🍴</code></b> [mevn-cli](https://github.com/madlabsinc/mevn-cli) ⭐ 831 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-20) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 * <b><code>   130⭐</code></b> <b><code>    15🍴</code></b> [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) ⭐ 130 | 🐛 9 | 🌐 TypeScript | 📅 2023-01-06) - Scaffolding utility for vanilla JS.
 
 ### HTTP Server
 
-* <b><code>  9899⭐</code></b> <b><code>   704🍴</code></b> [serve](https://github.com/vercel/serve) ⭐ 9,899 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-30) - Serve static files (https, CORS, GZIP compression, etc).
+* <b><code>  9899⭐</code></b> <b><code>   704🍴</code></b> [serve](https://github.com/vercel/serve) ⭐ 9,900 | 🐛 149 | 🌐 TypeScript | 📅 2026-06-30) - Serve static files (https, CORS, GZIP compression, etc).
 * <b><code>  1506⭐</code></b> <b><code>   148🍴</code></b> [shell2http](https://github.com/msoap/shell2http) ⭐ 1,505 | 🐛 6 | 🌐 Go | 📅 2026-08-08) - Shell script based HTTP server.
 * <b><code>    75⭐</code></b> <b><code>     3🍴</code></b> [simplehttp](https://github.com/snwfdhmp/simplehttp) ⭐ 75 | 🐛 1 | 🌐 Go | 📅 2023-03-06) - Easily serve a local directory over HTTP.
 
 ### HTTP Client
 
-* <b><code> 38483⭐</code></b> <b><code>  3999🍴</code></b> [HTTPie](https://github.com/httpie/httpie) ⭐ 38,487 | 🐛 337 | 🌐 Python | 📅 2024-12-17) - A user-friendly HTTP client.
+* <b><code> 38483⭐</code></b> <b><code>  3999🍴</code></b> [HTTPie](https://github.com/httpie/httpie) ⭐ 38,486 | 🐛 338 | 🌐 Python | 📅 2024-12-17) - A user-friendly HTTP client.
 * <b><code>  9108⭐</code></b> <b><code>   345🍴</code></b> [HTTP Prompt](https://github.com/eliangcs/http-prompt) ⭐ 9,108 | 🐛 56 | 🌐 Python | 📅 2024-05-21) - Interactive HTTP client featuring autocomplete and syntax highlighting.
+* <b><code>  3714⭐</code></b> <b><code>   137🍴</code></b> [ATAC](https://github.com/Julien-cpsn/ATAC) ⭐ 3,718 | 🐛 20 | 🌐 Rust | 📅 2026-09-03) - A feature-full TUI API client made in Rust.
 * <b><code>  3716⭐</code></b> <b><code>   112🍴</code></b> [curlie](https://github.com/rs/curlie) ⭐ 3,716 | 🐛 25 | 🌐 Go | 📅 2025-12-07) - A curl frontend with the ease of use of HTTPie.
-* <b><code>  3714⭐</code></b> <b><code>   137🍴</code></b> [ATAC](https://github.com/Julien-cpsn/ATAC) ⭐ 3,715 | 🐛 20 | 🌐 Rust | 📅 2026-09-03) - A feature-full TUI API client made in Rust.
-* <b><code>   808⭐</code></b> <b><code>    37🍴</code></b> [httptap](https://github.com/ozeranskii/httptap) ⭐ 809 | 🐛 0 | 🌐 Python | 📅 2026-09-06) - Breakdown and visualize HTTP requests.
+* <b><code>   808⭐</code></b> <b><code>    37🍴</code></b> [httptap](https://github.com/ozeranskii/httptap) ⭐ 809 | 🐛 0 | 🌐 Python | 📅 2026-09-07) - Breakdown and visualize HTTP requests.
 * <b><code>   621⭐</code></b> <b><code>    16🍴</code></b> [ain](https://github.com/jonaslu/ain) ⭐ 621 | 🐛 1 | 🌐 Go | 📅 2025-10-17) - HTTP client with a simple format to organize API endpoints.
 
 ### Testing
@@ -325,17 +325,17 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ## Productivity
 
-* <b><code>  7192⭐</code></b> <b><code>   322🍴</code></b> [Buku](https://github.com/jarun/Buku) ⭐ 7,193 | 🐛 6 | 🌐 Python | 📅 2026-08-16) - Browser-independent bookmark manager.
+* <b><code>  7192⭐</code></b> <b><code>   322🍴</code></b> [Buku](https://github.com/jarun/Buku) ⭐ 7,194 | 🐛 6 | 🌐 Python | 📅 2026-08-16) - Browser-independent bookmark manager.
 * <b><code>  1824⭐</code></b> <b><code>    75🍴</code></b> [ffscreencast](https://github.com/cytopia/ffscreencast) ⭐ 1,824 | 🐛 20 | 🌐 Shell | 📅 2024-07-16) - A ffmpeg screencast with video overlay and multi monitor support.
-* <b><code>  1692⭐</code></b> <b><code>    77🍴</code></b> [jiratui](https://github.com/whyisdifficult/jiratui) ⭐ 1,692 | 🐛 11 | 🌐 Python | 📅 2026-09-05) - TUI app for Jira.
-* <b><code>  1378⭐</code></b> <b><code>   107🍴</code></b> [CookCLI](https://github.com/cooklang/CookCLI) ⭐ 1,379 | 🐛 28 | 🌐 Rust | 📅 2026-09-06) - Full-featured recipe manager.
+* <b><code>  1692⭐</code></b> <b><code>    77🍴</code></b> [jiratui](https://github.com/whyisdifficult/jiratui) ⭐ 1,694 | 🐛 11 | 🌐 Python | 📅 2026-09-05) - TUI app for Jira.
+* <b><code>  1378⭐</code></b> <b><code>   107🍴</code></b> [CookCLI](https://github.com/cooklang/CookCLI) ⭐ 1,380 | 🐛 29 | 🌐 Rust | 📅 2026-09-06) - Full-featured recipe manager.
 * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [doing](https://github.com/ttscoff/doing/) ⭐ 1,291 | 🐛 2 | 🌐 Ruby | 📅 2026-07-27) - Keep track of what you’re doing and track what you’ve done.
 * <b><code>  1186⭐</code></b> <b><code>    42🍴</code></b> [uber-cli](https://github.com/jaebradley/uber-cli) ⚠️ Archived) - Uber client.
 * <b><code>   909⭐</code></b> <b><code>    34🍴</code></b> [terjira](https://github.com/keepcosmos/terjira) ⭐ 909 | 🐛 30 | 🌐 Ruby | 📅 2023-03-15) - Jira client.
 * <b><code>   416⭐</code></b> <b><code>    12🍴</code></b> [OverTime](https://github.com/diit/overtime-cli) ⭐ 416 | 🐛 6 | 🌐 JavaScript | 📅 2025-05-21) - Time-overlap tables for remote teams.
 * <b><code>   273⭐</code></b> <b><code>    13🍴</code></b> [fjira](https://github.com/mk-5/fjira) ⭐ 273 | 🐛 22 | 🌐 Go | 📅 2026-07-07) - Fuzzy finder and TUI application for Jira.
 * <b><code>   251⭐</code></b> <b><code>    15🍴</code></b> [mynav](https://github.com/GianlucaP106/mynav) ⭐ 251 | 🐛 11 | 🌐 Go | 📅 2025-09-28) - Workspace and session management TUI.
-* <b><code>   206⭐</code></b> <b><code>     8🍴</code></b> [tiki](https://github.com/boolean-maybe/tiki) ⭐ 208 | 🐛 10 | 🌐 Go | 📅 2026-08-12) - Markdown-based workflow builder.
+* <b><code>   206⭐</code></b> <b><code>     8🍴</code></b> [tiki](https://github.com/boolean-maybe/tiki) ⭐ 209 | 🐛 10 | 🌐 Go | 📅 2026-08-12) - Markdown-based workflow builder.
 * <b><code>   116⭐</code></b> <b><code>    14🍴</code></b> [hns](https://github.com/primaprashant/hns) ⭐ 116 | 🐛 4 | 🌐 Python | 📅 2026-09-06) - Speech-to-text tool to transcribe voice from microphone.
 * <b><code>    55⭐</code></b> <b><code>    16🍴</code></b> [linear-tui](https://github.com/roeyazroel/linear-tui) ⭐ 55 | 🐛 3 | 🌐 Go | 📅 2026-07-27) - Linear TUI client.
 * <b><code>    47⭐</code></b> <b><code>     3🍴</code></b> [meetup-cli](https://github.com/specious/meetup-cli) ⭐ 47 | 🐛 5 | 🌐 Ruby | 📅 2017-11-25) - Meetup.com client.
@@ -344,28 +344,28 @@ Expose a service running on localhost to the public web for testing and sharing.
 ### Time Tracking
 
 * <b><code>  2538⭐</code></b> <b><code>   257🍴</code></b> [Watson](https://github.com/TailorDev/Watson) ⭐ 2,538 | 🐛 142 | 🌐 Python | 📅 2025-12-15) - Generate reports for clients and manage your time.
-* <b><code>  1653⭐</code></b> <b><code>   117🍴</code></b> [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) ⭐ 1,653 | 🐛 126 | 🌐 C++ | 📅 2026-09-04) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
+* <b><code>  1653⭐</code></b> <b><code>   117🍴</code></b> [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) ⭐ 1,654 | 🐛 126 | 🌐 C++ | 📅 2026-09-04) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 * <b><code>  1510⭐</code></b> <b><code>   117🍴</code></b> [Timetrap](https://github.com/samg/timetrap) ⭐ 1,510 | 🐛 33 | 🌐 Ruby | 📅 2025-03-12) - Simple timetracker.
-* <b><code>  1382⭐</code></b> <b><code>    26🍴</code></b> [arttime](https://github.com/reportaman/arttime) ⭐ 1,384 | 🐛 6 | 🌐 Shell | 📅 2026-08-18) - Featureful timer with native desktop notifications and curated ASCII art.
+* <b><code>  1382⭐</code></b> <b><code>    26🍴</code></b> [arttime](https://github.com/reportaman/arttime) ⭐ 1,385 | 🐛 6 | 🌐 Shell | 📅 2026-08-18) - Featureful timer with native desktop notifications and curated ASCII art.
 * <b><code>   846⭐</code></b> <b><code>    47🍴</code></b> [Bartib](https://github.com/nikolassv/bartib) ⭐ 846 | 🐛 19 | 🌐 Rust | 📅 2026-03-25) - Easy to use time tracking tool.
 * <b><code>   477⭐</code></b> <b><code>    21🍴</code></b> [Tock](https://github.com/kriuchkov/tock) ⭐ 477 | 🐛 5 | 🌐 Go | 📅 2026-08-26) - Powerful time tracking tool.
 * <b><code>   350⭐</code></b> <b><code>    54🍴</code></b> [utt](https://github.com/larose/utt) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-01-08) - Simple time tracking tool.
-* <b><code>   147⭐</code></b> <b><code>    11🍴</code></b> [Helm](https://github.com/0xjuanma/helm) ⭐ 147 | 🐛 2 | 🌐 Go | 📅 2026-07-26) - Minimalistic timer.
-* <b><code>    39⭐</code></b> <b><code>     3🍴</code></b> [Focusd](https://github.com/0xarchit/Focusd) ⭐ 39 | 🐛 0 | 🌐 Go | 📅 2026-08-02) - \[Windows] A local, privacy-first screen time monitor.
+* <b><code>   147⭐</code></b> <b><code>    11🍴</code></b> [Helm](https://github.com/0xjuanma/helm) ⭐ 147 | 🐛 4 | 🌐 Go | 📅 2026-09-07) - Minimalistic timer.
+* <b><code>    39⭐</code></b> <b><code>     3🍴</code></b> [Focusd](https://github.com/0xarchit/Focusd) ⭐ 40 | 🐛 0 | 🌐 Go | 📅 2026-08-02) - \[Windows] A local, privacy-first screen time monitor.
 
 ### Note Taking, Lists, Task Management
 
-* <b><code>  9340⭐</code></b> <b><code>   395🍴</code></b> [taskbook](https://github.com/klaussinani/taskbook) ⭐ 9,340 | 🐛 102 | 🌐 JavaScript | 📅 2025-11-03) - Tasks, boards & notes for the command-line habitat.
-* <b><code>  8396⭐</code></b> <b><code>   251🍴</code></b> [nb](https://github.com/xwmx/nb) ⭐ 8,397 | 🐛 151 | 🌐 Shell | 📅 2026-08-26) - A note‑taking, bookmarking, archiving, and knowledge base application.
+* <b><code>  9340⭐</code></b> <b><code>   395🍴</code></b> [taskbook](https://github.com/klaussinani/taskbook) ⭐ 9,344 | 🐛 102 | 🌐 JavaScript | 📅 2025-11-03) - Tasks, boards & notes for the command-line habitat.
+* <b><code>  8396⭐</code></b> <b><code>   251🍴</code></b> [nb](https://github.com/xwmx/nb) ⭐ 8,399 | 🐛 151 | 🌐 Shell | 📅 2026-08-26) - A note‑taking, bookmarking, archiving, and knowledge base application.
 * <b><code>  3079⭐</code></b> <b><code>   123🍴</code></b> [dnote](https://github.com/dnote/dnote) ⭐ 3,079 | 🐛 40 | 🌐 Go | 📅 2026-07-25) - A interactive, multi-device notebook.
-* <b><code>  1580⭐</code></b> <b><code>    71🍴</code></b> [notesmd-cli](https://github.com/Yakitrak/notesmd-cli) ⭐ 1,580 | 🐛 0 | 🌐 Go | 📅 2026-09-01) - Interact with your Obsidian vault.
-* <b><code>   957⭐</code></b> <b><code>    61🍴</code></b> [kanban.bash](https://github.com/coderofsalvation/kanban.bash) ⭐ 957 | 🐛 6 | 🌐 Shell | 📅 2026-07-15) - Kanban todo manager with a CSV backend.
+* <b><code>  1580⭐</code></b> <b><code>    71🍴</code></b> [notesmd-cli](https://github.com/Yakitrak/notesmd-cli) ⭐ 1,579 | 🐛 0 | 🌐 Go | 📅 2026-09-01) - Interact with your Obsidian vault.
+* <b><code>   957⭐</code></b> <b><code>    61🍴</code></b> [kanban.bash](https://github.com/coderofsalvation/kanban.bash) ⭐ 958 | 🐛 6 | 🌐 Shell | 📅 2026-07-15) - Kanban todo manager with a CSV backend.
 * <b><code>   876⭐</code></b> <b><code>    43🍴</code></b> [eureka](https://github.com/simeg/eureka) ⭐ 876 | 🐛 6 | 🌐 Rust | 📅 2026-08-28) - Input and store your ideas.
 * <b><code>   531⭐</code></b> <b><code>    22🍴</code></b> [rucola](https://github.com/Linus-Mussmaecher/rucola) ⭐ 533 | 🐛 2 | 🌐 Rust | 📅 2026-08-25) - Manage your markdown notes.
 * <b><code>   431⭐</code></b> <b><code>    40🍴</code></b> [sncli](https://github.com/insanum/sncli) ⭐ 431 | 🐛 34 | 🌐 Python | 📅 2025-06-01) - Simplenote client.
-* <b><code>   353⭐</code></b> <b><code>    13🍴</code></b> [epiq](https://github.com/ljtn/epiq) ⭐ 354 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-07) - Local-first distributed issue tracker backed by Git.
+* <b><code>   353⭐</code></b> <b><code>    13🍴</code></b> [epiq](https://github.com/ljtn/epiq) ⭐ 354 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08) - Local-first distributed issue tracker backed by Git.
 * <b><code>   280⭐</code></b> <b><code>    14🍴</code></b> [idea](https://github.com/IonicaBizau/idea) ⭐ 280 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-13) - A lightweight tool for keeping ideas in a safe place quick and easy.
-* <b><code>   277⭐</code></b> <b><code>    62🍴</code></b> [confluence-cli](https://github.com/pchuri/confluence-cli) ⭐ 277 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-28) - Confluence client.
+* <b><code>   277⭐</code></b> <b><code>    62🍴</code></b> [confluence-cli](https://github.com/pchuri/confluence-cli) ⭐ 277 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-07) - Confluence client.
 * <b><code>   215⭐</code></b> <b><code>    11🍴</code></b> [td-cli](https://github.com/darrikonn/td-cli) ⭐ 215 | 🐛 11 | 🌐 Python | 📅 2026-04-14) - A TODO manager to organize and manage your TODO's across multiple projects.
 * <b><code>   171⭐</code></b> <b><code>    22🍴</code></b> [gtasks](https://github.com/BRO3886/gtasks) ⭐ 171 | 🐛 5 | 🌐 Go | 📅 2026-06-24) - Manage Google Tasks.
 * <b><code>   166⭐</code></b> <b><code>     9🍴</code></b> [kanban](https://github.com/fulsomenko/kanban) ⭐ 166 | 🐛 7 | 🌐 Rust | 📅 2026-09-07) - Keyboard-driven project management tool inspired by lazygit.
@@ -377,14 +377,14 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ### Email
 
-* <b><code>   202⭐</code></b> <b><code>    45🍴</code></b> [mail-duplicate](https://github.com/kdeldycke/mail-deduplicate) ⭐ 202 | 🐛 5 | 🌐 Python | 📅 2026-09-07) - Deduplicate mail boxes.
+* <b><code>   202⭐</code></b> <b><code>    45🍴</code></b> [mail-duplicate](https://github.com/kdeldycke/mail-deduplicate) ⭐ 202 | 🐛 6 | 🌐 Python | 📅 2026-09-07) - Deduplicate mail boxes.
 * 🌎 [NeoMutt](neomutt.org) - Email client.
 
 ### Finance
 
 See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview of relevant tools.
 
-* <b><code>  6224⭐</code></b> <b><code>   341🍴</code></b> [ticker](https://github.com/achannarasappa/ticker) ⭐ 6,226 | 🐛 33 | 🌐 Go | 📅 2026-06-28) - Stock ticker.
+* <b><code>  6224⭐</code></b> <b><code>   341🍴</code></b> [ticker](https://github.com/achannarasappa/ticker) ⭐ 6,229 | 🐛 33 | 🌐 Go | 📅 2026-06-28) - Stock ticker.
 * <b><code>  4394⭐</code></b> <b><code>   351🍴</code></b> [cointop](https://github.com/miguelmota/cointop) ⚠️ Archived) - Track cryptocurrencies.
 * <b><code>   266⭐</code></b> <b><code>    18🍴</code></b> [cash-cli](https://github.com/xxczaki/cash-cli) ⭐ 266 | 🐛 16 | 🌐 JavaScript | 📅 2026-04-30) - Convert Currency Rates.
 * <b><code>   149⭐</code></b> <b><code>    23🍴</code></b> [moeda](https://github.com/thompsonemerson/moeda) ⭐ 149 | 🐛 6 | 🌐 JavaScript | 📅 2023-06-25) - Foreign exchange rates and currency conversion.
@@ -394,31 +394,31 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Presentations
 
-* <b><code> 11647⭐</code></b> <b><code>   315🍴</code></b> [slides](https://github.com/maaslalani/slides) ⭐ 11,649 | 🐛 77 | 🌐 Go | 📅 2026-07-08) - A markdown presentation tool.
+* <b><code> 11647⭐</code></b> <b><code>   315🍴</code></b> [slides](https://github.com/maaslalani/slides) ⭐ 11,652 | 🐛 77 | 🌐 Go | 📅 2026-07-08) - A markdown presentation tool.
 * <b><code>  5275⭐</code></b> <b><code>   262🍴</code></b> [mdp](https://github.com/visit1985/mdp) ⭐ 5,275 | 🐛 8 | 🌐 C | 📅 2026-09-06) - A markdown presentation tool.
-* <b><code>  3802⭐</code></b> <b><code>   194🍴</code></b> [marp](https://github.com/marp-team/marp-cli) ⭐ 3,806 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-06) - Export Markdown to HTML/PDF/Powerpoint presentations.
+* <b><code>  3802⭐</code></b> <b><code>   194🍴</code></b> [marp](https://github.com/marp-team/marp-cli) ⭐ 3,809 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-06) - Export Markdown to HTML/PDF/Powerpoint presentations.
 * <b><code>  3087⭐</code></b> <b><code>    81🍴</code></b> [WOPR](https://github.com/yaronn/wopr) ⭐ 3,087 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-01) - A simple markup language for creating rich terminal reports, presentations and infographics.
 * <b><code>  2425⭐</code></b> <b><code>   195🍴</code></b> [decktape](https://github.com/astefanutti/decktape) ⭐ 2,425 | 🐛 50 | 🌐 JavaScript | 📅 2026-07-13) - PDF exporter for HTML presentations.
 * 🌎 [sent](tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Calendars
 
-* <b><code>  3763⭐</code></b> <b><code>   338🍴</code></b> [gcalcli](https://github.com/insanum/gcalcli) ⭐ 3,763 | 🐛 170 | 🌐 Python | 📅 2025-10-25) - Google calendar client.
-* <b><code>  3047⭐</code></b> <b><code>   234🍴</code></b> [khal](https://github.com/pimutils/khal) ⭐ 3,047 | 🐛 263 | 🌐 Python | 📅 2026-08-31) - CalDAV ready CLI and TUI calendar.
+* <b><code>  3763⭐</code></b> <b><code>   338🍴</code></b> [gcalcli](https://github.com/insanum/gcalcli) ⭐ 3,762 | 🐛 170 | 🌐 Python | 📅 2025-10-25) - Google calendar client.
+* <b><code>  3047⭐</code></b> <b><code>   234🍴</code></b> [khal](https://github.com/pimutils/khal) ⭐ 3,045 | 🐛 264 | 🌐 Python | 📅 2026-09-07) - CalDAV ready CLI and TUI calendar.
 * <b><code>  1872⭐</code></b> <b><code>   183🍴</code></b> [vdirsyncer](https://github.com/pimutils/vdirsyncer) ⭐ 1,872 | 🐛 225 | 🌐 Python | 📅 2026-09-04) - CalDAV sync.
 * <b><code>   151⭐</code></b> <b><code>     6🍴</code></b> [rem](https://github.com/BRO3886/rem) ⭐ 151 | 🐛 6 | 🌐 Go | 📅 2026-06-24) - Manage macOS Reminders.
 * <b><code>    94⭐</code></b> <b><code>     8🍴</code></b> [birthday](https://github.com/IonicaBizau/birthday) ⭐ 94 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-13) - Know when a friend's birthday is coming.
-* <b><code>    83⭐</code></b> <b><code>    10🍴</code></b> [ical](https://github.com/BRO3886/ical) ⭐ 83 | 🐛 4 | 🌐 Go | 📅 2026-07-29) - Manage macOS Calendar.
+* <b><code>    83⭐</code></b> <b><code>    10🍴</code></b> [ical](https://github.com/BRO3886/ical) ⭐ 84 | 🐛 5 | 🌐 Go | 📅 2026-07-29) - Manage macOS Calendar.
 * 🌎 [calcurse](calcurse.org/) - Calendar and scheduling.
 * 🌎 [remind](dianne.skoll.ca/projects/remind/) - A sophisticated calendar and alarm program.
 
 ## Utilities
 
-* <b><code> 41931⭐</code></b> <b><code>  3899🍴</code></b> [aria2](https://github.com/tatsuhiro-t/aria2) ⭐ 41,943 | 🐛 1,176 | 🌐 C++ | 📅 2026-06-25) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+* <b><code> 41931⭐</code></b> <b><code>  3899🍴</code></b> [aria2](https://github.com/tatsuhiro-t/aria2) ⭐ 41,951 | 🐛 1,177 | 🌐 C++ | 📅 2026-06-25) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 * <b><code>  5098⭐</code></b> <b><code>   214🍴</code></b> [alex](https://github.com/get-alex/alex) ⭐ 5,098 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27) - Catch insensitive, inconsiderate writing.
-* <b><code>  1591⭐</code></b> <b><code>    43🍴</code></b> [gittype](https://github.com/unhappychoice/gittype) ⭐ 1,591 | 🐛 16 | 🌐 Rust | 📅 2026-09-03) - Turn your source code into typing challenges.
+* <b><code>  1591⭐</code></b> <b><code>    43🍴</code></b> [gittype](https://github.com/unhappychoice/gittype) ⭐ 1,591 | 🐛 16 | 🌐 Rust | 📅 2026-09-07) - Turn your source code into typing challenges.
 * <b><code>   393⭐</code></b> <b><code>    21🍴</code></b> [kill-tabs](https://github.com/sindresorhus/kill-tabs) ⭐ 393 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-01) - Kill all Chrome tabs.
-* <b><code>   341⭐</code></b> <b><code>    18🍴</code></b> [crawley](https://github.com/s0rg/crawley) ⭐ 341 | 🐛 8 | 🌐 Go | 📅 2026-08-21) - Unix-way web crawler.
+* <b><code>   341⭐</code></b> <b><code>    18🍴</code></b> [crawley](https://github.com/s0rg/crawley) ⭐ 340 | 🐛 8 | 🌐 Go | 📅 2026-08-21) - Unix-way web crawler.
 * <b><code>   177⭐</code></b> <b><code>     4🍴</code></b> [deadlink](https://github.com/nschloe/deadlink) ⭐ 177 | 🐛 6 | 📅 2025-12-17) - Find dead links in files.
 * <b><code>   174⭐</code></b> <b><code>    50🍴</code></b> [amazon-orders](https://github.com/alexdlaird/amazon-orders) ⭐ 174 | 🐛 10 | 🌐 Python | 📅 2026-09-03) - Retrieve Amazon order history.
 * <b><code>   164⭐</code></b> <b><code>     6🍴</code></b> [clevercli](https://github.com/clevercli/clevercli) ⚠️ Archived) - Collection of ChatGPT powered utilities.
@@ -427,7 +427,7 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### macOS
 
-* <b><code> 66350⭐</code></b> <b><code>  2334🍴</code></b> [Mole](https://github.com/tw93/Mole) ⭐ 66,448 | 🐛 1 | 🌐 Shell | 📅 2026-09-07) - Clean your Mac and more.
+* <b><code> 66350⭐</code></b> <b><code>  2334🍴</code></b> [Mole](https://github.com/tw93/Mole) ⭐ 66,556 | 🐛 4 | 🌐 Shell | 📅 2026-09-07) - Clean your Mac and more.
 * <b><code>  1191⭐</code></b> <b><code>   262🍴</code></b> [stronghold](https://github.com/alichtman/stronghold) ⭐ 1,192 | 🐛 10 | 🌐 Python | 📅 2025-02-24) - Configure security settings from the terminal.
 * <b><code>   687⭐</code></b> <b><code>    40🍴</code></b> [dark-mode](https://github.com/sindresorhus/dark-mode) ⭐ 687 | 🐛 0 | 🌐 Swift | 📅 2025-09-11) - Toggle dark mode.
 * <b><code>   246⭐</code></b> <b><code>     4🍴</code></b> [clippy](https://github.com/neilberkman/clippy) ⭐ 246 | 🐛 0 | 🌐 Go | 📅 2026-09-04) - Clipboard tool for interacting with GUI applications.
@@ -439,32 +439,32 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Terminal Sharing Utilities
 
-* <b><code> 19548⭐</code></b> <b><code>  1407🍴</code></b> [gotty](https://github.com/yudai/gotty) ⭐ 19,548 | 🐛 158 | 🌐 Go | 📅 2024-08-01) - Share your terminal as a web application.
+* <b><code> 19548⭐</code></b> <b><code>  1407🍴</code></b> [gotty](https://github.com/yudai/gotty) ⭐ 19,549 | 🐛 158 | 🌐 Go | 📅 2024-08-01) - Share your terminal as a web application.
 * <b><code>  1617⭐</code></b> <b><code>    49🍴</code></b> [warp](https://github.com/spolu/warp) ⭐ 1,617 | 🐛 12 | 🌐 Go | 📅 2018-03-06) - Secure and simple terminal sharing.
 * <b><code>  1289⭐</code></b> <b><code>    83🍴</code></b> [upterm](https://github.com/owenthereal/upterm) ⭐ 1,289 | 🐛 48 | 🌐 Go | 📅 2026-09-07) - Instant terminal sharing.
 
 ### SSH
 
-* <b><code>  6083⭐</code></b> <b><code>   123🍴</code></b> [xxh](https://github.com/xxh/xxh) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02) - Bring your favorite shell wherever you go through SSH.
+* <b><code>  6083⭐</code></b> <b><code>   123🍴</code></b> [xxh](https://github.com/xxh/xxh) ⭐ 6,083 | 🐛 30 | 🌐 Python | 📅 2026-06-02) - Bring your favorite shell wherever you go through SSH.
 * 🌎 [mosh](mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 
 ### Network Utilities
 
-* <b><code> 13540⭐</code></b> <b><code>   796🍴</code></b> [sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,543 | 🐛 212 | 🌐 Python | 📅 2026-08-31) - Transparent proxy server that works as a poor man's VPN.
-* <b><code>  4993⭐</code></b> <b><code>   230🍴</code></b> [rustnet](https://github.com/domcyrus/rustnet) ⭐ 4,997 | 🐛 19 | 🌐 Rust | 📅 2026-09-06) - Network monitoring with process identification and deep packet inspection.
+* <b><code> 13540⭐</code></b> <b><code>   796🍴</code></b> [sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,544 | 🐛 212 | 🌐 Python | 📅 2026-09-07) - Transparent proxy server that works as a poor man's VPN.
+* <b><code>  4993⭐</code></b> <b><code>   230🍴</code></b> [rustnet](https://github.com/domcyrus/rustnet) ⭐ 5,002 | 🐛 19 | 🌐 Rust | 📅 2026-09-06) - Network monitoring with process identification and deep packet inspection.
 * <b><code>  2092⭐</code></b> <b><code>   125🍴</code></b> [acmetool](https://github.com/hlandau/acmetool) ⭐ 2,092 | 🐛 72 | 🌐 Go | 📅 2023-05-27) - Automatic certificate acquisition for ACME (Let's Encrypt).
 * <b><code>  1932⭐</code></b> <b><code>   154🍴</code></b> [gg](https://github.com/mzz2017/gg) ⭐ 1,932 | 🐛 48 | 🌐 Go | 📅 2026-07-06) - One-click proxy without installing v2ray or anything else.
-* <b><code>  1919⭐</code></b> <b><code>    80🍴</code></b> [tldx](https://github.com/brandonyoungdev/tldx) ⭐ 1,920 | 🐛 7 | 🌐 Go | 📅 2026-09-07) - Bulk domain availability checker.
-* <b><code>   924⭐</code></b> <b><code>    77🍴</code></b> [certificate-ripper](https://github.com/Hakky54/certificate-ripper) ⭐ 924 | 🐛 3 | 🌐 Java | 📅 2026-09-07) - Extract server certificates.
+* <b><code>  1919⭐</code></b> <b><code>    80🍴</code></b> [tldx](https://github.com/brandonyoungdev/tldx) ⭐ 1,919 | 🐛 7 | 🌐 Go | 📅 2026-09-07) - Bulk domain availability checker.
+* <b><code>   924⭐</code></b> <b><code>    77🍴</code></b> [certificate-ripper](https://github.com/Hakky54/certificate-ripper) ⭐ 924 | 🐛 1 | 🌐 Java | 📅 2026-09-07) - Extract server certificates.
 * <b><code>   230⭐</code></b> <b><code>     4🍴</code></b> [neoss](https://github.com/PabloLec/neoss) ⭐ 230 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-04) - User-friendly and detailed socket statistics.
 * <b><code>   161⭐</code></b> <b><code>    15🍴</code></b> [get-port-cli](https://github.com/sindresorhus/get-port-cli) ⭐ 161 | 🐛 0 | 🌐 JavaScript | 📅 2025-08-14) - Get an available port.
 * <b><code>    29⭐</code></b> <b><code>     1🍴</code></b> [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2015-08-26) - Check if hostnames are reachable or not.
 
 ### Theming and Customization
 
-* <b><code> 59799⭐</code></b> <b><code>  2653🍴</code></b> [starship](https://github.com/starship/starship) ⭐ 59,807 | 🐛 1,047 | 🌐 Rust | 📅 2026-09-07) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
+* <b><code> 59799⭐</code></b> <b><code>  2653🍴</code></b> [starship](https://github.com/starship/starship) ⭐ 59,811 | 🐛 1,048 | 🌐 Rust | 📅 2026-09-07) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
 * <b><code>  5851⭐</code></b> <b><code>   137🍴</code></b> [themer](https://github.com/mjswensen/themer) ⭐ 5,851 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-27) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
-* <b><code>  2305⭐</code></b> <b><code>    36🍴</code></b> [gowall](https://github.com/Achno/gowall) ⭐ 2,307 | 🐛 12 | 🌐 Go | 📅 2026-06-10) - Extract image color palette, recolor images/icon and more.
+* <b><code>  2305⭐</code></b> <b><code>    36🍴</code></b> [gowall](https://github.com/Achno/gowall) ⭐ 2,309 | 🐛 12 | 🌐 Go | 📅 2026-06-10) - Extract image color palette, recolor images/icon and more.
 * <b><code>   579⭐</code></b> <b><code>    25🍴</code></b> [splash-cli](https://github.com/splash-cli/splash-cli) ⭐ 579 | 🐛 3 | 🌐 Go | 📅 2026-05-23) - Beautiful wallpapers from Unsplash.
 * <b><code>   193⭐</code></b> <b><code>    10🍴</code></b> [QuickWall](https://github.com/deepjyoti30/QuickWall) ⭐ 193 | 🐛 4 | 🌐 Python | 📅 2022-02-16) - Directly set wallpapers from Unsplash.
 * <b><code>   180⭐</code></b> <b><code>    17🍴</code></b> [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) ⭐ 180 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-12) - Get or set the desktop wallpaper.
@@ -487,7 +487,7 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### System Interaction Utilities
 
-* <b><code> 24537⭐</code></b> <b><code>   876🍴</code></b> [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,547 | 🐛 84 | 🌐 C | 📅 2026-09-07) - System information tool.
+* <b><code> 24537⭐</code></b> <b><code>   876🍴</code></b> [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,560 | 🐛 86 | 🌐 C | 📅 2026-09-07) - System information tool.
 * <b><code>  5895⭐</code></b> <b><code>   176🍴</code></b> [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,897 | 🐛 26 | 🌐 C++ | 📅 2026-05-06) - Cut, copy, and paste anything, anywhere.
 * <b><code>  2124⭐</code></b> <b><code>    86🍴</code></b> [tiptop](https://github.com/nschloe/tiptop) ⭐ 2,124 | 🐛 25 | 🌐 Python | 📅 2025-09-04) - System monitor.
 * <b><code>  1711⭐</code></b> <b><code>    48🍴</code></b> [yank](https://github.com/mptre/yank) ⭐ 1,712 | 🐛 2 | 🌐 C | 📅 2026-07-16) - Yank terminal output to clipboard.
@@ -500,27 +500,27 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Markdown
 
-* <b><code> 27201⭐</code></b> <b><code>   761🍴</code></b> [glow](https://github.com/charmbracelet/glow) ⭐ 27,212 | 🐛 230 | 🌐 Go | 📅 2026-09-06) - Styled markdown rendering.
-* <b><code>  6826⭐</code></b> <b><code>   439🍴</code></b> [grip](https://github.com/joeyespo/grip) ⭐ 6,826 | 🐛 125 | 🌐 Python | 📅 2024-07-10) - Preview markdown files as GitHub would render them.
+* <b><code> 27201⭐</code></b> <b><code>   761🍴</code></b> [glow](https://github.com/charmbracelet/glow) ⭐ 27,223 | 🐛 229 | 🌐 Go | 📅 2026-09-07) - Styled markdown rendering.
+* <b><code>  6826⭐</code></b> <b><code>   439🍴</code></b> [grip](https://github.com/joeyespo/grip) ⭐ 6,825 | 🐛 125 | 🌐 Python | 📅 2024-07-10) - Preview markdown files as GitHub would render them.
 * <b><code>  4464⭐</code></b> <b><code>   486🍴</code></b> [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,465 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04) - Generates table of contents for markdown files.
 * <b><code>  1884⭐</code></b> <b><code>   108🍴</code></b> [mdv](https://github.com/axiros/terminal_markdown_viewer) ⭐ 1,884 | 🐛 41 | 🌐 Python | 📅 2024-05-15) - Styled terminal markdown viewer.
-* <b><code>  1400⭐</code></b> <b><code>    51🍴</code></b> [mcat](https://github.com/Skardyy/mcat) ⭐ 1,401 | 🐛 8 | 🌐 Rust | 📅 2026-09-05) - Markdown, images, video, and document viewer.
-* <b><code>  1027⭐</code></b> <b><code>    21🍴</code></b> [mq](https://github.com/harehare/mq) ⭐ 1,027 | 🐛 14 | 🌐 Rust | 📅 2026-09-07) - Jq-like markdown processor.
+* <b><code>  1400⭐</code></b> <b><code>    51🍴</code></b> [mcat](https://github.com/Skardyy/mcat) ⭐ 1,403 | 🐛 8 | 🌐 Rust | 📅 2026-09-05) - Markdown, images, video, and document viewer.
+* <b><code>  1027⭐</code></b> <b><code>    21🍴</code></b> [mq](https://github.com/harehare/mq) ⭐ 1,027 | 🐛 14 | 🌐 Rust | 📅 2026-09-08) - Jq-like markdown processor.
 * <b><code>   529⭐</code></b> <b><code>    27🍴</code></b> [Jimmy](https://github.com/marph91/jimmy) ⭐ 529 | 🐛 14 | 🌐 Python | 📅 2026-08-29) - Convert various note formats to markdown.
 * <b><code>   359⭐</code></b> <b><code>    12🍴</code></b> [gtree](https://github.com/ddddddO/gtree) ⭐ 359 | 🐛 37 | 🌐 Go | 📅 2026-08-26) - Use markdown to generate directory trees and the directories itself.
 
 ### Security
 
-* <b><code>  7124⭐</code></b> <b><code>   559🍴</code></b> [gopass](https://github.com/gopasspw/gopass) ⭐ 7,128 | 🐛 91 | 🌐 Go | 📅 2026-09-02) - Fully-featured password manager.
+* <b><code>  7124⭐</code></b> <b><code>   559🍴</code></b> [gopass](https://github.com/gopasspw/gopass) ⭐ 7,130 | 🐛 92 | 🌐 Go | 📅 2026-09-07) - Fully-featured password manager.
 * <b><code>  1845⭐</code></b> <b><code>    52🍴</code></b> [ots](https://github.com/sniptt-official/ots) ⭐ 1,845 | 🐛 2 | 🌐 Go | 📅 2025-02-08) - Share secrets with others via a one-time URL.
 * <b><code>  1159⭐</code></b> <b><code>    46🍴</code></b> [xiringuito](https://github.com/ivanilves/xiringuito) ⭐ 1,159 | 🐛 8 | 🌐 Shell | 📅 2021-12-29) - SSH-based VPN.
-* <b><code>   153⭐</code></b> <b><code>     3🍴</code></b> [andcli](https://github.com/tjblackheart/andcli) ⭐ 153 | 🐛 0 | 🌐 Go | 📅 2026-09-04) - Work with 2FA tokens from multiple OTP providers.
+* <b><code>   153⭐</code></b> <b><code>     3🍴</code></b> [andcli](https://github.com/tjblackheart/andcli) ⭐ 154 | 🐛 0 | 🌐 Go | 📅 2026-09-07) - Work with 2FA tokens from multiple OTP providers.
 * <b><code>    82⭐</code></b> <b><code>     3🍴</code></b> [hasha-cli](https://github.com/sindresorhus/hasha-cli) ⭐ 82 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-12) - Get the hash of text or stdin.
 * 🌎 [pass](www.passwordstore.org) - Password manager.
 
 ### Math
 
-* <b><code>  2642⭐</code></b> <b><code>   194🍴</code></b> [Qalculate](https://github.com/Qalculate/libqalculate) ⭐ 2,641 | 🐛 199 | 🌐 C++ | 📅 2026-09-04) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
+* <b><code>  2642⭐</code></b> <b><code>   194🍴</code></b> [Qalculate](https://github.com/Qalculate/libqalculate) ⭐ 2,644 | 🐛 199 | 🌐 C++ | 📅 2026-09-04) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
 * <b><code>   265⭐</code></b> <b><code>     6🍴</code></b> [numr](https://github.com/nasedkinpv/numr) ⭐ 266 | 🐛 3 | 🌐 Rust | 📅 2026-07-14) - Natural-language calculator with variables, units, currencies, and live exchange rates.
 * <b><code>   197⭐</code></b> <b><code>     9🍴</code></b> [mdlt](https://github.com/metadelta/mdlt) ⭐ 197 | 🐛 4 | 🌐 JavaScript | 📅 2017-11-01) - Do quick math right from the command line.
 
@@ -532,17 +532,17 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Weather
 
-* <b><code> 30489⭐</code></b> <b><code>  1267🍴</code></b> [wttr.in](https://github.com/chubin/wttr.in) ⭐ 30,495 | 🐛 331 | 🌐 Go | 📅 2026-08-02)
-* <b><code>  8545⭐</code></b> <b><code>   506🍴</code></b> [wego](https://github.com/schachmat/wego) ⭐ 8,546 | 🐛 16 | 🌐 Go | 📅 2026-08-01)
+* <b><code> 30489⭐</code></b> <b><code>  1267🍴</code></b> [wttr.in](https://github.com/chubin/wttr.in) ⭐ 30,498 | 🐛 331 | 🌐 Go | 📅 2026-09-07)
+* <b><code>  8545⭐</code></b> <b><code>   506🍴</code></b> [wego](https://github.com/schachmat/wego) ⭐ 8,547 | 🐛 16 | 🌐 Go | 📅 2026-08-01)
 * <b><code>  3045⭐</code></b> <b><code>   115🍴</code></b> [weathr](https://github.com/veirt/weathr) ⭐ 3,044 | 🐛 20 | 🌐 Rust | 📅 2026-08-12) - ASCII animations.
-* <b><code>   406⭐</code></b> <b><code>    13🍴</code></b> [linecast](https://github.com/ashuttl/linecast) ⭐ 425 | 🐛 14 | 🌐 Python | 📅 2026-09-07) - Weather, tides, sun, moon, and maps.
+* <b><code>   406⭐</code></b> <b><code>    13🍴</code></b> [linecast](https://github.com/ashuttl/linecast) ⭐ 432 | 🐛 13 | 🌐 Python | 📅 2026-09-07) - Weather, tides, sun, moon, and maps.
 * <b><code>    95⭐</code></b> <b><code>     7🍴</code></b> [weather-cli](https://github.com/riyadhalnur/weather-cli) ⚠️ Archived)
 
 ### Browser Replacement
 
 * <b><code>  9232⭐</code></b> <b><code>   298🍴</code></b> [mapscii](https://github.com/rastapasta/mapscii) ⭐ 9,232 | 🐛 52 | 🌐 JavaScript | 📅 2024-11-03) - Terminal Map Viewer.
-* <b><code>  7508⭐</code></b> <b><code>   393🍴</code></b> [translate-shell](https://github.com/soimort/translate-shell) ⭐ 7,508 | 🐛 117 | 🌐 Awk | 📅 2024-12-10) - Google Translate interface.
-* <b><code>  2598⭐</code></b> <b><code>   126🍴</code></b> [s](https://github.com/zquestz/s) ⭐ 2,598 | 🐛 0 | 🌐 Go | 📅 2026-07-27) - Open a web search in your terminal.
+* <b><code>  7508⭐</code></b> <b><code>   393🍴</code></b> [translate-shell](https://github.com/soimort/translate-shell) ⭐ 7,507 | 🐛 117 | 🌐 Awk | 📅 2024-12-10) - Google Translate interface.
+* <b><code>  2598⭐</code></b> <b><code>   126🍴</code></b> [s](https://github.com/zquestz/s) ⭐ 2,599 | 🐛 0 | 🌐 Go | 📅 2026-07-27) - Open a web search in your terminal.
 * <b><code>   389⭐</code></b> <b><code>    13🍴</code></b> [hget](https://github.com/bevacqua/hget) ⭐ 389 | 🐛 0 | 🌐 HTML | 📅 2024-03-16) - Render websites in plain text from your terminal.
 * <b><code>   173⭐</code></b> <b><code>    12🍴</code></b> [getnews.tech](https://github.com/omgimanerd/getnews.tech) ⭐ 173 | 🐛 13 | 🌐 JavaScript | 📅 2023-04-15) - Fetch news headlines from various news outlets.
 * <b><code>   144⭐</code></b> <b><code>    11🍴</code></b> [trino](https://github.com/eneserdogan/trino) ⭐ 144 | 🐛 2 | 🌐 JavaScript | 📅 2022-12-06) - Translation of words and phrases.
@@ -551,7 +551,7 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 ### Internet Speedtest
 
 * <b><code> 14068⭐</code></b> <b><code>  1919🍴</code></b> [speedtest-cli](https://github.com/sivel/speedtest-cli) ⚠️ Archived) - Test internet bandwidth using speedtest.net.
-* <b><code> 11951⭐</code></b> <b><code>   345🍴</code></b> [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 11,954 | 🐛 55 | 🌐 Rust | 📅 2026-08-01) - Track bandwidth utilization by process.
+* <b><code> 11951⭐</code></b> <b><code>   345🍴</code></b> [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 11,955 | 🐛 55 | 🌐 Rust | 📅 2026-08-01) - Track bandwidth utilization by process.
 * <b><code>  3951⭐</code></b> <b><code>   171🍴</code></b> [speed-test](https://github.com/sindresorhus/speed-test) ⭐ 3,952 | 🐛 4 | 🌐 JavaScript | 📅 2021-12-03) - `speedtest-net` wrapper with different UI.
 * <b><code>   626⭐</code></b> <b><code>   126🍴</code></b> [speedtest-net](https://github.com/ddsol/speedtest.net) ⭐ 626 | 🐛 18 | 🌐 JavaScript | 📅 2022-02-11) - Test internet connection speed and ping using speedtest.net.
 
@@ -563,21 +563,21 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Professional: Resume
 
-* <b><code>  1516⭐</code></b> <b><code>    73🍴</code></b> [YAMLResume](https://github.com/yamlresume/yamlresume) ⭐ 1,517 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-02) - Resumes as code.
+* <b><code>  1516⭐</code></b> <b><code>    73🍴</code></b> [YAMLResume](https://github.com/yamlresume/yamlresume) ⭐ 1,519 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-02) - Resumes as code.
 * <b><code>   170⭐</code></b> <b><code>    22🍴</code></b> [resumx](https://github.com/resumx/resumx) ⭐ 171 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-09) - Markdown resume renderer with auto page-fitting.
 
 ### Backup
 
-* <b><code>  2046⭐</code></b> <b><code>    92🍴</code></b> [Plakar](https://github.com/PlakarKorp/plakar) ⭐ 2,050 | 🐛 121 | 🌐 Go | 📅 2026-09-07) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
+* <b><code>  2046⭐</code></b> <b><code>    92🍴</code></b> [Plakar](https://github.com/PlakarKorp/plakar) ⭐ 2,052 | 🐛 120 | 🌐 Go | 📅 2026-09-07) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
 * <b><code>  1336⭐</code></b> <b><code>   267🍴</code></b> [shallow-backup](https://github.com/alichtman/shallow-backup) ⭐ 1,336 | 🐛 23 | 🌐 Python | 📅 2026-03-21) - Git integrated backup tool.
 
 ## Command Line Learning
 
-* <b><code> 97769⭐</code></b> <b><code>  3961🍴</code></b> [The Fuck](https://github.com/nvbn/thefuck) ⭐ 97,771 | 🐛 456 | 🌐 Python | 📅 2024-07-19) - Magnificent app which corrects your previous console command.
-* <b><code> 63598⭐</code></b> <b><code>  5403🍴</code></b> [tldr](https://github.com/tldr-pages/tldr) ⭐ 63,606 | 🐛 292 | 🌐 Markdown | 📅 2026-09-07) - Simplified and community-driven man pages.
-* <b><code> 17510⭐</code></b> <b><code>   561🍴</code></b> [navi](https://github.com/denisidoro/navi) ⭐ 17,519 | 🐛 112 | 🌐 Rust | 📅 2026-07-28) - Interactive cheatsheet tool.
+* <b><code> 97769⭐</code></b> <b><code>  3961🍴</code></b> [The Fuck](https://github.com/nvbn/thefuck) ⭐ 97,772 | 🐛 456 | 🌐 Python | 📅 2024-07-19) - Magnificent app which corrects your previous console command.
+* <b><code> 63598⭐</code></b> <b><code>  5403🍴</code></b> [tldr](https://github.com/tldr-pages/tldr) ⭐ 63,614 | 🐛 284 | 🌐 Markdown | 📅 2026-09-08) - Simplified and community-driven man pages.
+* <b><code> 17510⭐</code></b> <b><code>   561🍴</code></b> [navi](https://github.com/denisidoro/navi) ⭐ 17,526 | 🐛 112 | 🌐 Rust | 📅 2026-07-28) - Interactive cheatsheet tool.
 * <b><code> 10845⭐</code></b> <b><code>   861🍴</code></b> [howdoi](https://github.com/gleitz/howdoi) ⭐ 10,844 | 🐛 28 | 🌐 Python | 📅 2026-04-15) - Instant coding answers.
-* <b><code>  5769⭐</code></b> <b><code>   152🍴</code></b> [how2](https://github.com/santinic/how2) ⭐ 5,769 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-15) - Node.js implementation of howdoi.
+* <b><code>  5769⭐</code></b> <b><code>   152🍴</code></b> [how2](https://github.com/santinic/how2) ⭐ 5,769 | 🐛 7 | 🌐 JavaScript | 📅 2023-03-15) - Node.js implementation of howdoi.
 * <b><code>   868⭐</code></b> <b><code>    61🍴</code></b> [yai](https://github.com/ekkinox/yai) ⭐ 868 | 🐛 28 | 🌐 Go | 📅 2024-07-31) - AI powered terminal assistant.
 * <b><code>   509⭐</code></b> <b><code>    22🍴</code></b> [Wat](https://github.com/dthree/wat) ⭐ 509 | 🐛 18 | 🌐 JavaScript | 📅 2016-09-18) - Instant, central, community-built docs.
 * <b><code>   413⭐</code></b> <b><code>    62🍴</code></b> [teachcode](https://github.com/madlabsinc/teachcode) ⭐ 413 | 🐛 14 | 🌐 JavaScript | 📅 2025-11-07) - Guide for the earliest lessons of coding.
@@ -587,26 +587,26 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ## Data Manipulation
 
-* <b><code>  9262⭐</code></b> <b><code>   362🍴</code></b> [visidata](https://github.com/saulpw/visidata) ⭐ 9,264 | 🐛 82 | 🌐 Python | 📅 2026-08-28) - Spreadsheet multitool for data discovery and arrangement.
-* <b><code>  5692⭐</code></b> <b><code>   239🍴</code></b> [sc-im](https://github.com/andmarti1424/sc-im) ⭐ 5,692 | 🐛 117 | 🌐 C | 📅 2026-08-26) - Vim-like spreadsheet calculator.
+* <b><code>  9262⭐</code></b> <b><code>   362🍴</code></b> [visidata](https://github.com/saulpw/visidata) ⭐ 9,265 | 🐛 82 | 🌐 Python | 📅 2026-08-28) - Spreadsheet multitool for data discovery and arrangement.
+* <b><code>  5692⭐</code></b> <b><code>   239🍴</code></b> [sc-im](https://github.com/andmarti1424/sc-im) ⭐ 5,691 | 🐛 117 | 🌐 C | 📅 2026-08-26) - Vim-like spreadsheet calculator.
 * <b><code>   279⭐</code></b> <b><code>     9🍴</code></b> [nless](https://github.com/mpryor/nothing-less) ⭐ 279 | 🐛 15 | 🌐 Python | 📅 2026-05-08) - Interactive pager for exploring tabular data.
 
 ### Processors
 
-* <b><code> 35555⭐</code></b> <b><code>  1835🍴</code></b> [jq](https://github.com/stedolan/jq) ⭐ 35,558 | 🐛 478 | 🌐 C | 📅 2026-09-01) - JSON processor.
-* <b><code>  8028⭐</code></b> <b><code>   175🍴</code></b> [dasel](https://github.com/tomwright/dasel) ⭐ 8,028 | 🐛 25 | 🌐 Go | 📅 2026-08-16) - JSON/YAML/TOML/XML processor (like jq/yq).
+* <b><code> 35555⭐</code></b> <b><code>  1835🍴</code></b> [jq](https://github.com/stedolan/jq) ⭐ 35,562 | 🐛 479 | 🌐 C | 📅 2026-09-01) - JSON processor.
+* <b><code>  8028⭐</code></b> <b><code>   175🍴</code></b> [dasel](https://github.com/tomwright/dasel) ⭐ 8,029 | 🐛 25 | 🌐 Go | 📅 2026-08-16) - JSON/YAML/TOML/XML processor (like jq/yq).
 * <b><code>  2975⭐</code></b> <b><code>    85🍴</code></b> [yq](https://github.com/kislyuk/yq) ⭐ 2,976 | 🐛 23 | 🌐 Python | 📅 2026-07-11) - YAML processor.
 * <b><code>  1147⭐</code></b> <b><code>    36🍴</code></b> [xq](https://github.com/sibprogrammer/xq) ⭐ 1,148 | 🐛 9 | 🌐 Go | 📅 2026-09-04) - XML and HTML beautifier and content extractor.
-* <b><code>  1027⭐</code></b> <b><code>    21🍴</code></b> [mq](https://github.com/harehare/mq) ⭐ 1,027 | 🐛 14 | 🌐 Rust | 📅 2026-09-07) - Jq-like markdown processor.
+* <b><code>  1027⭐</code></b> <b><code>    21🍴</code></b> [mq](https://github.com/harehare/mq) ⭐ 1,027 | 🐛 14 | 🌐 Rust | 📅 2026-09-08) - Jq-like markdown processor.
 * <b><code>   583⭐</code></b> <b><code>    12🍴</code></b> [ramda-cli](https://github.com/raine/ramda-cli) ⭐ 583 | 🐛 26 | 🌐 LiveScript | 📅 2022-12-30) - Process data with functional pipelines.
 * <b><code>    92⭐</code></b> <b><code>     5🍴</code></b> [yaml-cli](https://github.com/pandastrike/yaml-cli) ⭐ 92 | 🐛 24 | 🌐 Shell | 📅 2021-01-11) - Query/update YAML.
 
 ### JSON
 
-* <b><code> 20619⭐</code></b> <b><code>   486🍴</code></b> [fx](https://github.com/antonmedv/fx) ⭐ 20,619 | 🐛 27 | 🌐 Go | 📅 2026-08-26) - Command-line JSON viewer.
-* <b><code> 14512⭐</code></b> <b><code>   333🍴</code></b> [gron](https://github.com/tomnomnom/gron) ⭐ 14,514 | 🐛 50 | 🌐 Go | 📅 2025-05-31) - Make JSON greppable.
+* <b><code> 20619⭐</code></b> <b><code>   486🍴</code></b> [fx](https://github.com/antonmedv/fx) ⭐ 20,620 | 🐛 28 | 🌐 Go | 📅 2026-08-26) - Command-line JSON viewer.
+* <b><code> 14512⭐</code></b> <b><code>   333🍴</code></b> [gron](https://github.com/tomnomnom/gron) ⭐ 14,515 | 🐛 50 | 🌐 Go | 📅 2025-05-31) - Make JSON greppable.
 * <b><code>  1732⭐</code></b> <b><code>    80🍴</code></b> [underscore-cli](https://github.com/ddopson/underscore-cli) ⭐ 1,732 | 🐛 34 | 🌐 JavaScript | 📅 2020-11-02) - Utility-belt for hacking JSON and Javascript.
-* <b><code>   516⭐</code></b> <b><code>   113🍴</code></b> [config-file-validator](https://github.com/Boeing/config-file-validator) ⭐ 516 | 🐛 13 | 🌐 Go | 📅 2026-09-07) - Validate configuration files.
+* <b><code>   516⭐</code></b> <b><code>   113🍴</code></b> [config-file-validator](https://github.com/Boeing/config-file-validator) ⭐ 516 | 🐛 15 | 🌐 Go | 📅 2026-09-07) - Validate configuration files.
 * <b><code>   236⭐</code></b> <b><code>    14🍴</code></b> [GROQ](https://github.com/sanity-io/groq-cli) ⭐ 236 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-30) – JSON processor with queries and projections.
 * <b><code>    98⭐</code></b> <b><code>     4🍴</code></b> [vj](https://github.com/busyloop/vj) ⭐ 98 | 🐛 2 | 🌐 Ruby | 📅 2018-01-02) - Makes JSON human readable.
 * <b><code>    80⭐</code></b> <b><code>     6🍴</code></b> [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) ⭐ 80 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-07) - Strip comments from JSON.
@@ -615,7 +615,7 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 ### YAML
 
 * <b><code>  1882⭐</code></b> <b><code>   100🍴</code></b> [dyff](https://github.com/homeport/dyff) ⭐ 1,882 | 🐛 70 | 🌐 Go | 📅 2026-08-31) - YAML diff tool.
-* <b><code>   516⭐</code></b> <b><code>   113🍴</code></b> [config-file-validator](https://github.com/Boeing/config-file-validator) ⭐ 516 | 🐛 13 | 🌐 Go | 📅 2026-09-07) - Validate configuration files.
+* <b><code>   516⭐</code></b> <b><code>   113🍴</code></b> [config-file-validator](https://github.com/Boeing/config-file-validator) ⭐ 516 | 🐛 15 | 🌐 Go | 📅 2026-09-07) - Validate configuration files.
 
 ### Columns
 
@@ -624,27 +624,27 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Text
 
-* <b><code>  3881⭐</code></b> <b><code>   249🍴</code></b> [stegcloak](https://github.com/kurolabs/stegcloak) ⭐ 3,881 | 🐛 15 | 🌐 JavaScript | 📅 2024-10-01) - Hide secrets with invisible characters in plain text securely.
+* <b><code>  3881⭐</code></b> <b><code>   249🍴</code></b> [stegcloak](https://github.com/kurolabs/stegcloak) ⭐ 3,883 | 🐛 15 | 🌐 JavaScript | 📅 2024-10-01) - Hide secrets with invisible characters in plain text securely.
 * 🌎 [figlet](www.figlet.org) - Creates large text out of ASCII characters.
 
 ## Files and Directories
 
 ### File Managers
 
-* <b><code> 41970⭐</code></b> <b><code>  1010🍴</code></b> [yazi](https://github.com/sxyazi/yazi) ⭐ 41,996 | 🐛 70 | 🌐 Rust | 📅 2026-09-01) - Blazing fast file manager.
-* <b><code> 21866⭐</code></b> <b><code>   817🍴</code></b> [nnn](https://github.com/jarun/nnn) ⭐ 21,871 | 🐛 6 | 🌐 C | 📅 2026-09-05) - File browser and disk usage analyzer with excellent desktop integration.
-* <b><code> 17390⭐</code></b> <b><code>   942🍴</code></b> [ranger](https://github.com/ranger/ranger) ⭐ 17,395 | 🐛 897 | 🌐 Python | 📅 2026-08-31) - A console file manager with VI key bindings.
-* <b><code>  9491⭐</code></b> <b><code>   374🍴</code></b> [lf](https://github.com/gokcehan/lf) ⭐ 9,491 | 🐛 84 | 🌐 Go | 📅 2026-08-25) - Fast, extensively customizable file manager.
-* <b><code>  4817⭐</code></b> <b><code>    95🍴</code></b> [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,817 | 🐛 13 | 🌐 Rust | 📅 2026-08-25) - A hackable, minimal, fast TUI file explorer.
+* <b><code> 41970⭐</code></b> <b><code>  1010🍴</code></b> [yazi](https://github.com/sxyazi/yazi) ⭐ 42,040 | 🐛 72 | 🌐 Rust | 📅 2026-09-08) - Blazing fast file manager.
+* <b><code> 21866⭐</code></b> <b><code>   817🍴</code></b> [nnn](https://github.com/jarun/nnn) ⭐ 21,875 | 🐛 4 | 🌐 C | 📅 2026-09-05) - File browser and disk usage analyzer with excellent desktop integration.
+* <b><code> 17390⭐</code></b> <b><code>   942🍴</code></b> [ranger](https://github.com/ranger/ranger) ⭐ 17,393 | 🐛 897 | 🌐 Python | 📅 2026-08-31) - A console file manager with VI key bindings.
+* <b><code>  9491⭐</code></b> <b><code>   374🍴</code></b> [lf](https://github.com/gokcehan/lf) ⭐ 9,493 | 🐛 87 | 🌐 Go | 📅 2026-09-07) - Fast, extensively customizable file manager.
+* <b><code>  4817⭐</code></b> <b><code>    95🍴</code></b> [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,816 | 🐛 13 | 🌐 Rust | 📅 2026-08-25) - A hackable, minimal, fast TUI file explorer.
 * <b><code>  2210⭐</code></b> <b><code>   221🍴</code></b> [far2l](https://github.com/elfmz/far2l) ⭐ 2,210 | 🐛 473 | 🌐 C++ | 📅 2026-09-06) - Orthodox file manager.
 * <b><code>  1722⭐</code></b> <b><code>    52🍴</code></b> [clifm](https://github.com/leo-arch/clifm) ⭐ 1,722 | 🐛 26 | 🌐 C | 📅 2026-09-06) - The command line file manager.
-* <b><code>   970⭐</code></b> <b><code>   108🍴</code></b> [midnight-commander](https://github.com/MidnightCommander/mc) ⭐ 971 | 🐛 688 | 🌐 C | 📅 2026-08-30) - A feature rich visual file manager.
+* <b><code>   970⭐</code></b> <b><code>   108🍴</code></b> [midnight-commander](https://github.com/MidnightCommander/mc) ⭐ 972 | 🐛 687 | 🌐 C | 📅 2026-08-30) - A feature rich visual file manager.
 * <b><code>   855⭐</code></b> <b><code>    26🍴</code></b> [elio](https://github.com/elio-fm/elio) ⭐ 856 | 🐛 5 | 🌐 Rust | 📅 2026-08-30) - Snappy, batteries-included file manager.
 * 🌎 [Vifm](vifm.info/) - VI influenced file manager.
 
 ### Deleting, Copying, and Renaming
 
-* <b><code>  1413⭐</code></b> <b><code>    39🍴</code></b> [trash-cli](https://github.com/sindresorhus/trash-cli) ⭐ 1,414 | 🐛 3 | 🌐 JavaScript | 📅 2026-02-02) - Move files and directories to the trash.
+* <b><code>  1413⭐</code></b> <b><code>    39🍴</code></b> [trash-cli](https://github.com/sindresorhus/trash-cli) ⭐ 1,415 | 🐛 3 | 🌐 JavaScript | 📅 2026-02-02) - Move files and directories to the trash.
 * <b><code>   709⭐</code></b> <b><code>    26🍴</code></b> [nomino](https://github.com/yaa110/nomino) ⭐ 708 | 🐛 6 | 🌐 Rust | 📅 2025-08-07) - Batch rename utility for developers.
 * <b><code>   360⭐</code></b> <b><code>    35🍴</code></b> [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 360 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-05) - Copies files.
 * <b><code>   332⭐</code></b> <b><code>    23🍴</code></b> [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-18) - Delete files and folders.
@@ -655,18 +655,18 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 ### Disk Usage
 
 * <b><code> 15287⭐</code></b> <b><code>   466🍴</code></b> [duf](https://github.com/muesli/duf) ⭐ 15,288 | 🐛 82 | 🌐 Go | 📅 2026-01-13) - A better `df` alternative.
-* <b><code> 12223⭐</code></b> <b><code>   287🍴</code></b> [dust](https://github.com/bootandy/dust) ⭐ 12,226 | 🐛 10 | 🌐 Rust | 📅 2026-08-19) - A more intuitive version of `du` in Rust.
-* <b><code>  6228⭐</code></b> <b><code>   170🍴</code></b> [dua-cli](https://github.com/Byron/dua-cli) ⭐ 6,230 | 🐛 1 | 🌐 Rust | 📅 2026-09-06) - Disk usage analyzer.
-* <b><code>  3125⭐</code></b> <b><code>    96🍴</code></b> [diskonaut](https://github.com/imsnif/diskonaut) ⭐ 3,125 | 🐛 45 | 🌐 Rust | 📅 2024-03-07) - Disk space navigator.
-* <b><code>   878⭐</code></b> <b><code>    45🍴</code></b> [dutree](https://github.com/nachoparker/dutree) ⭐ 878 | 🐛 22 | 🌐 Rust | 📅 2022-06-29) - A tool to analyze file system usage written in Rust.
+* <b><code> 12223⭐</code></b> <b><code>   287🍴</code></b> [dust](https://github.com/bootandy/dust) ⭐ 12,229 | 🐛 10 | 🌐 Rust | 📅 2026-08-19) - A more intuitive version of `du` in Rust.
+* <b><code>  6228⭐</code></b> <b><code>   170🍴</code></b> [dua-cli](https://github.com/Byron/dua-cli) ⭐ 6,232 | 🐛 0 | 🌐 Rust | 📅 2026-09-07) - Disk usage analyzer.
+* <b><code>  3125⭐</code></b> <b><code>    96🍴</code></b> [diskonaut](https://github.com/imsnif/diskonaut) ⭐ 3,126 | 🐛 45 | 🌐 Rust | 📅 2024-03-07) - Disk space navigator.
+* <b><code>   878⭐</code></b> <b><code>    45🍴</code></b> [dutree](https://github.com/nachoparker/dutree) ⭐ 877 | 🐛 22 | 🌐 Rust | 📅 2022-06-29) - A tool to analyze file system usage written in Rust.
 * <b><code>   149⭐</code></b> <b><code>     0🍴</code></b> [darya](https://github.com/mrkatebzadeh/darya) ⭐ 150 | 🐛 13 | 🌐 Rust | 📅 2026-07-19) - A disk usage explorer TUI with live treemap.
 * 🌎 [NCDu](dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 
 ### Files
 
-* <b><code> 60376⭐</code></b> <b><code>  1641🍴</code></b> [bat](https://github.com/sharkdp/bat) ⭐ 60,383 | 🐛 447 | 🌐 Rust | 📅 2026-09-04) - A cat clone with syntax highlighting.
-* <b><code>  8723⭐</code></b> <b><code>   345🍴</code></b> [scc](https://github.com/boyter/scc) ⭐ 8,724 | 🐛 27 | 🌐 Go | 📅 2026-09-07) - Count lines of code, blank lines, comment lines, and physical lines of source code.
-* <b><code>  5672⭐</code></b> <b><code>   125🍴</code></b> [entr](https://github.com/eradman/entr) ⭐ 5,673 | 🐛 1 | 🌐 C | 📅 2026-06-27) - Run an arbitrary command when files change.
+* <b><code> 60376⭐</code></b> <b><code>  1641🍴</code></b> [bat](https://github.com/sharkdp/bat) ⭐ 60,389 | 🐛 510 | 🌐 Rust | 📅 2026-09-04) - A cat clone with syntax highlighting.
+* <b><code>  8723⭐</code></b> <b><code>   345🍴</code></b> [scc](https://github.com/boyter/scc) ⭐ 8,726 | 🐛 26 | 🌐 Go | 📅 2026-09-07) - Count lines of code, blank lines, comment lines, and physical lines of source code.
+* <b><code>  5672⭐</code></b> <b><code>   125🍴</code></b> [entr](https://github.com/eradman/entr) ⭐ 5,674 | 🐛 1 | 🌐 C | 📅 2026-06-27) - Run an arbitrary command when files change.
 * <b><code>  2441⭐</code></b> <b><code>    65🍴</code></b> [f2](https://github.com/ayoisaiah/f2) ⭐ 2,441 | 🐛 4 | 🌐 Go | 📅 2026-08-29) - A cross-platform tool for fast, safe, and flexible batch renaming.
 * <b><code>  1788⭐</code></b> <b><code>    89🍴</code></b> [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,788 | 🐛 4 | 🌐 Python | 📅 2026-08-03) - Recover overwritten or deleted files.
 * <b><code>  1372⭐</code></b> <b><code>   151🍴</code></b> [webtorrent-cli](https://github.com/feross/webtorrent-cli) ⭐ 1,372 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-19) – Streaming torrent client.
@@ -680,8 +680,8 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### File Sync/Sharing
 
-* <b><code> 59590⭐</code></b> <b><code>  5366🍴</code></b> [rclone](https://github.com/ncw/rclone) ⭐ 59,615 | 🐛 1,269 | 🌐 Go | 📅 2026-09-05) - Sync files with various cloud providers.
-* <b><code> 40243⭐</code></b> <b><code>  1614🍴</code></b> [croc](https://github.com/schollz/croc) ⭐ 40,260 | 🐛 1 | 🌐 Go | 📅 2026-09-06) - Easily send things from one computer to another.
+* <b><code> 59590⭐</code></b> <b><code>  5366🍴</code></b> [rclone](https://github.com/ncw/rclone) ⭐ 59,639 | 🐛 1,271 | 🌐 Go | 📅 2026-09-07) - Sync files with various cloud providers.
+* <b><code> 40243⭐</code></b> <b><code>  1614🍴</code></b> [croc](https://github.com/schollz/croc) ⭐ 40,272 | 🐛 2 | 🌐 Go | 📅 2026-09-06) - Easily send things from one computer to another.
 * <b><code>  7409⭐</code></b> <b><code>   207🍴</code></b> [ffsend](https://github.com/timvisee/ffsend) ⭐ 7,409 | 🐛 33 | 🌐 Rust | 📅 2025-11-20) - Quick file share.
 * <b><code>  1840⭐</code></b> <b><code>    75🍴</code></b> [sharing](https://github.com/parvardegr/sharing) ⭐ 1,840 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-17) - Send and receive files on your mobile device.
 * <b><code>  1767⭐</code></b> <b><code>    53🍴</code></b> [portal](https://github.com/ZinoKader/portal) ⭐ 1,767 | 🐛 29 | 🌐 Go | 📅 2024-08-20) - Send files between computers.
@@ -696,8 +696,8 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Directory Listing
 
-* <b><code> 23166⭐</code></b> <b><code>   518🍴</code></b> [eza](https://github.com/eza-community/eza) ⭐ 23,178 | 🐛 445 | 🌐 Rust | 📅 2026-08-06) - Improved version of `ls`.
-* <b><code> 16215⭐</code></b> <b><code>   507🍴</code></b> [lsd](https://github.com/Peltoche/lsd) ⭐ 16,215 | 🐛 205 | 🌐 Rust | 📅 2026-08-17) - `ls` with many extra features.
+* <b><code> 23166⭐</code></b> <b><code>   518🍴</code></b> [eza](https://github.com/eza-community/eza) ⭐ 23,187 | 🐛 445 | 🌐 Rust | 📅 2026-08-06) - Improved version of `ls`.
+* <b><code> 16215⭐</code></b> <b><code>   507🍴</code></b> [lsd](https://github.com/Peltoche/lsd) ⭐ 16,214 | 🐛 205 | 🌐 Rust | 📅 2026-08-17) - `ls` with many extra features.
 * <b><code>  1223⭐</code></b> <b><code>    31🍴</code></b> [tre](https://github.com/dduan/tre) ⭐ 1,223 | 🐛 23 | 🌐 Rust | 📅 2024-09-03) - `tree` with git awareness, editor aliasing, and more.
 * <b><code>  1222⭐</code></b> <b><code>    25🍴</code></b> [lla](https://github.com/triyanox/lla) ⭐ 1,222 | 🐛 3 | 🌐 Rust | 📅 2026-08-21) - Improved `ls` with plugins.
 * <b><code>   965⭐</code></b> <b><code>    32🍴</code></b> [pls](https://github.com/pls-rs/pls) ⭐ 965 | 🐛 15 | 🌐 Rust | 📅 2026-08-23)  - `ls` for the pros.
@@ -707,25 +707,25 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Directory Navigation
 
-* <b><code> 39185⭐</code></b> <b><code>   888🍴</code></b> [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,201 | 🐛 143 | 🌐 Rust | 📅 2026-08-31) - Fast directory jumper in Rust.
-* <b><code> 17044⭐</code></b> <b><code>  1174🍴</code></b> [z](https://github.com/rupa/z) ⭐ 17,042 | 🐛 108 | 🌐 Shell | 📅 2024-06-19) - z is the new j, yo.
+* <b><code> 39185⭐</code></b> <b><code>   888🍴</code></b> [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,247 | 🐛 144 | 🌐 Rust | 📅 2026-09-08) - Fast directory jumper in Rust.
+* <b><code> 17044⭐</code></b> <b><code>  1174🍴</code></b> [z](https://github.com/rupa/z) ⭐ 17,043 | 🐛 108 | 🌐 Shell | 📅 2024-06-19) - z is the new j, yo.
 * <b><code> 16960⭐</code></b> <b><code>   708🍴</code></b> [autojump](https://github.com/wting/autojump) ⭐ 16,960 | 🐛 231 | 🌐 Python | 📅 2025-02-27) - A cd command that learns - easily navigate directories from the command line.
 * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [PathPicker](https://github.com/facebook/pathpicker/) ⭐ 5,224 | 🐛 26 | 🌐 Python | 📅 2024-09-05) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
-* <b><code>  3144⭐</code></b> <b><code>   148🍴</code></b> [z.lua](https://github.com/skywind3000/z.lua) ⭐ 3,145 | 🐛 74 | 🌐 Lua | 📅 2026-08-10) - `cd` command that learns your habits.
-* <b><code>  1801⭐</code></b> <b><code>    38🍴</code></b> [tere](https://github.com/mgunyho/tere) ⭐ 1,801 | 🐛 16 | 🌐 Rust | 📅 2026-03-09) - A faster alternative to using cd and ls.
-* <b><code>   905⭐</code></b> <b><code>    64🍴</code></b> [goto](https://github.com/iridakos/goto) ⭐ 905 | 🐛 16 | 🌐 Shell | 📅 2024-07-26) - Directory aliases for the shell with autocomplete.
+* <b><code>  3144⭐</code></b> <b><code>   148🍴</code></b> [z.lua](https://github.com/skywind3000/z.lua) ⭐ 3,146 | 🐛 75 | 🌐 Lua | 📅 2026-08-10) - `cd` command that learns your habits.
+* <b><code>  1801⭐</code></b> <b><code>    38🍴</code></b> [tere](https://github.com/mgunyho/tere) ⭐ 1,799 | 🐛 16 | 🌐 Rust | 📅 2026-03-09) - A faster alternative to using cd and ls.
+* <b><code>   905⭐</code></b> <b><code>    64🍴</code></b> [goto](https://github.com/iridakos/goto) ⭐ 904 | 🐛 16 | 🌐 Shell | 📅 2024-07-26) - Directory aliases for the shell with autocomplete.
 * <b><code>   574⭐</code></b> <b><code>    28🍴</code></b> [fz](https://github.com/changyuheng/fz.sh) ⭐ 574 | 🐛 9 | 🌐 Shell | 📅 2024-02-25) - Seamless fuzzy tab completion for z.
 * <b><code>   205⭐</code></b> <b><code>    17🍴</code></b> [pm](https://github.com/Angelmmiguel/pm) ⭐ 205 | 🐛 8 | 🌐 Shell | 📅 2021-04-14) - The easy way to switch to your projects on the shell.
 
 ### Search
 
-* <b><code> 82836⭐</code></b> <b><code>  2862🍴</code></b> [fzf](https://github.com/junegunn/fzf) ⭐ 82,849 | 🐛 328 | 🌐 Go | 📅 2026-09-06) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
-* <b><code> 67994⭐</code></b> <b><code>  2748🍴</code></b> [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,028 | 🐛 188 | 🌐 Rust | 📅 2026-08-04) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
-* <b><code> 44322⭐</code></b> <b><code>  1126🍴</code></b> [fd](https://github.com/sharkdp/fd) ⭐ 44,331 | 🐛 200 | 🌐 Rust | 📅 2026-09-07) - A simple, fast and user-friendly alternative to `find`.
-* <b><code> 15772⭐</code></b> <b><code>   439🍴</code></b> [ast-grep](https://github.com/ast-grep/ast-grep) ⭐ 15,777 | 🐛 48 | 🌐 Rust | 📅 2026-09-06) - A tool for code structural search, linting and rewriting.
-* <b><code> 12929⭐</code></b> <b><code>   313🍴</code></b> [broot](https://github.com/Canop/broot) ⭐ 12,929 | 🐛 102 | 🌐 Rust | 📅 2026-09-06) - Fuzzy finder similar to fzf, but with space usage visualization.
-* <b><code>  6942⭐</code></b> <b><code>   256🍴</code></b> [skim](https://github.com/lotabout/skim) ⭐ 6,943 | 🐛 6 | 🌐 Rust | 📅 2026-09-06) - A general fuzzy finder written in Rust, similar to fzf.
-* <b><code>  6245⭐</code></b> <b><code>   182🍴</code></b> [television](https://github.com/alexpasmantier/television) ⭐ 6,246 | 🐛 79 | 🌐 Rust | 📅 2026-09-06) - A very fast general purpose fuzzy finder.
+* <b><code> 82836⭐</code></b> <b><code>  2862🍴</code></b> [fzf](https://github.com/junegunn/fzf) ⭐ 82,865 | 🐛 329 | 🌐 Go | 📅 2026-09-06) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+* <b><code> 67994⭐</code></b> <b><code>  2748🍴</code></b> [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,077 | 🐛 190 | 🌐 Rust | 📅 2026-08-04) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+* <b><code> 44322⭐</code></b> <b><code>  1126🍴</code></b> [fd](https://github.com/sharkdp/fd) ⭐ 44,335 | 🐛 202 | 🌐 Rust | 📅 2026-09-07) - A simple, fast and user-friendly alternative to `find`.
+* <b><code> 15772⭐</code></b> <b><code>   439🍴</code></b> [ast-grep](https://github.com/ast-grep/ast-grep) ⭐ 15,796 | 🐛 50 | 🌐 Rust | 📅 2026-09-08) - A tool for code structural search, linting and rewriting.
+* <b><code> 12929⭐</code></b> <b><code>   313🍴</code></b> [broot](https://github.com/Canop/broot) ⭐ 12,930 | 🐛 102 | 🌐 Rust | 📅 2026-09-07) - Fuzzy finder similar to fzf, but with space usage visualization.
+* <b><code>  6942⭐</code></b> <b><code>   256🍴</code></b> [skim](https://github.com/lotabout/skim) ⭐ 6,945 | 🐛 8 | 🌐 Rust | 📅 2026-09-07) - A general fuzzy finder written in Rust, similar to fzf.
+* <b><code>  6245⭐</code></b> <b><code>   182🍴</code></b> [television](https://github.com/alexpasmantier/television) ⭐ 6,252 | 🐛 80 | 🌐 Rust | 📅 2026-09-06) - A very fast general purpose fuzzy finder.
 * <b><code>  4458⭐</code></b> <b><code>    87🍴</code></b> [fselect](https://github.com/jhspetersson/fselect) ⭐ 4,458 | 🐛 6 | 🌐 Rust | 📅 2026-09-05) - Find files with SQL-like queries.
 * <b><code>  1246⭐</code></b> <b><code>    29🍴</code></b> [semantic-grep](https://github.com/arunsupe/semantic-grep) ⭐ 1,246 | 🐛 0 | 🌐 Go | 📅 2024-08-19) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [srgn](https://github.com/alexpovel/srgn/) ⭐ 911 | 🐛 7 | 🌐 Rust | 📅 2026-09-01) - A grep-like tool which understands code syntax and also allows for manipulation.
@@ -743,8 +743,8 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Git
 
-* <b><code> 82052⭐</code></b> <b><code>  3026🍴</code></b> [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,087 | 🐛 1,031 | 🌐 Go | 📅 2026-09-07) - Simple TUI for git commands.
-* <b><code> 22468⭐</code></b> <b><code>   770🍴</code></b> [gitui](https://github.com/extrawurst/gitui) ⭐ 22,469 | 🐛 344 | 🌐 Rust | 📅 2026-08-04) - Blazing fast terminal-ui for git written in Rust.
+* <b><code> 82052⭐</code></b> <b><code>  3026🍴</code></b> [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,121 | 🐛 1,030 | 🌐 Go | 📅 2026-09-07) - Simple TUI for git commands.
+* <b><code> 22468⭐</code></b> <b><code>   770🍴</code></b> [gitui](https://github.com/extrawurst/gitui) ⭐ 22,471 | 🐛 344 | 🌐 Rust | 📅 2026-08-04) - Blazing fast terminal-ui for git written in Rust.
 * <b><code> 18103⭐</code></b> <b><code>  1229🍴</code></b> [git-extras](https://github.com/tj/git-extras) ⭐ 18,102 | 🐛 95 | 🌐 Shell | 📅 2026-09-01) - Git utilities.
 * <b><code> 13323⭐</code></b> <b><code>   661🍴</code></b> [tig](https://github.com/jonas/tig) ⭐ 13,326 | 🐛 232 | 🌐 C | 📅 2026-07-27) - Text-mode interface for git.
 * <b><code> 11131⭐</code></b> <b><code>  1367🍴</code></b> [readme-md-generator](https://github.com/kefranabg/readme-md-generator) ⭐ 11,131 | 🐛 30 | 🌐 JavaScript | 📅 2022-09-20) - Interactively generate README.md files.
@@ -753,10 +753,10 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 * <b><code>  6599⭐</code></b> <b><code>   188🍴</code></b> [git-stats](https://github.com/IonicaBizau/git-stats) ⭐ 6,599 | 🐛 5 | 🌐 HTML | 📅 2025-11-09) - A local GitHub-like contributions calendar.
 * <b><code>  4094⭐</code></b> <b><code>    98🍴</code></b> [grv](https://github.com/rgburke/grv) ⭐ 4,094 | 🐛 31 | 🌐 Go | 📅 2019-05-01) - Text-mode interface for git with customisable vi bindings.
 * <b><code>  4043⭐</code></b> <b><code>   212🍴</code></b> [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,043 | 🐛 153 | 🌐 Shell | 📅 2026-08-24) - Store your private data inside a git repository.
-* <b><code>  1935⭐</code></b> <b><code>    92🍴</code></b> [gita](https://github.com/nosarthur/gita) ⭐ 1,935 | 🐛 36 | 🌐 Python | 📅 2026-07-06) - Manage multiple git repos side by side.
+* <b><code>  1935⭐</code></b> <b><code>    92🍴</code></b> [gita](https://github.com/nosarthur/gita) ⭐ 1,937 | 🐛 36 | 🌐 Python | 📅 2026-07-06) - Manage multiple git repos side by side.
 * <b><code>  1523⭐</code></b> <b><code>    53🍴</code></b> [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) ⭐ 1,524 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22) - Interactively generate standardized commit messages.
 * <b><code>  1120⭐</code></b> <b><code>    59🍴</code></b> [git commander](https://github.com/golbin/git-commander) ⭐ 1,120 | 🐛 19 | 🌐 JavaScript | 📅 2015-08-13) - Interactive git tool.
-* <b><code>   284⭐</code></b> <b><code>     9🍴</code></b> [ggc](https://github.com/bmf-san/ggc) ⭐ 284 | 🐛 5 | 🌐 Go | 📅 2026-09-07) - A modern Git tool with both CLI and interactive incremental-search UI.
+* <b><code>   284⭐</code></b> <b><code>     9🍴</code></b> [ggc](https://github.com/bmf-san/ggc) ⭐ 285 | 🐛 5 | 🌐 Go | 📅 2026-09-07) - A modern Git tool with both CLI and interactive incremental-search UI.
 * <b><code>   265⭐</code></b> <b><code>    45🍴</code></b> [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) ⭐ 265 | 🐛 5 | 🌐 JavaScript | 📅 2024-01-19) - Create GitLab merge requests.
 * <b><code>   181⭐</code></b> <b><code>     6🍴</code></b> [dev-time](https://github.com/samverschueren/dev-time-cli) ⭐ 181 | 🐛 4 | 🌐 JavaScript | 📅 2016-06-26) - Get the current local time of a GitHub user.
 * <b><code>   150⭐</code></b> <b><code>    13🍴</code></b> [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) ⭐ 150 | 🐛 8 | 🌐 JavaScript | 📅 2023-02-12) - Ensure semantic commits messages.
@@ -780,18 +780,18 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ## Images
 
-* <b><code> 22664⭐</code></b> <b><code>  1467🍴</code></b> [SVGO](https://github.com/svg/svgo) ⭐ 22,664 | 🐛 261 | 🌐 JavaScript | 📅 2026-08-27) - Optimize SVG files.
+* <b><code> 22664⭐</code></b> <b><code>  1467🍴</code></b> [SVGO](https://github.com/svg/svgo) ⭐ 22,665 | 🐛 261 | 🌐 JavaScript | 📅 2026-08-27) - Optimize SVG files.
 * <b><code>  6031⭐</code></b> <b><code>   126🍴</code></b> [carbon-now-cli](https://github.com/mixn/carbon-now-cli) ⭐ 6,032 | 🐛 8 | 🌐 TypeScript | 📅 2025-11-14) - Generate beautiful images of your code.
-* <b><code>  4823⭐</code></b> <b><code>   105🍴</code></b> [freeze](https://github.com/charmbracelet/freeze) ⭐ 4,824 | 🐛 80 | 🌐 Go | 📅 2026-09-01) - Generate images of code and terminal output.
+* <b><code>  4823⭐</code></b> <b><code>   105🍴</code></b> [freeze](https://github.com/charmbracelet/freeze) ⭐ 4,825 | 🐛 80 | 🌐 Go | 📅 2026-09-01) - Generate images of code and terminal output.
 * <b><code>  1742⭐</code></b> <b><code>    72🍴</code></b> [pageres-cli](https://github.com/sindresorhus/pageres-cli) ⭐ 1,742 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-09) - Capture website screenshots.
-* <b><code>   997⭐</code></b> <b><code>    83🍴</code></b> [rclip](https://github.com/yurijmikhalevich/rclip) ⭐ 997 | 🐛 16 | 🌐 Python | 📅 2026-09-07) - Semantic photo search.
+* <b><code>   997⭐</code></b> <b><code>    83🍴</code></b> [rclip](https://github.com/yurijmikhalevich/rclip) ⭐ 998 | 🐛 16 | 🌐 Python | 📅 2026-09-07) - Semantic photo search.
 * <b><code>   183⭐</code></b> <b><code>     8🍴</code></b> [optimizt](https://github.com/343dev/optimizt) ⭐ 183 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-04) - Helps prepare images for the web.
 * <b><code>    61⭐</code></b> <b><code>     7🍴</code></b> [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) ⭐ 61 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-14) - Upload images to imgur.
 
 ### Gif Creation
 
-* <b><code> 17771⭐</code></b> <b><code>  1038🍴</code></b> [asciinema](https://github.com/asciinema/asciinema) ⭐ 17,774 | 🐛 10 | 🌐 Rust | 📅 2026-08-14) - Terminal session recorder and companion app for asciinema.org.
-* <b><code>  4313⭐</code></b> <b><code>   256🍴</code></b> [gifsicle](https://github.com/kohler/gifsicle) ⭐ 4,314 | 🐛 29 | 🌐 C | 📅 2026-01-31) - Create, manipulate, and optimize GIF images and animations.
+* <b><code> 17771⭐</code></b> <b><code>  1038🍴</code></b> [asciinema](https://github.com/asciinema/asciinema) ⭐ 17,780 | 🐛 10 | 🌐 Rust | 📅 2026-08-14) - Terminal session recorder and companion app for asciinema.org.
+* <b><code>  4313⭐</code></b> <b><code>   256🍴</code></b> [gifsicle](https://github.com/kohler/gifsicle) ⭐ 4,316 | 🐛 29 | 🌐 C | 📅 2026-01-31) - Create, manipulate, and optimize GIF images and animations.
 * <b><code>  4012⭐</code></b> <b><code>   247🍴</code></b> [ttygif](https://github.com/icholy/ttygif) ⭐ 4,012 | 🐛 17 | 🌐 C | 📅 2025-08-02) - Convert terminal recordings to animated gifs.
 * <b><code>  3234⭐</code></b> <b><code>    92🍴</code></b> [ttystudio](https://github.com/chjj/ttystudio) ⭐ 3,234 | 🐛 20 | 🌐 JavaScript | 📅 2017-07-10) - A terminal-to-gif recorder minus the headaches.
 * <b><code>   565⭐</code></b> <b><code>    29🍴</code></b> [gifgen](https://github.com/lukechilds/gifgen) ⭐ 565 | 🐛 2 | 🌐 Shell | 📅 2023-01-22) - Simple high quality GIF encoding.
@@ -800,7 +800,7 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Image Conversion
 
-* <b><code>  2305⭐</code></b> <b><code>    36🍴</code></b> [gowall](https://github.com/Achno/gowall) ⭐ 2,307 | 🐛 12 | 🌐 Go | 📅 2026-06-10) - Recolor images, OCR, image upscaling and more.
+* <b><code>  2305⭐</code></b> <b><code>    36🍴</code></b> [gowall](https://github.com/Achno/gowall) ⭐ 2,309 | 🐛 12 | 🌐 Go | 📅 2026-06-10) - Recolor images, OCR, image upscaling and more.
 * <b><code>  1090⭐</code></b> <b><code>    54🍴</code></b> [imgp](https://github.com/jarun/imgp) ⭐ 1,090 | 🐛 0 | 🌐 Python | 📅 2026-08-16) - Blazing fast batch image resizer and rotator.
 * <b><code>   385⭐</code></b> <b><code>    14🍴</code></b> [korkut](https://github.com/oguzhaninan/korkut) ⭐ 385 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-03) - Quick and simple image processing.
 * <b><code>    74⭐</code></b> <b><code>     5🍴</code></b> [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) ⭐ 74 | 🐛 2 | 🌐 C | 📅 2026-05-05) - Convert images to ASCII art.
@@ -810,23 +810,23 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 ## Screensavers
 
 * <b><code>  5232⭐</code></b> <b><code>   542🍴</code></b> [cmatrix](https://github.com/Treri/cmatrix) ⭐ 5,238 | 🐛 83 | 🌐 C | 📅 2024-08-21) - Scrolling 'Matrix'-like screen.
-* <b><code>  4962⭐</code></b> <b><code>   112🍴</code></b> [gitlogue](https://github.com/unhappychoice/gitlogue) ⭐ 4,962 | 🐛 14 | 🌐 Rust | 📅 2026-09-07) - Cinematic git commit replay.
+* <b><code>  4962⭐</code></b> <b><code>   112🍴</code></b> [gitlogue](https://github.com/unhappychoice/gitlogue) ⭐ 4,963 | 🐛 12 | 🌐 Rust | 📅 2026-09-07) - Cinematic git commit replay.
 * <b><code>  3022⭐</code></b> <b><code>    82🍴</code></b> [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,022 | 🐛 14 | 🌐 Shell | 📅 2024-08-12) - Random pipes that grow across the screen.
-* <b><code>   727⭐</code></b> <b><code>    17🍴</code></b> [drift](https://github.com/phlx0/drift) ⭐ 733 | 🐛 1 | 🌐 Go | 📅 2026-09-04) - Multiple animated scenes.
+* <b><code>   727⭐</code></b> <b><code>    17🍴</code></b> [drift](https://github.com/phlx0/drift) ⭐ 734 | 🐛 1 | 🌐 Go | 📅 2026-09-04) - Multiple animated scenes.
 * <b><code>    78⭐</code></b> <b><code>     2🍴</code></b> [YuleLog](https://github.com/Duroktar/YuleLog) ⭐ 78 | 🐛 4 | 🌐 Python | 📅 2025-11-17) - Christmas Yule Log fireplace.
 * <b><code>    68⭐</code></b> <b><code>     0🍴</code></b> [cli-fireplace](https://github.com/dolsup/cli-fireplace) ⭐ 68 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-25) - Digital fireplace.
 
 ## Graphics
 
-* <b><code>  6484⭐</code></b> <b><code>   131🍴</code></b> [pastel](https://github.com/sharkdp/pastel) ⭐ 6,484 | 🐛 40 | 🌐 Rust | 📅 2026-05-01) - Generate, analyze, convert and manipulate colors.
-* <b><code>   251⭐</code></b> <b><code>     5🍴</code></b> [lowcharts](https://github.com/juan-leon/lowcharts) ⭐ 251 | 🐛 10 | 🌐 Rust | 📅 2025-12-22) - Draw low-resolution graphs.
+* <b><code>  6484⭐</code></b> <b><code>   131🍴</code></b> [pastel](https://github.com/sharkdp/pastel) ⭐ 6,483 | 🐛 40 | 🌐 Rust | 📅 2026-05-01) - Generate, analyze, convert and manipulate colors.
+* <b><code>   251⭐</code></b> <b><code>     5🍴</code></b> [lowcharts](https://github.com/juan-leon/lowcharts) ⭐ 252 | 🐛 10 | 🌐 Rust | 📅 2025-12-22) - Draw low-resolution graphs.
 * <b><code>   155⭐</code></b> <b><code>     5🍴</code></b> [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) ⭐ 155 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-21) - Generate sparklines ▁▂▃▅▂▇..
 * <b><code>   105⭐</code></b> <b><code>     2🍴</code></b> [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) ⭐ 105 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-18) - Traverse the Mandelbrot fractal.
 
 ## Just for Fun
 
-* <b><code>  6570⭐</code></b> <b><code>   232🍴</code></b> [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,572 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05) - Outputs text in rainbow colors.
-* <b><code>  4230⭐</code></b> <b><code>    94🍴</code></b> [terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) ⭐ 4,235 | 🐛 7 | 🌐 Python | 📅 2026-09-07) - Plays elaborate animations of text input.
+* <b><code>  6570⭐</code></b> <b><code>   232🍴</code></b> [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,574 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05) - Outputs text in rainbow colors.
+* <b><code>  4230⭐</code></b> <b><code>    94🍴</code></b> [terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) ⭐ 4,234 | 🐛 7 | 🌐 Python | 📅 2026-09-07) - Plays elaborate animations of text input.
 * <b><code>  1321⭐</code></b> <b><code>    95🍴</code></b> [ponysay](https://github.com/erkin/ponysay) ⭐ 1,321 | 🐛 79 | 🌐 Pony | 📅 2024-08-14) - Pony rewrite of cowsay.
 * <b><code>   544⭐</code></b> <b><code>    72🍴</code></b> [fortune](https://github.com/shlomif/fortune-mod) ⭐ 544 | 🐛 10 | 🌐 C | 📅 2026-08-26) - Shows a random fortune.
 * <b><code>   209⭐</code></b> <b><code>    40🍴</code></b> [yosay](https://github.com/yeoman/yosay) ⭐ 209 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-07) - Like cowsay, but for yeoman.
@@ -837,7 +837,7 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 
 ### Emoji
 
-* <b><code>  2430⭐</code></b> <b><code>    65🍴</code></b> [emoj](https://github.com/sindresorhus/emoj) ⭐ 2,430 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-13) - Find relevant emoji from text on the command-line.
+* <b><code>  2430⭐</code></b> <b><code>    65🍴</code></b> [emoj](https://github.com/sindresorhus/emoj) ⭐ 2,429 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-13) - Find relevant emoji from text on the command-line.
 * <b><code>   733⭐</code></b> <b><code>    20🍴</code></b> [oji](https://github.com/xxczaki/oji) ⭐ 733 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-30) - Interactive text emoji maker.
 * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [emoji-finder](https://github.com/dematerializer/emoji-finder)) - Quickly find and copy emoji to the clipboard via the command-line.
 
@@ -847,40 +847,40 @@ Inclusion criteria are less strict for this fast-moving field.
 
 ### Agents
 
-* <b><code>204845⭐</code></b> <b><code> 26716🍴</code></b> [OpenCode](https://github.com/anomalyco/opencode) ⭐ 205,432 | 🐛 5,712 | 🌐 TypeScript | 📅 2026-09-07) - Open-source agent TUI.
-* <b><code>  9556⭐</code></b> <b><code>  1774🍴</code></b> [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) ⭐ 9,603 | 🐛 232 | 🌐 TypeScript | 📅 2026-08-25) - Novel-writing agent.
-* <b><code>  3723⭐</code></b> <b><code>   341🍴</code></b> [lean-ctx](https://github.com/yvgude/lean-ctx) ⭐ 3,728 | 🐛 11 | 🌐 Rust | 📅 2026-09-06) - Token-saving context runtime for agents.
-* <b><code>  3194⭐</code></b> <b><code>   342🍴</code></b> [agent-of-empires](https://github.com/njbrake/agent-of-empires) ⭐ 3,197 | 🐛 145 | 🌐 Rust | 📅 2026-09-07) - Coding agent session manager via tmux and git worktrees.
-* <b><code>  2451⭐</code></b> <b><code>   314🍴</code></b> [Nanocoder](https://github.com/Nano-Collective/nanocoder) ⭐ 2,455 | 🐛 141 | 🌐 TypeScript | 📅 2026-09-07) - Local-first agent TUI.
-* <b><code>  1590⭐</code></b> <b><code>   120🍴</code></b> [actionbook](https://github.com/actionbook/actionbook) ⭐ 1,591 | 🐛 12 | 🌐 Rust | 📅 2026-08-12) - Parallel browser interaction for agents.
-* <b><code>   845⭐</code></b> <b><code>   147🍴</code></b> [agent-deck](https://github.com/asheshgoplani/agent-deck) ⭐ 847 | 🐛 80 | 🌐 Go | 📅 2026-09-06) - Dashboard for managing multiple AI coding agent sessions.
-* <b><code>   690⭐</code></b> <b><code>    56🍴</code></b> [coi](https://github.com/mensfeld/code-on-incus) ⭐ 691 | 🐛 25 | 🌐 Go | 📅 2026-09-07) - Incus container runtime for agents.
-* <b><code>   604⭐</code></b> <b><code>    17🍴</code></b> [agentty](https://github.com/1ay1/agentty) ⭐ 604 | 🐛 2 | 🌐 C++ | 📅 2026-09-07) - C++ agent TUI.
-* <b><code>   479⭐</code></b> <b><code>    73🍴</code></b> [hcom](https://github.com/aannoo/hcom) ⭐ 481 | 🐛 49 | 🌐 Rust | 📅 2026-08-09) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
-* <b><code>   328⭐</code></b> <b><code>    54🍴</code></b> [AgentBridge](https://github.com/raysonmeng/agent-bridge) ⭐ 330 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-06) - Local bridge for bidirectional communication between Claude Code and Codex.
+* <b><code>204845⭐</code></b> <b><code> 26716🍴</code></b> [OpenCode](https://github.com/anomalyco/opencode) ⭐ 205,756 | 🐛 5,675 | 🌐 TypeScript | 📅 2026-09-08) - Open-source agent TUI.
+* <b><code>  9556⭐</code></b> <b><code>  1774🍴</code></b> [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) ⭐ 9,629 | 🐛 232 | 🌐 TypeScript | 📅 2026-08-25) - Novel-writing agent.
+* <b><code>  3723⭐</code></b> <b><code>   341🍴</code></b> [lean-ctx](https://github.com/yvgude/lean-ctx) ⭐ 3,733 | 🐛 7 | 🌐 Rust | 📅 2026-09-07) - Token-saving context runtime for agents.
+* <b><code>  3194⭐</code></b> <b><code>   342🍴</code></b> [agent-of-empires](https://github.com/njbrake/agent-of-empires) ⭐ 3,200 | 🐛 139 | 🌐 Rust | 📅 2026-09-07) - Coding agent session manager via tmux and git worktrees.
+* <b><code>  2451⭐</code></b> <b><code>   314🍴</code></b> [Nanocoder](https://github.com/Nano-Collective/nanocoder) ⭐ 2,458 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-08) - Local-first agent TUI.
+* <b><code>  1590⭐</code></b> <b><code>   120🍴</code></b> [actionbook](https://github.com/actionbook/actionbook) ⭐ 1,591 | 🐛 12 | 🌐 Rust | 📅 2026-09-08) - Parallel browser interaction for agents.
+* <b><code>   845⭐</code></b> <b><code>   147🍴</code></b> [agent-deck](https://github.com/asheshgoplani/agent-deck) ⭐ 849 | 🐛 87 | 🌐 Go | 📅 2026-09-07) - Dashboard for managing multiple AI coding agent sessions.
+* <b><code>   690⭐</code></b> <b><code>    56🍴</code></b> [coi](https://github.com/mensfeld/code-on-incus) ⭐ 692 | 🐛 25 | 🌐 Go | 📅 2026-09-08) - Incus container runtime for agents.
+* <b><code>   604⭐</code></b> <b><code>    17🍴</code></b> [agentty](https://github.com/1ay1/agentty) ⭐ 605 | 🐛 0 | 🌐 C++ | 📅 2026-09-08) - C++ agent TUI.
+* <b><code>   479⭐</code></b> <b><code>    73🍴</code></b> [hcom](https://github.com/aannoo/hcom) ⭐ 483 | 🐛 49 | 🌐 Rust | 📅 2026-08-09) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
+* <b><code>   328⭐</code></b> <b><code>    54🍴</code></b> [AgentBridge](https://github.com/raysonmeng/agent-bridge) ⭐ 331 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-07) - Local bridge for bidirectional communication between Claude Code and Codex.
 * <b><code>   291⭐</code></b> <b><code>    34🍴</code></b> [greywall](https://github.com/GreyhavenHQ/greywall) ⭐ 291 | 🐛 24 | 🌐 Go | 📅 2026-08-13) - Deny-by-default sandbox with filesystem and network isolation.
-* <b><code>   248⭐</code></b> <b><code>    54🍴</code></b> [Shep](https://github.com/shep-ai/cli) ⭐ 248 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-03) - Multi-session SDLC control center for AI coding agents.
-* <b><code>   188⭐</code></b> <b><code>    20🍴</code></b> [toktrack](https://github.com/mag123c/toktrack) ⭐ 188 | 🐛 1 | 🌐 Rust | 📅 2026-09-04) - Track token usage and cost across all agents.
-* <b><code>    93⭐</code></b> <b><code>    12🍴</code></b> [Sugar](https://github.com/roboticforce/sugar) ⭐ 93 | 🐛 4 | 🌐 Python | 📅 2026-08-24) - Autonomous agent that queues and executes tasks in the background.
-* <b><code>    61⭐</code></b> <b><code>     9🍴</code></b> [Keen Code](https://github.com/mochow13/keen-code) ⭐ 61 | 🐛 5 | 🌐 Go | 📅 2026-09-05) - Context-aware coding agent written in Go.
+* <b><code>   248⭐</code></b> <b><code>    54🍴</code></b> [Shep](https://github.com/shep-ai/cli) ⭐ 248 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-07) - Multi-session SDLC control center for AI coding agents.
+* <b><code>   188⭐</code></b> <b><code>    20🍴</code></b> [toktrack](https://github.com/mag123c/toktrack) ⭐ 188 | 🐛 2 | 🌐 Rust | 📅 2026-09-07) - Track token usage and cost across all agents.
+* <b><code>    93⭐</code></b> <b><code>    12🍴</code></b> [Sugar](https://github.com/roboticforce/sugar) ⭐ 94 | 🐛 4 | 🌐 Python | 📅 2026-08-24) - Autonomous agent that queues and executes tasks in the background.
+* <b><code>    61⭐</code></b> <b><code>     9🍴</code></b> [Keen Code](https://github.com/mochow13/keen-code) ⭐ 61 | 🐛 5 | 🌐 Go | 📅 2026-09-07) - Context-aware coding agent written in Go.
 * <b><code>    45⭐</code></b> <b><code>     5🍴</code></b> [bosun](https://github.com/yetidevworks/bosun) ⭐ 45 | 🐛 0 | 🌐 Rust | 📅 2026-09-02) - Agent session manager built on tmux.
-* <b><code>    39⭐</code></b> <b><code>     5🍴</code></b> [faf-cli](https://github.com/Wolfe-Jam/faf-cli) ⭐ 39 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-06) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
+* <b><code>    39⭐</code></b> <b><code>     5🍴</code></b> [faf-cli](https://github.com/Wolfe-Jam/faf-cli) ⭐ 39 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-07) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 * <b><code>    37⭐</code></b> <b><code>     1🍴</code></b> [agentify](https://github.com/koriyoshi2041/agentify) ⭐ 37 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-16) - Transform OpenAPI specs into formats for agents.
 
 ### LLM Interaction
 
 * <b><code>    63⭐</code></b> <b><code>     9🍴</code></b> [aye-chat](https://github.com/acrotron/aye-chat) ⭐ 63 | 🐛 6 | 🌐 Python | 📅 2026-09-05) - Workspace for editing, running commands, and chatting with your codebase.
 * <b><code>    51⭐</code></b> <b><code>     3🍴</code></b> [cmd-ai](https://github.com/BrodaNoel/cmd-ai) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-04) - Turns natural language into executable shell commands.
-* <b><code>    51⭐</code></b> <b><code>     3🍴</code></b> [lilbee](https://github.com/tobocop2/lilbee) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2026-09-07) - Use local models to talk to your files, code, and more.
+* <b><code>    51⭐</code></b> <b><code>     3🍴</code></b> [lilbee](https://github.com/tobocop2/lilbee) ⭐ 51 | 🐛 4 | 🌐 Python | 📅 2026-09-08) - Use local models to talk to your files, code, and more.
 
 ## Other Resources
 
-* <b><code> 66718⭐</code></b> <b><code>  6232🍴</code></b> [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) ⭐ 66,723 | 🐛 25 | 📅 2026-09-02) – Node.js modules and resources.
-* <b><code> 37569⭐</code></b> <b><code>  2553🍴</code></b> [awesome-shell](https://github.com/alebcay/awesome-shell#readme) ⭐ 37,573 | 🐛 184 | 📅 2025-08-28) – Command-line utilities and frameworks.
+* <b><code> 66718⭐</code></b> <b><code>  6232🍴</code></b> [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) ⭐ 66,732 | 🐛 25 | 📅 2026-09-02) – Node.js modules and resources.
+* <b><code> 37569⭐</code></b> <b><code>  2553🍴</code></b> [awesome-shell](https://github.com/alebcay/awesome-shell#readme) ⭐ 37,578 | 🐛 184 | 📅 2025-08-28) – Command-line utilities and frameworks.
 * <b><code> 17995⭐</code></b> <b><code>   609🍴</code></b> [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) ⭐ 17,998 | 🐛 6 | 🌐 Shell | 📅 2026-09-06) – ZSH frameworks, plugins, tutorials & themes.
-* <b><code> 13110⭐</code></b> <b><code>   651🍴</code></b> [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) ⭐ 13,112 | 🐛 151 | 🌐 Shell | 📅 2024-07-26) – Terminal frameworks, plugins & resources.
-* <b><code>  4640⭐</code></b> <b><code>   162🍴</code></b> [x-cmd](https://github.com/x-cmd/x-cmd) ⭐ 4,642 | 🐛 105 | 🌐 Awk | 📅 2026-09-05) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
-* <b><code>  2612⭐</code></b> <b><code>   295🍴</code></b> [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2,612 | 🐛 183 | 🌐 Python | 📅 2026-07-29) - Extensive list of CLI apps.
+* <b><code> 13110⭐</code></b> <b><code>   651🍴</code></b> [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) ⭐ 13,113 | 🐛 151 | 🌐 Shell | 📅 2024-07-26) – Terminal frameworks, plugins & resources.
+* <b><code>  4640⭐</code></b> <b><code>   162🍴</code></b> [x-cmd](https://github.com/x-cmd/x-cmd) ⭐ 4,643 | 🐛 105 | 🌐 Awk | 📅 2026-09-08) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
+* <b><code>  2612⭐</code></b> <b><code>   295🍴</code></b> [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2,612 | 🐛 184 | 🌐 Python | 📅 2026-07-29) - Extensive list of CLI apps.
 * <b><code>  2196⭐</code></b> <b><code>   127🍴</code></b> [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) ⭐ 2,197 | 🐛 18 | 📅 2024-10-15) - Addons that extend git cli.
 * 🌎 [Terminal Trove](terminaltrove.com/) - List of CLI apps.
 
@@ -892,8 +892,8 @@ To the extent possible under law, 🌎 [Adam Garrett-Harris](twitter.com/agarrha
 
 ## Source
 
-<b><code> 20333⭐</code></b> <b><code>  1504🍴</code></b> [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,342 | 🐛 1 | 🌐 Shell | 📅 2026-09-05)
+<b><code> 20333⭐</code></b> <b><code>  1504🍴</code></b> [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,349 | 🐛 0 | 🌐 Shell | 📅 2026-09-05)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
