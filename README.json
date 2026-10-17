@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "3925⭐ 250🍴 newsboat",
+          "title": "3927⭐ 250🍴 newsboat",
           "description": ") - An extendable RSS feed reader for text terminals.",
           "children": [],
           "repo_info": {
@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-10T08:31:31Z",
-            "open_issues": 412,
+            "open_issues": 413,
             "owner": "newsboat",
             "repo": "newsboat",
-            "stars": 3927,
+            "stars": 3928,
             "topics": [
               "atom-feed-reader",
               "newsbeuter",
@@ -30,7 +30,7 @@
         },
         {
           "node_type": "item",
-          "title": "870⭐ 62🍴 golazo",
+          "title": "871⭐ 62🍴 golazo",
           "description": ") - Soccer matches.",
           "children": [],
           "repo_info": {
@@ -44,7 +44,7 @@
             "open_issues": 7,
             "owner": "0xjuanma",
             "repo": "golazo",
-            "stars": 871,
+            "stars": 870,
             "topics": [
               "bubbletea",
               "charmbracelet",
@@ -100,7 +100,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "15790⭐ 2155🍴 beets",
+              "title": "15796⭐ 2166🍴 beets",
               "description": ") - Music library manager and tagger.",
               "children": [],
               "repo_info": {
@@ -110,11 +110,11 @@
                 "id": 827590,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T05:54:16Z",
-                "open_issues": 693,
+                "last_commit": "2026-10-17T06:35:56Z",
+                "open_issues": 694,
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15795,
+                "stars": 15800,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -128,7 +128,7 @@
             },
             {
               "node_type": "item",
-              "title": "6263⭐ 522🍴 cmus",
+              "title": "6265⭐ 522🍴 cmus",
               "description": ") - Small, fast and powerful console music player.",
               "children": [],
               "repo_info": {
@@ -142,14 +142,14 @@
                 "open_issues": 223,
                 "owner": "cmus",
                 "repo": "cmus",
-                "stars": 6265,
+                "stars": 6266,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "4855⭐ 321🍴 musikcube",
+              "title": "4854⭐ 321🍴 musikcube",
               "description": ") - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.",
               "children": [],
               "repo_info": {
@@ -184,7 +184,7 @@
             },
             {
               "node_type": "item",
-              "title": "4479⭐ 319🍴 cliamp",
+              "title": "4486⭐ 324🍴 cliamp",
               "description": ") - Winamp-inspired local, streaming and radio player.",
               "children": [],
               "repo_info": {
@@ -195,10 +195,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-11T20:28:08Z",
-                "open_issues": 135,
+                "open_issues": 139,
                 "owner": "bjarneo",
                 "repo": "cliamp",
-                "stars": 4486,
+                "stars": 4487,
                 "topics": [
                   "cliamp",
                   "icecast",
@@ -225,7 +225,7 @@
             },
             {
               "node_type": "item",
-              "title": "2792⭐ 434🍴 mpd",
+              "title": "2793⭐ 434🍴 mpd",
               "description": ") - Music Player Daemon.",
               "children": [],
               "repo_info": {
@@ -235,11 +235,11 @@
                 "id": 3459673,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-15T16:33:31Z",
+                "last_commit": "2026-10-16T17:34:23Z",
                 "open_issues": 168,
                 "owner": "MusicPlayerDaemon",
                 "repo": "MPD",
-                "stars": 2793,
+                "stars": 2796,
                 "topics": [
                   "audio",
                   "audio-player",
@@ -271,7 +271,7 @@
             },
             {
               "node_type": "item",
-              "title": "2226⭐ 100🍴 termusic",
+              "title": "2228⭐ 100🍴 termusic",
               "description": ") - Music player in rust with download capabilities.",
               "children": [],
               "repo_info": {
@@ -292,7 +292,7 @@
             },
             {
               "node_type": "item",
-              "title": "1592⭐ 255🍴 spotatui",
+              "title": "1661⭐ 260🍴 spotatui",
               "description": ") - Spotify client.",
               "children": [],
               "repo_info": {
@@ -302,11 +302,11 @@
                 "id": 1093624725,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-15T19:46:49Z",
+                "last_commit": "2026-10-16T19:42:41Z",
                 "open_issues": 58,
                 "owner": "LargeModGames",
                 "repo": "spotatui",
-                "stars": 1650,
+                "stars": 1682,
                 "topics": [
                   "audio-visualization",
                   "cli",
@@ -334,7 +334,7 @@
             },
             {
               "node_type": "item",
-              "title": "1449⭐ 157🍴 Instant-Music-Downloader",
+              "title": "1448⭐ 157🍴 Instant-Music-Downloader",
               "description": ") - Instant music downloader.",
               "children": [],
               "repo_info": {
@@ -372,7 +372,7 @@
                 "open_issues": 13,
                 "owner": "dpnkrpl",
                 "repo": "radio-active",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "audio",
                   "cli",
@@ -397,7 +397,7 @@
             },
             {
               "node_type": "item",
-              "title": "527⭐ 46🍴 ytm-player",
+              "title": "529⭐ 46🍴 ytm-player",
               "description": ") - YouTube Music player.",
               "children": [],
               "repo_info": {
@@ -566,7 +566,7 @@
                 "id": 480754281,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-16T06:23:51Z",
+                "last_commit": "2026-10-16T12:01:36Z",
                 "open_issues": 1,
                 "owner": "gmt4",
                 "repo": "mpvc",
@@ -594,7 +594,7 @@
             },
             {
               "node_type": "item",
-              "title": "112⭐ 9🍴 tunein-cli",
+              "title": "111⭐ 9🍴 tunein-cli",
               "description": ") - TuneIn and Radio Browser client.",
               "children": [],
               "repo_info": {
@@ -716,7 +716,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "197718⭐ 17236🍴 yt-dlp",
+              "title": "198293⭐ 17288🍴 yt-dlp",
               "description": ") - A fork with additional features and fixes.",
               "children": [],
               "repo_info": {
@@ -727,10 +727,10 @@
                 "language": "Python",
                 "license": "Unlicense",
                 "last_commit": "2026-10-10T21:15:52Z",
-                "open_issues": 2704,
+                "open_issues": 2711,
                 "owner": "yt-dlp",
                 "repo": "yt-dlp",
-                "stars": 198252,
+                "stars": 198624,
                 "topics": [
                   "cli",
                   "downloader",
@@ -745,7 +745,7 @@
             },
             {
               "node_type": "item",
-              "title": "141304⭐ 10657🍴 youtube-dl",
+              "title": "141313⭐ 10654🍴 youtube-dl",
               "description": ") - Download videos from YouTube.com and many other video sites.",
               "children": [],
               "repo_info": {
@@ -759,14 +759,14 @@
                 "open_issues": 4124,
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141313,
+                "stars": 141315,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "11848⭐ 1211🍴 streamlink",
+              "title": "11852⭐ 1221🍴 streamlink",
               "description": ") - Extract streams from various websites to a video player of your choosing.",
               "children": [],
               "repo_info": {
@@ -780,7 +780,7 @@
                 "open_issues": 70,
                 "owner": "streamlink",
                 "repo": "streamlink",
-                "stars": 11852,
+                "stars": 11854,
                 "topics": [
                   "cli",
                   "livestream",
@@ -796,7 +796,7 @@
             },
             {
               "node_type": "item",
-              "title": "8797⭐ 669🍴 mps-youtube",
+              "title": "8796⭐ 670🍴 mps-youtube",
               "description": ") - Youtube player.",
               "children": [],
               "repo_info": {
@@ -810,14 +810,14 @@
                 "open_issues": 227,
                 "owner": "mps-youtube",
                 "repo": "yewtube",
-                "stars": 8796,
+                "stars": 8797,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "5525⭐ 383🍴 editly",
+              "title": "5526⭐ 383🍴 editly",
               "description": ") - Declarative video editing.",
               "children": [],
               "repo_info": {
@@ -852,7 +852,7 @@
             },
             {
               "node_type": "item",
-              "title": "889⭐ 91🍴 capcut-cli",
+              "title": "901⭐ 93🍴 capcut-cli",
               "description": ") - Edit CapCut/JianYing projects.",
               "children": [],
               "repo_info": {
@@ -862,11 +862,11 @@
                 "id": 1209237271,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T06:42:21Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-16T09:36:48Z",
+                "open_issues": 4,
                 "owner": "renezander030",
                 "repo": "capcut-cli",
-                "stars": 900,
+                "stars": 909,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -934,7 +934,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "231⭐ 20🍴 moviemon",
+              "title": "230⭐ 20🍴 moviemon",
               "description": ") - Everything about your movies.",
               "children": [],
               "repo_info": {
@@ -1002,7 +1002,7 @@
                 "open_issues": 30,
                 "owner": "lxgr-linux",
                 "repo": "pokete",
-                "stars": 3161,
+                "stars": 3160,
                 "topics": [
                   "cli-game",
                   "console-game",
@@ -1025,7 +1025,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1413⭐ 54🍴 epr",
+              "title": "1412⭐ 54🍴 epr",
               "description": "), 1221⭐ 74🍴 epy) - EPUB reader.",
               "children": [],
               "repo_info": {
@@ -1039,7 +1039,7 @@
                 "open_issues": 25,
                 "owner": "wustho",
                 "repo": "epr",
-                "stars": 1412,
+                "stars": 1411,
                 "topics": [
                   "cli",
                   "ebook",
@@ -1066,7 +1066,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-02-13T00:51:13Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "djadmin",
                 "repo": "medium-cli",
                 "stars": 736,
@@ -1164,7 +1164,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "4981⭐ 465🍴 signal-cli",
+              "title": "4985⭐ 465🍴 signal-cli",
               "description": ") - Signal client.",
               "children": [],
               "repo_info": {
@@ -1178,7 +1178,7 @@
                 "open_issues": 110,
                 "owner": "AsamK",
                 "repo": "signal-cli",
-                "stars": 4985,
+                "stars": 4988,
                 "topics": [
                   "commandline",
                   "dbus",
@@ -1193,7 +1193,7 @@
             },
             {
               "node_type": "item",
-              "title": "3157⭐ 393🍴 irssi",
+              "title": "3158⭐ 393🍴 irssi",
               "description": ") - IRC chat client.",
               "children": [],
               "repo_info": {
@@ -1219,7 +1219,7 @@
             },
             {
               "node_type": "item",
-              "title": "1607⭐ 84🍴 concord",
+              "title": "1608⭐ 87🍴 concord",
               "description": ") - Discord client.",
               "children": [],
               "repo_info": {
@@ -1230,7 +1230,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-15T15:07:44Z",
-                "open_issues": 57,
+                "open_issues": 59,
                 "owner": "chojs23",
                 "repo": "concord",
                 "stars": 1608,
@@ -1286,7 +1286,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-14T20:04:55Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "tlgrcli",
                 "repo": "tlgr",
                 "stars": 193,
@@ -1320,7 +1320,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "36269⭐ 863🍴 just",
+          "title": "36304⭐ 863🍴 just",
           "description": ") - Modern -like command runner.",
           "children": [],
           "repo_info": {
@@ -1330,11 +1330,11 @@
             "id": 61349723,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-15T06:41:33Z",
+            "last_commit": "2026-10-16T23:14:29Z",
             "open_issues": 173,
             "owner": "casey",
             "repo": "just",
-            "stars": 36301,
+            "stars": 36314,
             "topics": []
           },
           "first_seen": "2026-08-28T14:12:19.547Z"
@@ -1406,7 +1406,7 @@
         },
         {
           "node_type": "item",
-          "title": "885⭐ 100🍴 herdr-reviewr",
+          "title": "895⭐ 102🍴 herdr-reviewr",
           "description": ") - Review a coding agent's diff and send line comments back to it.",
           "children": [],
           "repo_info": {
@@ -1416,8 +1416,8 @@
             "id": 1281328046,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-10T06:13:59Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-17T06:13:23Z",
+            "open_issues": 45,
             "owner": "persiyanov",
             "repo": "herdr-reviewr",
             "stars": 895,
@@ -1501,7 +1501,7 @@
         },
         {
           "node_type": "item",
-          "title": "705⭐ 40🍴 bcal",
+          "title": "706⭐ 40🍴 bcal",
           "description": ") - Byte CALculator for storage conversions and calculations.",
           "children": [],
           "repo_info": {
@@ -1535,7 +1535,7 @@
         },
         {
           "node_type": "item",
-          "title": "608⭐ 56🍴 diff2html-cli",
+          "title": "608⭐ 57🍴 diff2html-cli",
           "description": ") - Create pretty HTML from diffs.",
           "children": [],
           "repo_info": {
@@ -1749,7 +1749,7 @@
             "id": 270276040,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T06:13:42Z",
+            "last_commit": "2026-10-16T09:54:19Z",
             "open_issues": 13,
             "owner": "pycontribs",
             "repo": "mk",
@@ -1796,7 +1796,7 @@
         },
         {
           "node_type": "item",
-          "title": "82⭐ 1🍴 ota",
+          "title": "83⭐ 1🍴 ota",
           "description": ") - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).",
           "children": [],
           "repo_info": {
@@ -1857,7 +1857,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "102968⭐ 7185🍴 neovim",
+              "title": "102999⭐ 7190🍴 neovim",
               "description": ") - Modern vim.",
               "children": [],
               "repo_info": {
@@ -1867,11 +1867,11 @@
                 "id": 16408992,
                 "language": "Vim Script",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T05:24:05Z",
-                "open_issues": 1963,
+                "last_commit": "2026-10-17T05:22:30Z",
+                "open_issues": 1975,
                 "owner": "neovim",
                 "repo": "neovim",
-                "stars": 103001,
+                "stars": 103021,
                 "topics": [
                   "api",
                   "c",
@@ -1886,7 +1886,7 @@
             },
             {
               "node_type": "item",
-              "title": "46579⭐ 3836🍴 helix",
+              "title": "46607⭐ 3840🍴 helix",
               "description": ") - Modal editor inspired by kakoune.",
               "children": [],
               "repo_info": {
@@ -1897,10 +1897,10 @@
                 "language": "Rust",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-29T02:36:33Z",
-                "open_issues": 1736,
+                "open_issues": 1737,
                 "owner": "helix-editor",
                 "repo": "helix",
-                "stars": 46608,
+                "stars": 46622,
                 "topics": [
                   "kakoune",
                   "rust",
@@ -1912,7 +1912,7 @@
             },
             {
               "node_type": "item",
-              "title": "41133⭐ 6164🍴 vim",
+              "title": "41145⭐ 6167🍴 vim",
               "description": ") - Vim - the ubiquitous text editor.",
               "children": [],
               "repo_info": {
@@ -1922,11 +1922,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-10-15T20:40:55Z",
-                "open_issues": 1699,
+                "last_commit": "2026-10-17T02:34:00Z",
+                "open_issues": 1705,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41144,
+                "stars": 41147,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1938,7 +1938,7 @@
             },
             {
               "node_type": "item",
-              "title": "29704⭐ 1387🍴 micro",
+              "title": "29712⭐ 1387🍴 micro",
               "description": ") - A simple and intuitive editor.",
               "children": [],
               "repo_info": {
@@ -1948,11 +1948,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-16T00:32:13Z",
-                "open_issues": 913,
+                "last_commit": "2026-10-17T00:32:19Z",
+                "open_issues": 917,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29711,
+                "stars": 29716,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -1968,7 +1968,7 @@
             },
             {
               "node_type": "item",
-              "title": "14695⭐ 736🍴 Microsoft Edit",
+              "title": "14706⭐ 736🍴 Microsoft Edit",
               "description": ") - Simple editor.",
               "children": [],
               "repo_info": {
@@ -1982,7 +1982,7 @@
                 "open_issues": 162,
                 "owner": "microsoft",
                 "repo": "edit",
-                "stars": 14706,
+                "stars": 14707,
                 "topics": [
                   "editor",
                   "rust",
@@ -1994,7 +1994,7 @@
             },
             {
               "node_type": "item",
-              "title": "11107⭐ 787🍴 kakoune",
+              "title": "11110⭐ 788🍴 kakoune",
               "description": ") - Modal editor inspired by vim.",
               "children": [],
               "repo_info": {
@@ -2005,10 +2005,10 @@
                 "language": "C++",
                 "license": "Unlicense",
                 "last_commit": "2026-10-11T05:19:20Z",
-                "open_issues": 927,
+                "open_issues": 928,
                 "owner": "mawww",
                 "repo": "kakoune",
-                "stars": 11110,
+                "stars": 11113,
                 "topics": [
                   "c-plus-plus",
                   "console-application",
@@ -2022,7 +2022,7 @@
             },
             {
               "node_type": "item",
-              "title": "5220⭐ 1412🍴 emacs",
+              "title": "5224⭐ 1415🍴 emacs",
               "description": ") - An extensible, customizable, free/libre text editor — and more.",
               "children": [],
               "repo_info": {
@@ -2032,7 +2032,7 @@
                 "id": 22711712,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-16T04:48:49Z",
+                "last_commit": "2026-10-17T03:44:49Z",
                 "open_issues": 16,
                 "owner": "emacs-mirror",
                 "repo": "emacs",
@@ -2190,7 +2190,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "22492⭐ 1568🍴 localtunnel",
+              "title": "22491⭐ 1570🍴 localtunnel",
               "description": "localtunnel/localtunnel",
               "children": [],
               "repo_info": {
@@ -2204,14 +2204,14 @@
                 "open_issues": 168,
                 "owner": "localtunnel",
                 "repo": "localtunnel",
-                "stars": 22492,
+                "stars": 22490,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "1897⭐ 127🍴 tunnelmole",
+              "title": "1898⭐ 128🍴 tunnelmole",
               "description": "robbie-cahill/tunnelmole-client",
               "children": [],
               "repo_info": {
@@ -2232,7 +2232,7 @@
             },
             {
               "node_type": "item",
-              "title": "57⭐ 4🍴 ytunnel",
+              "title": "58⭐ 4🍴 ytunnel",
               "description": ") - Create and manage Cloudflare Tunnels with custom domains.",
               "children": [],
               "repo_info": {
@@ -2359,10 +2359,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-15T13:28:39Z",
-                "open_issues": 48,
+                "open_issues": 51,
                 "owner": "dbcli",
                 "repo": "pgcli",
-                "stars": 13418,
+                "stars": 13419,
                 "topics": [
                   "database",
                   "postgres",
@@ -2375,7 +2375,7 @@
             },
             {
               "node_type": "item",
-              "title": "11979⭐ 698🍴 mycli",
+              "title": "11983⭐ 699🍴 mycli",
               "description": ") - MySQL client with autocompletion and syntax highlighting.",
               "children": [],
               "repo_info": {
@@ -2385,11 +2385,11 @@
                 "id": 33457642,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T15:57:09Z",
+                "last_commit": "2026-10-16T16:48:40Z",
                 "open_issues": 0,
                 "owner": "dbcli",
                 "repo": "mycli",
-                "stars": 11982,
+                "stars": 11984,
                 "topics": [
                   "auto-completion",
                   "data-science",
@@ -2407,7 +2407,7 @@
             },
             {
               "node_type": "item",
-              "title": "10141⭐ 407🍴 usql",
+              "title": "10145⭐ 407🍴 usql",
               "description": ") - Universal SQL client with autocompletion and syntax highlighting.",
               "children": [],
               "repo_info": {
@@ -2443,7 +2443,7 @@
             },
             {
               "node_type": "item",
-              "title": "2761⭐ 120🍴 iredis",
+              "title": "2762⭐ 119🍴 iredis",
               "description": ") - Redis client with autocompletion and syntax highlighting.",
               "children": [],
               "repo_info": {
@@ -2457,7 +2457,7 @@
                 "open_issues": 49,
                 "owner": "laixintao",
                 "repo": "iredis",
-                "stars": 2762,
+                "stars": 2763,
                 "topics": [
                   "command-line-tool",
                   "redis",
@@ -2578,7 +2578,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "43304⭐ 2733🍴 pm2",
+              "title": "43311⭐ 2733🍴 pm2",
               "description": ") - Production Process Manager for Node.js.",
               "children": [],
               "repo_info": {
@@ -2589,10 +2589,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T23:39:51Z",
-                "open_issues": 1109,
+                "open_issues": 1110,
                 "owner": "Unitech",
                 "repo": "pm2",
-                "stars": 43310,
+                "stars": 43311,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -2610,7 +2610,7 @@
             },
             {
               "node_type": "item",
-              "title": "34812⭐ 2319🍴 k9s",
+              "title": "34821⭐ 2321🍴 k9s",
               "description": ") - Manage Kubernetes Clusters.",
               "children": [],
               "repo_info": {
@@ -2620,11 +2620,11 @@
                 "id": 167596393,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T06:58:42Z",
-                "open_issues": 86,
+                "last_commit": "2026-10-16T23:02:57Z",
+                "open_issues": 91,
                 "owner": "derailed",
                 "repo": "k9s",
-                "stars": 34819,
+                "stars": 34825,
                 "topics": [
                   "go",
                   "golang",
@@ -2640,7 +2640,7 @@
             },
             {
               "node_type": "item",
-              "title": "5299⭐ 278🍴 SAWS",
+              "title": "5299⭐ 279🍴 SAWS",
               "description": ") - Supercharged AWS CLI.",
               "children": [],
               "repo_info": {
@@ -2679,7 +2679,7 @@
             },
             {
               "node_type": "item",
-              "title": "4920⭐ 904🍴 s3cmd",
+              "title": "4919⭐ 904🍴 s3cmd",
               "description": ") - Fully-Featured S3 client.",
               "children": [],
               "repo_info": {
@@ -2693,7 +2693,7 @@
                 "open_issues": 311,
                 "owner": "s3tools",
                 "repo": "s3cmd",
-                "stars": 4920,
+                "stars": 4919,
                 "topics": [
                   "backup",
                   "cli",
@@ -2708,7 +2708,7 @@
             },
             {
               "node_type": "item",
-              "title": "4214⭐ 350🍴 s5cmd",
+              "title": "4216⭐ 350🍴 s5cmd",
               "description": ") - Blazing fast S3 and local filesystem execution tool.",
               "children": [],
               "repo_info": {
@@ -2722,7 +2722,7 @@
                 "open_issues": 200,
                 "owner": "peak",
                 "repo": "s5cmd",
-                "stars": 4216,
+                "stars": 4218,
                 "topics": [
                   "aws",
                   "cli",
@@ -2737,7 +2737,7 @@
             },
             {
               "node_type": "item",
-              "title": "2303⭐ 75🍴 logdy",
+              "title": "2305⭐ 75🍴 logdy",
               "description": ") - Supercharge terminal logs with web UI.",
               "children": [],
               "repo_info": {
@@ -2751,7 +2751,7 @@
                 "open_issues": 38,
                 "owner": "logdyhq",
                 "repo": "logdy-core",
-                "stars": 2305,
+                "stars": 2307,
                 "topics": [
                   "developer-experience",
                   "developer-productivity",
@@ -2871,7 +2871,7 @@
             {
               "node_type": "item",
               "title": "1170⭐ 117🍴 ipfs-deploy",
-              "description": ") - Deploy static websites to 23053⭐ 1530🍴 IPFS).",
+              "description": ") - Deploy static websites to 23054⭐ 1530🍴 IPFS).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2914,7 +2914,7 @@
                 "open_issues": 6,
                 "owner": "Owloops",
                 "repo": "updo",
-                "stars": 1136,
+                "stars": 1137,
                 "topics": [
                   "cli",
                   "monitoring",
@@ -2935,8 +2935,8 @@
                 "id": 236195365,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T16:42:16Z",
-                "open_issues": 137,
+                "last_commit": "2026-10-17T06:45:28Z",
+                "open_issues": 125,
                 "owner": "updatecli",
                 "repo": "updatecli",
                 "stars": 998,
@@ -2953,7 +2953,7 @@
             },
             {
               "node_type": "item",
-              "title": "915⭐ 41🍴 bencher",
+              "title": "915⭐ 42🍴 bencher",
               "description": ") - A continuous benchmarking tool.",
               "children": [],
               "repo_info": {
@@ -2963,11 +2963,11 @@
                 "id": 282416261,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T05:02:06Z",
-                "open_issues": 173,
+                "last_commit": "2026-10-17T06:38:18Z",
+                "open_issues": 169,
                 "owner": "bencherdev",
                 "repo": "bencher",
-                "stars": 915,
+                "stars": 916,
                 "topics": [
                   "benchmark",
                   "benchmarking",
@@ -3117,7 +3117,7 @@
             },
             {
               "node_type": "item",
-              "title": "73⭐ 5🍴 RunWisp",
+              "title": "75⭐ 5🍴 RunWisp",
               "description": ") - Featureful cron and supervisord replacement.",
               "children": [],
               "repo_info": {
@@ -3127,11 +3127,11 @@
                 "id": 1195131229,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T15:17:25Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-16T10:19:40Z",
+                "open_issues": 2,
                 "owner": "runwisp",
                 "repo": "runwisp",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "automation-tool",
                   "cron",
@@ -3192,7 +3192,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "53122⭐ 1695🍴 lazydocker",
+              "title": "53137⭐ 1696🍴 lazydocker",
               "description": ") - Simple docker/docker-compose interface.",
               "children": [],
               "repo_info": {
@@ -3203,17 +3203,17 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-04-19T02:51:06Z",
-                "open_issues": 306,
+                "open_issues": 307,
                 "owner": "jesseduffield",
                 "repo": "lazydocker",
-                "stars": 53137,
+                "stars": 53150,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "17843⭐ 590🍴 ctop",
+              "title": "17845⭐ 590🍴 ctop",
               "description": ") - Top like interface for container metrics.",
               "children": [],
               "repo_info": {
@@ -3227,7 +3227,7 @@
                 "open_issues": 120,
                 "owner": "bcicen",
                 "repo": "ctop",
-                "stars": 17845,
+                "stars": 17846,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -3242,7 +3242,7 @@
             },
             {
               "node_type": "item",
-              "title": "4035⭐ 162🍴 dockly",
+              "title": "4036⭐ 163🍴 dockly",
               "description": ") - Interactively manage containers.",
               "children": [],
               "repo_info": {
@@ -3401,7 +3401,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "24105⭐ 1808🍴 semantic-release",
+              "title": "24111⭐ 1808🍴 semantic-release",
               "description": ") - Fully automated version management and package publishing.",
               "children": [],
               "repo_info": {
@@ -3411,11 +3411,11 @@
                 "id": 24063576,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T14:00:29Z",
+                "last_commit": "2026-10-16T08:26:08Z",
                 "open_issues": 407,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24111,
+                "stars": 24113,
                 "topics": [
                   "automation",
                   "changelog",
@@ -3435,7 +3435,7 @@
             },
             {
               "node_type": "item",
-              "title": "9071⭐ 573🍴 release-it",
+              "title": "9072⭐ 576🍴 release-it",
               "description": ") - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.",
               "children": [],
               "repo_info": {
@@ -3476,7 +3476,7 @@
             },
             {
               "node_type": "item",
-              "title": "7712⭐ 311🍴 np",
+              "title": "7712⭐ 313🍴 np",
               "description": ") - A better .",
               "children": [],
               "repo_info": {
@@ -3533,7 +3533,7 @@
             },
             {
               "node_type": "item",
-              "title": "920⭐ 46🍴 clog",
+              "title": "919⭐ 46🍴 clog",
               "description": ") - A conventional changelog for the rest of us.",
               "children": [],
               "repo_info": {
@@ -3564,7 +3564,7 @@
                 "id": 177991814,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T19:09:37Z",
+                "last_commit": "2026-10-16T11:33:48Z",
                 "open_issues": 42,
                 "owner": "progovoy",
                 "repo": "vmn",
@@ -3609,7 +3609,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-11T11:42:15Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "raineorshine",
                 "repo": "npm-check-updates",
                 "stars": 10318,
@@ -3813,7 +3813,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "25146⭐ 2293🍴 cookiecutter",
+              "title": "25148⭐ 2296🍴 cookiecutter",
               "description": ") - Create projects from templates.",
               "children": [],
               "repo_info": {
@@ -3827,7 +3827,7 @@
                 "open_issues": 329,
                 "owner": "cookiecutter",
                 "repo": "cookiecutter",
-                "stars": 25148,
+                "stars": 25149,
                 "topics": [
                   "cookiecutter",
                   "python"
@@ -3879,7 +3879,7 @@
                 "open_issues": 44,
                 "owner": "tmrts",
                 "repo": "boilr",
-                "stars": 1767,
+                "stars": 1768,
                 "topics": [
                   "boilerplate",
                   "boilerplate-template",
@@ -3979,7 +3979,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "9904⭐ 707🍴 serve",
+              "title": "9907⭐ 709🍴 serve",
               "description": ") - Serve static files (https, CORS, GZIP compression, etc).",
               "children": [],
               "repo_info": {
@@ -3993,7 +3993,7 @@
                 "open_issues": 154,
                 "owner": "vercel",
                 "repo": "serve",
-                "stars": 9907,
+                "stars": 9906,
                 "topics": [
                   "cli",
                   "command",
@@ -4005,7 +4005,7 @@
             },
             {
               "node_type": "item",
-              "title": "1508⭐ 147🍴 shell2http",
+              "title": "1509⭐ 147🍴 shell2http",
               "description": ") - Shell script based HTTP server.",
               "children": [],
               "repo_info": {
@@ -4019,7 +4019,7 @@
                 "open_issues": 6,
                 "owner": "msoap",
                 "repo": "shell2http",
-                "stars": 1509,
+                "stars": 1510,
                 "topics": [
                   "bash",
                   "cli",
@@ -4068,7 +4068,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "38638⭐ 4017🍴 HTTPie",
+              "title": "38646⭐ 4019🍴 HTTPie",
               "description": ") - A user-friendly HTTP client.",
               "children": [],
               "repo_info": {
@@ -4082,7 +4082,7 @@
                 "open_issues": 349,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38646,
+                "stars": 38648,
                 "topics": [
                   "api",
                   "api-client",
@@ -4110,7 +4110,7 @@
             },
             {
               "node_type": "item",
-              "title": "9111⭐ 344🍴 HTTP Prompt",
+              "title": "9110⭐ 344🍴 HTTP Prompt",
               "description": ") - Interactive HTTP client featuring autocomplete and syntax highlighting.",
               "children": [],
               "repo_info": {
@@ -4149,7 +4149,7 @@
             },
             {
               "node_type": "item",
-              "title": "3736⭐ 143🍴 ATAC",
+              "title": "3739⭐ 143🍴 ATAC",
               "description": ") - A feature-full TUI API client made in Rust.",
               "children": [],
               "repo_info": {
@@ -4192,7 +4192,7 @@
                 "open_issues": 31,
                 "owner": "rs",
                 "repo": "curlie",
-                "stars": 3728,
+                "stars": 3730,
                 "topics": [
                   "api-client",
                   "cli",
@@ -4282,7 +4282,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "12268⭐ 820🍴 gdb-dashboard",
+              "title": "12271⭐ 821🍴 gdb-dashboard",
               "description": ") - Modular visual interface for GDB.",
               "children": [],
               "repo_info": {
@@ -4296,7 +4296,7 @@
                 "open_issues": 20,
                 "owner": "cyrus-and",
                 "repo": "gdb-dashboard",
-                "stars": 12271,
+                "stars": 12272,
                 "topics": [
                   "ansi",
                   "assembly",
@@ -4323,7 +4323,7 @@
             },
             {
               "node_type": "item",
-              "title": "6317⭐ 496🍴 bats-core",
+              "title": "6319⭐ 496🍴 bats-core",
               "description": ") - Bash Automated Testing System.",
               "children": [],
               "repo_info": {
@@ -4333,8 +4333,8 @@
                 "id": 104130720,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-15T23:01:28Z",
-                "open_issues": 121,
+                "last_commit": "2026-10-16T16:32:34Z",
+                "open_issues": 122,
                 "owner": "bats-core",
                 "repo": "bats-core",
                 "stars": 6319,
@@ -4353,7 +4353,7 @@
             },
             {
               "node_type": "item",
-              "title": "2629⭐ 211🍴 loadtest",
+              "title": "2630⭐ 211🍴 loadtest",
               "description": ") - Run load tests.",
               "children": [],
               "repo_info": {
@@ -4496,7 +4496,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "7221⭐ 323🍴 Buku",
+          "title": "7225⭐ 324🍴 Buku",
           "description": ") - Browser-independent bookmark manager.",
           "children": [],
           "repo_info": {
@@ -4507,10 +4507,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-15T05:47:34Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "jarun",
             "repo": "buku",
-            "stars": 7225,
+            "stars": 7226,
             "topics": [
               "bookmark",
               "bookmark-manager",
@@ -4557,7 +4557,7 @@
         },
         {
           "node_type": "item",
-          "title": "1712⭐ 84🍴 jiratui",
+          "title": "1718⭐ 87🍴 jiratui",
           "description": ") - TUI app for Jira.",
           "children": [],
           "repo_info": {
@@ -4590,7 +4590,7 @@
         },
         {
           "node_type": "item",
-          "title": "1406⭐ 118🍴 CookCLI",
+          "title": "1409⭐ 117🍴 CookCLI",
           "description": ") - Full-featured recipe manager.",
           "children": [],
           "repo_info": {
@@ -4600,11 +4600,11 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-15T16:29:11Z",
-            "open_issues": 80,
+            "last_commit": "2026-10-16T17:42:30Z",
+            "open_issues": 81,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1409,
+            "stars": 1410,
             "topics": [
               "cooklang",
               "meal-planning",
@@ -4639,7 +4639,7 @@
         },
         {
           "node_type": "item",
-          "title": "1187⭐ 42🍴 uber-cli",
+          "title": "1186⭐ 42🍴 uber-cli",
           "description": ") - Uber client.",
           "children": [],
           "repo_info": {
@@ -4653,7 +4653,7 @@
             "open_issues": 24,
             "owner": "jaebradley",
             "repo": "uber-cli",
-            "stars": 1186,
+            "stars": 1187,
             "topics": [
               "command-line-tool",
               "uber"
@@ -4799,7 +4799,7 @@
         },
         {
           "node_type": "item",
-          "title": "215⭐ 12🍴 tiki",
+          "title": "216⭐ 13🍴 tiki",
           "description": ") - Markdown-based workflow builder.",
           "children": [],
           "repo_info": {
@@ -4878,7 +4878,7 @@
             "open_issues": 3,
             "owner": "roeyazroel",
             "repo": "linear-tui",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "golang",
               "linear",
@@ -4976,8 +4976,8 @@
                 "id": 120080436,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-06T20:54:37Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-16T23:43:34Z",
+                "open_issues": 129,
                 "owner": "GothenburgBitFactory",
                 "repo": "timewarrior",
                 "stars": 1668,
@@ -5008,14 +5008,14 @@
                 "open_issues": 33,
                 "owner": "samg",
                 "repo": "timetrap",
-                "stars": 1512,
+                "stars": 1513,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "1391⭐ 26🍴 arttime",
+              "title": "1389⭐ 26🍴 arttime",
               "description": ") - Featureful timer with native desktop notifications and curated ASCII art.",
               "children": [],
               "repo_info": {
@@ -5029,7 +5029,7 @@
                 "open_issues": 6,
                 "owner": "poetaman",
                 "repo": "arttime",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": [
                   "ansi",
                   "ansi-art",
@@ -5071,7 +5071,7 @@
                 "open_issues": 19,
                 "owner": "nikolassv",
                 "repo": "bartib",
-                "stars": 854,
+                "stars": 855,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -5092,7 +5092,7 @@
             },
             {
               "node_type": "item",
-              "title": "491⭐ 22🍴 Tock",
+              "title": "492⭐ 22🍴 Tock",
               "description": ") - Powerful time tracking tool.",
               "children": [],
               "repo_info": {
@@ -5106,7 +5106,7 @@
                 "open_issues": 2,
                 "owner": "kriuchkov",
                 "repo": "tock",
-                "stars": 492,
+                "stars": 493,
                 "topics": [
                   "cli",
                   "command-line",
@@ -5150,7 +5150,7 @@
             },
             {
               "node_type": "item",
-              "title": "151⭐ 12🍴 Helm",
+              "title": "152⭐ 12🍴 Helm",
               "description": ") - Minimalistic timer.",
               "children": [],
               "repo_info": {
@@ -5190,12 +5190,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Free, open-source screen time tracker for Windows. Monitors app usage, tracks browser tabs, sets daily limits. No cloud, no accounts.",
+                "description": "Free, open-source screen time tracker for Windows. Monitors app usage, tracks browser tabs, sets daily limits. No cloud, no accounts.  [v3 under active development]",
                 "homepage": "https://focusd.0xarchit.is-a.dev",
                 "id": 1126199055,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-02T16:51:40Z",
+                "last_commit": "2026-10-16T09:00:46Z",
                 "open_issues": 2,
                 "owner": "0xarchit",
                 "repo": "Focusd",
@@ -5260,7 +5260,7 @@
             },
             {
               "node_type": "item",
-              "title": "8428⭐ 257🍴 nb",
+              "title": "8444⭐ 258🍴 nb",
               "description": ") - A note‑taking, bookmarking, archiving, and knowledge base application.",
               "children": [],
               "repo_info": {
@@ -5271,10 +5271,10 @@
                 "language": "Shell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T00:51:47Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "xwmx",
                 "repo": "nb",
-                "stars": 8444,
+                "stars": 8445,
                 "topics": [
                   "archiving",
                   "bash",
@@ -5302,7 +5302,7 @@
             },
             {
               "node_type": "item",
-              "title": "3087⭐ 122🍴 dnote",
+              "title": "3088⭐ 124🍴 dnote",
               "description": ") - A interactive, multi-device notebook.",
               "children": [],
               "repo_info": {
@@ -5313,7 +5313,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T10:37:56Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "dnote",
                 "repo": "dnote",
                 "stars": 3088,
@@ -5331,7 +5331,7 @@
             },
             {
               "node_type": "item",
-              "title": "1595⭐ 76🍴 notesmd-cli",
+              "title": "1596⭐ 77🍴 notesmd-cli",
               "description": ") - Interact with your Obsidian vault.",
               "children": [],
               "repo_info": {
@@ -5345,7 +5345,7 @@
                 "open_issues": 0,
                 "owner": "Yakitrak",
                 "repo": "notesmd-cli",
-                "stars": 1596,
+                "stars": 1598,
                 "topics": [
                   "bash",
                   "cli",
@@ -5389,7 +5389,7 @@
             },
             {
               "node_type": "item",
-              "title": "887⭐ 43🍴 eureka",
+              "title": "886⭐ 43🍴 eureka",
               "description": ") - Input and store your ideas.",
               "children": [],
               "repo_info": {
@@ -5418,7 +5418,7 @@
             },
             {
               "node_type": "item",
-              "title": "542⭐ 21🍴 epiq",
+              "title": "543⭐ 21🍴 epiq",
               "description": ") - Local-first distributed issue tracker backed by Git.",
               "children": [],
               "repo_info": {
@@ -5429,7 +5429,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-15T21:56:22Z",
-                "open_issues": 0,
+                "open_issues": 3,
                 "owner": "ljtn",
                 "repo": "epiq",
                 "stars": 543,
@@ -5498,7 +5498,7 @@
             },
             {
               "node_type": "item",
-              "title": "314⭐ 69🍴 confluence-cli",
+              "title": "315⭐ 70🍴 confluence-cli",
               "description": ") - Confluence client.",
               "children": [],
               "repo_info": {
@@ -5508,7 +5508,7 @@
                 "id": 1009026205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T08:09:26Z",
+                "last_commit": "2026-10-17T03:15:08Z",
                 "open_issues": 0,
                 "owner": "pchuri",
                 "repo": "confluence-cli",
@@ -5581,7 +5581,7 @@
             },
             {
               "node_type": "item",
-              "title": "177⭐ 13🍴 kanban",
+              "title": "179⭐ 13🍴 kanban",
               "description": ") - Keyboard-driven project management tool inspired by lazygit.",
               "children": [],
               "repo_info": {
@@ -5591,8 +5591,8 @@
                 "id": 1073368386,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T23:42:57Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-16T19:47:09Z",
+                "open_issues": 8,
                 "owner": "kanban-rs",
                 "repo": "kanban",
                 "stars": 179,
@@ -5758,7 +5758,7 @@
                 "id": 9016537,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-15T10:34:47Z",
+                "last_commit": "2026-10-16T10:21:38Z",
                 "open_issues": 3,
                 "owner": "kdeldycke",
                 "repo": "mail-deduplicate",
@@ -5797,7 +5797,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "6247⭐ 345🍴 ticker",
+              "title": "6245⭐ 345🍴 ticker",
               "description": ") - Stock ticker.",
               "children": [],
               "repo_info": {
@@ -5811,7 +5811,7 @@
                 "open_issues": 34,
                 "owner": "achannarasappa",
                 "repo": "ticker",
-                "stars": 6245,
+                "stars": 6247,
                 "topics": [
                   "bitcoin",
                   "crypto-trading",
@@ -5836,7 +5836,7 @@
             },
             {
               "node_type": "item",
-              "title": "4388⭐ 350🍴 cointop",
+              "title": "4388⭐ 349🍴 cointop",
               "description": ") - Track cryptocurrencies.",
               "children": [],
               "repo_info": {
@@ -5850,7 +5850,7 @@
                 "open_issues": 54,
                 "owner": "cointop-sh",
                 "repo": "cointop",
-                "stars": 4388,
+                "stars": 4389,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -5983,7 +5983,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "11685⭐ 316🍴 slides",
+              "title": "11686⭐ 317🍴 slides",
               "description": ") - A markdown presentation tool.",
               "children": [],
               "repo_info": {
@@ -5997,7 +5997,7 @@
                 "open_issues": 79,
                 "owner": "maaslalani",
                 "repo": "slides",
-                "stars": 11686,
+                "stars": 11687,
                 "topics": [
                   "markdown",
                   "presentation",
@@ -6009,7 +6009,7 @@
             },
             {
               "node_type": "item",
-              "title": "5281⭐ 264🍴 mdp",
+              "title": "5282⭐ 264🍴 mdp",
               "description": ") - A markdown presentation tool.",
               "children": [],
               "repo_info": {
@@ -6023,7 +6023,7 @@
                 "open_issues": 7,
                 "owner": "visit1985",
                 "repo": "mdp",
-                "stars": 5282,
+                "stars": 5281,
                 "topics": [
                   "command-line",
                   "markdown",
@@ -6034,7 +6034,7 @@
             },
             {
               "node_type": "item",
-              "title": "3871⭐ 196🍴 marp",
+              "title": "3871⭐ 198🍴 marp",
               "description": ") - Export Markdown to HTML/PDF/Powerpoint presentations.",
               "children": [],
               "repo_info": {
@@ -6048,7 +6048,7 @@
                 "open_issues": 20,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3871,
+                "stars": 3870,
                 "topics": [
                   "cli",
                   "deck",
@@ -6094,11 +6094,11 @@
                 "id": 35232064,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T17:14:05Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-16T20:55:30Z",
+                "open_issues": 51,
                 "owner": "astefanutti",
                 "repo": "decktape",
-                "stars": 2431,
+                "stars": 2432,
                 "topics": [
                   "converter",
                   "exporter",
@@ -6119,7 +6119,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3777⭐ 337🍴 gcalcli",
+              "title": "3777⭐ 338🍴 gcalcli",
               "description": ") - Google calendar client.",
               "children": [],
               "repo_info": {
@@ -6130,17 +6130,17 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-10-25T01:39:59Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "insanum",
                 "repo": "gcalcli",
-                "stars": 3777,
+                "stars": 3776,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "3074⭐ 237🍴 khal",
+              "title": "3075⭐ 237🍴 khal",
               "description": ") - CalDAV ready CLI and TUI calendar.",
               "children": [],
               "repo_info": {
@@ -6151,7 +6151,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-12T22:03:32Z",
-                "open_issues": 268,
+                "open_issues": 270,
                 "owner": "pimutils",
                 "repo": "khal",
                 "stars": 3075,
@@ -6166,7 +6166,7 @@
             },
             {
               "node_type": "item",
-              "title": "1888⭐ 184🍴 vdirsyncer",
+              "title": "1888⭐ 185🍴 vdirsyncer",
               "description": ") - CalDAV sync.",
               "children": [],
               "repo_info": {
@@ -6219,7 +6219,7 @@
                 "open_issues": 9,
                 "owner": "BRO3886",
                 "repo": "rem",
-                "stars": 156,
+                "stars": 155,
                 "topics": [
                   "cli",
                   "eventkit",
@@ -6255,7 +6255,7 @@
             },
             {
               "node_type": "item",
-              "title": "88⭐ 13🍴 ical",
+              "title": "89⭐ 13🍴 ical",
               "description": ") - Manage macOS Calendar.",
               "children": [],
               "repo_info": {
@@ -6293,7 +6293,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "43112⭐ 3954🍴 aria2",
+          "title": "43131⭐ 3955🍴 aria2",
           "description": ") - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.",
           "children": [],
           "repo_info": {
@@ -6307,7 +6307,7 @@
             "open_issues": 1182,
             "owner": "aria2",
             "repo": "aria2",
-            "stars": 43131,
+            "stars": 43143,
             "topics": [
               "bittorrent",
               "cpp11",
@@ -6323,7 +6323,7 @@
         },
         {
           "node_type": "item",
-          "title": "5105⭐ 215🍴 alex",
+          "title": "5106⭐ 215🍴 alex",
           "description": ") - Catch insensitive, inconsiderate writing.",
           "children": [],
           "repo_info": {
@@ -6337,7 +6337,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5106,
+            "stars": 5105,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -6349,7 +6349,7 @@
         },
         {
           "node_type": "item",
-          "title": "1636⭐ 45🍴 gittype",
+          "title": "1637⭐ 45🍴 gittype",
           "description": ") - Turn your source code into typing challenges.",
           "children": [],
           "repo_info": {
@@ -6359,11 +6359,11 @@
             "id": 1046385861,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-15T00:30:04Z",
+            "last_commit": "2026-10-17T03:51:11Z",
             "open_issues": 16,
             "owner": "unhappychoice",
             "repo": "gittype",
-            "stars": 1637,
+            "stars": 1639,
             "topics": [
               "cli-game",
               "cli-tool",
@@ -6444,7 +6444,7 @@
         },
         {
           "node_type": "item",
-          "title": "187⭐ 54🍴 amazon-orders",
+          "title": "190⭐ 54🍴 amazon-orders",
           "description": ") - Retrieve Amazon order history.",
           "children": [],
           "repo_info": {
@@ -6454,11 +6454,11 @@
             "id": 739464341,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T15:18:07Z",
+            "last_commit": "2026-10-16T23:48:11Z",
             "open_issues": 4,
             "owner": "alexdlaird",
             "repo": "amazon-orders",
-            "stars": 190,
+            "stars": 191,
             "topics": [
               "amazon",
               "beautifulsoup",
@@ -6527,7 +6527,7 @@
         },
         {
           "node_type": "item",
-          "title": "103⭐ 2🍴 OctoType",
+          "title": "104⭐ 2🍴 OctoType",
           "description": ") - A customizable typing trainer.",
           "children": [],
           "repo_info": {
@@ -6609,7 +6609,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "70322⭐ 2490🍴 Mole",
+              "title": "70609⭐ 2501🍴 Mole",
               "description": ") - Clean your Mac and more.",
               "children": [],
               "repo_info": {
@@ -6619,11 +6619,11 @@
                 "id": 1062356571,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-16T06:20:23Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-17T01:57:43Z",
+                "open_issues": 7,
                 "owner": "tw93",
                 "repo": "Mole",
-                "stars": 70596,
+                "stars": 70709,
                 "topics": [
                   "analyzer",
                   "appcleaner",
@@ -6681,7 +6681,7 @@
             },
             {
               "node_type": "item",
-              "title": "688⭐ 38🍴 dark-mode",
+              "title": "688⭐ 40🍴 dark-mode",
               "description": ") - Toggle dark mode.",
               "children": [],
               "repo_info": {
@@ -6762,7 +6762,7 @@
                 "id": 1222452390,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-15T09:11:02Z",
+                "last_commit": "2026-10-16T09:04:03Z",
                 "open_issues": 1,
                 "owner": "thousandflowers",
                 "repo": "Raccoon",
@@ -6929,7 +6929,7 @@
             },
             {
               "node_type": "item",
-              "title": "1319⭐ 87🍴 upterm",
+              "title": "1321⭐ 87🍴 upterm",
               "description": ") - Instant terminal sharing.",
               "children": [],
               "repo_info": {
@@ -6939,11 +6939,11 @@
                 "id": 218876111,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T04:03:38Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-17T04:47:55Z",
+                "open_issues": 15,
                 "owner": "owenthereal",
                 "repo": "upterm",
-                "stars": 1321,
+                "stars": 1323,
                 "topics": [
                   "golang",
                   "sharing",
@@ -6964,7 +6964,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "6109⭐ 125🍴 xxh",
+              "title": "6109⭐ 126🍴 xxh",
               "description": ") - Bring your favorite shell wherever you go through SSH.",
               "children": [],
               "repo_info": {
@@ -6978,7 +6978,7 @@
                 "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6109,
+                "stars": 6110,
                 "topics": [
                   "awesome",
                   "awesome-ssh",
@@ -7013,7 +7013,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "13604⭐ 795🍴 sshuttle",
+              "title": "13608⭐ 798🍴 sshuttle",
               "description": ") - Transparent proxy server that works as a poor man's VPN.",
               "children": [],
               "repo_info": {
@@ -7027,14 +7027,14 @@
                 "open_issues": 204,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13608,
+                "stars": 13611,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "5135⭐ 239🍴 rustnet",
+              "title": "5138⭐ 241🍴 rustnet",
               "description": ") - Network monitoring with process identification and deep packet inspection.",
               "children": [],
               "repo_info": {
@@ -7044,11 +7044,11 @@
                 "id": 973688295,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T18:38:38Z",
+                "last_commit": "2026-10-16T18:06:49Z",
                 "open_issues": 31,
                 "owner": "domcyrus",
                 "repo": "rustnet",
-                "stars": 5138,
+                "stars": 5139,
                 "topics": [
                   "android",
                   "cli",
@@ -7105,7 +7105,7 @@
             },
             {
               "node_type": "item",
-              "title": "1937⭐ 154🍴 gg",
+              "title": "1936⭐ 154🍴 gg",
               "description": ") - One-click proxy without installing v2ray or anything else.",
               "children": [],
               "repo_info": {
@@ -7116,10 +7116,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-06T16:26:16Z",
-                "open_issues": 48,
+                "open_issues": 47,
                 "owner": "daeuniverse",
                 "repo": "gg",
-                "stars": 1936,
+                "stars": 1935,
                 "topics": [
                   "go-graft",
                   "graftcp",
@@ -7132,7 +7132,7 @@
             },
             {
               "node_type": "item",
-              "title": "1927⭐ 82🍴 tldx",
+              "title": "1929⭐ 83🍴 tldx",
               "description": ") - Bulk domain availability checker.",
               "children": [],
               "repo_info": {
@@ -7146,7 +7146,7 @@
                 "open_issues": 3,
                 "owner": "brandonyoungdev",
                 "repo": "tldx",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": [
                   "cli",
                   "developer-tools",
@@ -7158,7 +7158,7 @@
             },
             {
               "node_type": "item",
-              "title": "929⭐ 76🍴 certificate-ripper",
+              "title": "927⭐ 76🍴 certificate-ripper",
               "description": ") - Extract server certificates.",
               "children": [],
               "repo_info": {
@@ -7232,7 +7232,7 @@
             },
             {
               "node_type": "item",
-              "title": "233⭐ 4🍴 neoss",
+              "title": "233⭐ 5🍴 neoss",
               "description": ") - User-friendly and detailed socket statistics.",
               "children": [],
               "repo_info": {
@@ -7321,7 +7321,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "60256⭐ 2700🍴 starship",
+              "title": "60283⭐ 2704🍴 starship",
               "description": ") - Minimal, blazing-fast, and infinitely customizable prompt for any shell.",
               "children": [],
               "repo_info": {
@@ -7331,11 +7331,11 @@
                 "id": 178991158,
                 "language": "Rust",
                 "license": "ISC",
-                "last_commit": "2026-10-16T04:22:27Z",
-                "open_issues": 1053,
+                "last_commit": "2026-10-17T04:23:07Z",
+                "open_issues": 1047,
                 "owner": "starship",
                 "repo": "starship",
-                "stars": 60282,
+                "stars": 60295,
                 "topics": [
                   "bash",
                   "fish",
@@ -7395,7 +7395,7 @@
             },
             {
               "node_type": "item",
-              "title": "2315⭐ 38🍴 gowall",
+              "title": "2316⭐ 38🍴 gowall",
               "description": ") - Extract image color palette, recolor images/icon and more.",
               "children": [],
               "repo_info": {
@@ -7409,7 +7409,7 @@
                 "open_issues": 13,
                 "owner": "Achno",
                 "repo": "gowall",
-                "stars": 2316,
+                "stars": 2319,
                 "topics": [
                   "background-removal",
                   "cli",
@@ -7431,7 +7431,7 @@
             },
             {
               "node_type": "item",
-              "title": "580⭐ 25🍴 splash-cli",
+              "title": "581⭐ 25🍴 splash-cli",
               "description": ") - Beautiful wallpapers from Unsplash.",
               "children": [],
               "repo_info": {
@@ -7445,7 +7445,7 @@
                 "open_issues": 3,
                 "owner": "rawnly",
                 "repo": "splash-cli",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "beautiful-photos",
                   "beautiful-wallpapers",
@@ -7533,8 +7533,8 @@
                 "id": 1026719372,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T18:32:33Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-16T11:36:21Z",
+                "open_issues": 2,
                 "owner": "nitinbhat972",
                 "repo": "cwal",
                 "stars": 131,
@@ -7599,7 +7599,7 @@
                 "open_issues": 30,
                 "owner": "akavel",
                 "repo": "up",
-                "stars": 8853,
+                "stars": 8854,
                 "topics": [
                   "instant-preview",
                   "linux",
@@ -7644,7 +7644,7 @@
             },
             {
               "node_type": "item",
-              "title": "1296⭐ 24🍴 intelli-shell",
+              "title": "1295⭐ 25🍴 intelli-shell",
               "description": ") - Manage command templates/snippets.",
               "children": [],
               "repo_info": {
@@ -7658,7 +7658,7 @@
                 "open_issues": 6,
                 "owner": "lasantosr",
                 "repo": "intelli-shell",
-                "stars": 1295,
+                "stars": 1296,
                 "topics": [
                   "autocomplete",
                   "bash",
@@ -7692,14 +7692,14 @@
                 "open_issues": 24,
                 "owner": "theZiz",
                 "repo": "aha",
-                "stars": 1087,
+                "stars": 1088,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "994⭐ 20🍴 envio",
+              "title": "993⭐ 20🍴 envio",
               "description": ") - Manage environment variables securely.",
               "children": [],
               "repo_info": {
@@ -7847,7 +7847,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "25015⭐ 927🍴 fastfetch",
+              "title": "25037⭐ 930🍴 fastfetch",
               "description": ") - System information tool.",
               "children": [],
               "repo_info": {
@@ -7857,11 +7857,11 @@
                 "id": 340181518,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-14T08:39:27Z",
-                "open_issues": 106,
+                "last_commit": "2026-10-17T02:30:19Z",
+                "open_issues": 105,
                 "owner": "fastfetch-cli",
                 "repo": "fastfetch",
-                "stars": 25035,
+                "stars": 25051,
                 "topics": [
                   "bsdfetch",
                   "command-line",
@@ -7879,7 +7879,7 @@
             },
             {
               "node_type": "item",
-              "title": "5925⭐ 179🍴 Clipboard",
+              "title": "5928⭐ 180🍴 Clipboard",
               "description": ") - Cut, copy, and paste anything, anywhere.",
               "children": [],
               "repo_info": {
@@ -7893,7 +7893,7 @@
                 "open_issues": 27,
                 "owner": "Slackadays",
                 "repo": "Clipboard",
-                "stars": 5928,
+                "stars": 5931,
                 "topics": [
                   "bash",
                   "cli",
@@ -8086,7 +8086,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "27686⭐ 796🍴 glow",
+              "title": "27712⭐ 805🍴 glow",
               "description": ") - Styled markdown rendering.",
               "children": [],
               "repo_info": {
@@ -8100,7 +8100,7 @@
                 "open_issues": 253,
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 27708,
+                "stars": 27719,
                 "topics": [
                   "cli",
                   "excitement",
@@ -8112,7 +8112,7 @@
             },
             {
               "node_type": "item",
-              "title": "6840⭐ 437🍴 grip",
+              "title": "6842⭐ 437🍴 grip",
               "description": ") - Preview markdown files as GitHub would render them.",
               "children": [],
               "repo_info": {
@@ -8140,7 +8140,7 @@
             },
             {
               "node_type": "item",
-              "title": "4470⭐ 482🍴 DocToc",
+              "title": "4469⭐ 482🍴 DocToc",
               "description": ") - Generates table of contents for markdown files.",
               "children": [],
               "repo_info": {
@@ -8188,7 +8188,7 @@
             },
             {
               "node_type": "item",
-              "title": "1435⭐ 53🍴 mcat",
+              "title": "1439⭐ 54🍴 mcat",
               "description": ") - Markdown, images, video, and document viewer.",
               "children": [],
               "repo_info": {
@@ -8220,7 +8220,7 @@
             },
             {
               "node_type": "item",
-              "title": "1056⭐ 22🍴 mq",
+              "title": "1058⭐ 22🍴 mq",
               "description": ") - Jq-like markdown processor.",
               "children": [],
               "repo_info": {
@@ -8230,11 +8230,11 @@
                 "id": 938149101,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-16T00:59:15Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-17T06:25:56Z",
+                "open_issues": 14,
                 "owner": "harehare",
                 "repo": "mq",
-                "stars": 1058,
+                "stars": 1060,
                 "topics": [
                   "cli",
                   "html-to-markdown",
@@ -8309,8 +8309,8 @@
                 "id": 372102795,
                 "language": "Go",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-09T10:03:02Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-16T10:02:42Z",
+                "open_issues": 39,
                 "owner": "ddddddO",
                 "repo": "gtree",
                 "stars": 365,
@@ -8341,7 +8341,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "7257⭐ 565🍴 gopass",
+              "title": "7259⭐ 565🍴 gopass",
               "description": ") - Fully-featured password manager.",
               "children": [],
               "repo_info": {
@@ -8351,11 +8351,11 @@
                 "id": 80723074,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-15T12:03:51Z",
-                "open_issues": 83,
+                "last_commit": "2026-10-16T11:01:01Z",
+                "open_issues": 81,
                 "owner": "gopasspw",
                 "repo": "gopass",
-                "stars": 7259,
+                "stars": 7262,
                 "topics": [
                   "git",
                   "go",
@@ -8424,7 +8424,7 @@
             },
             {
               "node_type": "item",
-              "title": "160⭐ 3🍴 andcli",
+              "title": "161⭐ 3🍴 andcli",
               "description": ") - Work with 2FA tokens from multiple OTP providers.",
               "children": [],
               "repo_info": {
@@ -8485,7 +8485,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2701⭐ 197🍴 Qalculate",
+              "title": "2703⭐ 197🍴 Qalculate",
               "description": ") - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.",
               "children": [],
               "repo_info": {
@@ -8495,18 +8495,18 @@
                 "id": 60243288,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-15T07:11:31Z",
-                "open_issues": 199,
+                "last_commit": "2026-10-16T16:49:56Z",
+                "open_issues": 200,
                 "owner": "Qalculate",
                 "repo": "libqalculate",
-                "stars": 2703,
+                "stars": 2704,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "302⭐ 8🍴 numr",
+              "title": "303⭐ 8🍴 numr",
               "description": ") - Natural-language calculator with variables, units, currencies, and live exchange rates.",
               "children": [],
               "repo_info": {
@@ -8573,7 +8573,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1789⭐ 129🍴 papis",
+              "title": "1789⭐ 131🍴 papis",
               "description": ") - Extensible document and bibliography manager.",
               "children": [],
               "repo_info": {
@@ -8587,7 +8587,7 @@
                 "open_issues": 84,
                 "owner": "papis",
                 "repo": "papis",
-                "stars": 1789,
+                "stars": 1790,
                 "topics": [
                   "arxiv",
                   "biblatex",
@@ -8615,7 +8615,7 @@
             },
             {
               "node_type": "item",
-              "title": "292⭐ 35🍴 pubs",
+              "title": "291⭐ 35🍴 pubs",
               "description": ") - Scientific bibliography manager.",
               "children": [],
               "repo_info": {
@@ -8690,7 +8690,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "30662⭐ 1276🍴 wttr.in",
+              "title": "30670⭐ 1276🍴 wttr.in",
               "description": "chubin/wttr.in",
               "children": [],
               "repo_info": {
@@ -8704,7 +8704,7 @@
                 "open_issues": 333,
                 "owner": "chubin",
                 "repo": "wttr.in",
-                "stars": 30670,
+                "stars": 30678,
                 "topics": [
                   "ascii-art",
                   "curl",
@@ -8733,7 +8733,7 @@
                 "open_issues": 16,
                 "owner": "schachmat",
                 "repo": "wego",
-                "stars": 8559,
+                "stars": 8560,
                 "topics": [
                   "ascii-art",
                   "ascii-table",
@@ -8749,7 +8749,7 @@
             },
             {
               "node_type": "item",
-              "title": "3069⭐ 117🍴 weathr",
+              "title": "3066⭐ 118🍴 weathr",
               "description": ") - ASCII animations.",
               "children": [],
               "repo_info": {
@@ -8763,7 +8763,7 @@
                 "open_issues": 19,
                 "owner": "Veirt",
                 "repo": "weathr",
-                "stars": 3066,
+                "stars": 3068,
                 "topics": [
                   "cli",
                   "rust-lang",
@@ -8776,7 +8776,7 @@
             },
             {
               "node_type": "item",
-              "title": "625⭐ 22🍴 linecast",
+              "title": "632⭐ 22🍴 linecast",
               "description": ") - Weather, tides, sun, moon, and maps.",
               "children": [],
               "repo_info": {
@@ -8786,11 +8786,11 @@
                 "id": 1173804433,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T22:28:39Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-16T13:24:07Z",
+                "open_issues": 11,
                 "owner": "ashuttl",
                 "repo": "linecast",
-                "stars": 632,
+                "stars": 633,
                 "topics": [
                   "astronomy",
                   "ephemeris",
@@ -8852,7 +8852,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "9258⭐ 299🍴 mapscii",
+              "title": "9261⭐ 299🍴 mapscii",
               "description": ") - Terminal Map Viewer.",
               "children": [],
               "repo_info": {
@@ -8866,7 +8866,7 @@
                 "open_issues": 54,
                 "owner": "rastapasta",
                 "repo": "mapscii",
-                "stars": 9261,
+                "stars": 9262,
                 "topics": [
                   "ascii-art",
                   "braille",
@@ -8881,7 +8881,7 @@
             },
             {
               "node_type": "item",
-              "title": "7524⭐ 389🍴 translate-shell",
+              "title": "7523⭐ 389🍴 translate-shell",
               "description": ") - Google Translate interface.",
               "children": [],
               "repo_info": {
@@ -8916,7 +8916,7 @@
                 "open_issues": 0,
                 "owner": "zquestz",
                 "repo": "s",
-                "stars": 2615,
+                "stars": 2616,
                 "topics": [
                   "golang",
                   "search",
@@ -9051,7 +9051,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "14049⭐ 1911🍴 speedtest-cli",
+              "title": "14048⭐ 1910🍴 speedtest-cli",
               "description": ") - Test internet bandwidth using speedtest.net.",
               "children": [],
               "repo_info": {
@@ -9077,7 +9077,7 @@
             },
             {
               "node_type": "item",
-              "title": "12002⭐ 361🍴 bandwhich",
+              "title": "12006⭐ 367🍴 bandwhich",
               "description": ") - Track bandwidth utilization by process.",
               "children": [],
               "repo_info": {
@@ -9091,7 +9091,7 @@
                 "open_issues": 57,
                 "owner": "imsnif",
                 "repo": "bandwhich",
-                "stars": 12006,
+                "stars": 12007,
                 "topics": [
                   "bandwidth",
                   "cli",
@@ -9117,7 +9117,7 @@
                 "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "speed-test",
-                "stars": 3951,
+                "stars": 3952,
                 "topics": [
                   "cli-app",
                   "command-line-tool",
@@ -9160,7 +9160,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2072⭐ 55🍴 astroterm",
+              "title": "2074⭐ 56🍴 astroterm",
               "description": ") - An ASCII planetarium.",
               "children": [],
               "repo_info": {
@@ -9174,7 +9174,7 @@
                 "open_issues": 38,
                 "owner": "da-luce",
                 "repo": "astroterm",
-                "stars": 2074,
+                "stars": 2076,
                 "topics": [
                   "ascii",
                   "ascii-art",
@@ -9265,7 +9265,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1543⭐ 76🍴 YAMLResume",
+              "title": "1542⭐ 76🍴 YAMLResume",
               "description": ") - Resumes as code.",
               "children": [],
               "repo_info": {
@@ -9304,7 +9304,7 @@
             },
             {
               "node_type": "item",
-              "title": "174⭐ 22🍴 resumx",
+              "title": "175⭐ 22🍴 resumx",
               "description": ") - Markdown resume renderer with auto page-fitting.",
               "children": [],
               "repo_info": {
@@ -9339,7 +9339,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2087⭐ 99🍴 Plakar",
+              "title": "2087⭐ 101🍴 Plakar",
               "description": ") - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.",
               "children": [],
               "repo_info": {
@@ -9349,11 +9349,11 @@
                 "id": 349379355,
                 "language": "Go",
                 "license": "ISC",
-                "last_commit": "2026-10-16T05:54:43Z",
-                "open_issues": 104,
+                "last_commit": "2026-10-16T17:29:48Z",
+                "open_issues": 98,
                 "owner": "PlakarKorp",
                 "repo": "plakar",
-                "stars": 2087,
+                "stars": 2088,
                 "topics": [
                   "backups",
                   "deduplication",
@@ -9364,7 +9364,7 @@
             },
             {
               "node_type": "item",
-              "title": "1337⭐ 264🍴 shallow-backup",
+              "title": "1337⭐ 265🍴 shallow-backup",
               "description": ") - Git integrated backup tool.",
               "children": [],
               "repo_info": {
@@ -9402,7 +9402,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "97891⭐ 3958🍴 The Fuck",
+          "title": "97910⭐ 3958🍴 The Fuck",
           "description": ") - Magnificent app which corrects your previous console command.",
           "children": [],
           "repo_info": {
@@ -9416,7 +9416,7 @@
             "open_issues": 461,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97909,
+            "stars": 97911,
             "topics": [
               "python",
               "shell"
@@ -9426,7 +9426,7 @@
         },
         {
           "node_type": "item",
-          "title": "63942⭐ 5462🍴 tldr",
+          "title": "63959⭐ 5468🍴 tldr",
           "description": ") - Simplified and community-driven man pages.",
           "children": [],
           "repo_info": {
@@ -9436,11 +9436,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T05:44:59Z",
-            "open_issues": 284,
+            "last_commit": "2026-10-16T14:48:54Z",
+            "open_issues": 287,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63957,
+            "stars": 63967,
             "topics": [
               "android",
               "bsd",
@@ -9468,7 +9468,7 @@
         },
         {
           "node_type": "item",
-          "title": "17765⭐ 585🍴 navi",
+          "title": "17771⭐ 589🍴 navi",
           "description": ") - Interactive cheatsheet tool.",
           "children": [],
           "repo_info": {
@@ -9478,11 +9478,11 @@
             "id": 209799228,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T10:07:15Z",
+            "last_commit": "2026-10-16T11:52:42Z",
             "open_issues": 120,
             "owner": "denisidoro",
             "repo": "navi",
-            "stars": 17770,
+            "stars": 17775,
             "topics": [
               "bash",
               "cheatsheets",
@@ -9499,7 +9499,7 @@
         },
         {
           "node_type": "item",
-          "title": "10841⭐ 860🍴 howdoi",
+          "title": "10842⭐ 860🍴 howdoi",
           "description": ") - Instant coding answers.",
           "children": [],
           "repo_info": {
@@ -9513,7 +9513,7 @@
             "open_issues": 19,
             "owner": "gleitz",
             "repo": "howdoi",
-            "stars": 10842,
+            "stars": 10841,
             "topics": []
           },
           "first_seen": "2026-08-28T14:12:19.547Z"
@@ -9574,7 +9574,7 @@
         },
         {
           "node_type": "item",
-          "title": "510⭐ 22🍴 Wat",
+          "title": "511⭐ 22🍴 Wat",
           "description": ") - Instant, central, community-built docs.",
           "children": [],
           "repo_info": {
@@ -9635,7 +9635,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "9341⭐ 374🍴 visidata",
+          "title": "9348⭐ 374🍴 visidata",
           "description": ") - Spreadsheet multitool for data discovery and arrangement.",
           "children": [],
           "repo_info": {
@@ -9645,11 +9645,11 @@
             "id": 72070681,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T01:30:04Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-17T05:00:58Z",
+            "open_issues": 68,
             "owner": "saulpw",
             "repo": "visidata",
-            "stars": 9348,
+            "stars": 9349,
             "topics": [
               "cli",
               "csv",
@@ -9675,7 +9675,7 @@
         },
         {
           "node_type": "item",
-          "title": "5710⭐ 238🍴 sc-im",
+          "title": "5712⭐ 238🍴 sc-im",
           "description": ") - Vim-like spreadsheet calculator.",
           "children": [],
           "repo_info": {
@@ -9741,7 +9741,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "35804⭐ 4551🍴 jq",
+              "title": "35833⭐ 4695🍴 jq",
               "description": ") - JSON processor.",
               "children": [],
               "repo_info": {
@@ -9751,11 +9751,11 @@
                 "id": 5101141,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T07:47:59Z",
+                "last_commit": "2026-10-16T12:50:47Z",
                 "open_issues": 423,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35832,
+                "stars": 35837,
                 "topics": [
                   "jq"
                 ]
@@ -9764,7 +9764,7 @@
             },
             {
               "node_type": "item",
-              "title": "8046⭐ 175🍴 dasel",
+              "title": "8047⭐ 176🍴 dasel",
               "description": ") - JSON/YAML/TOML/XML processor (like jq/yq).",
               "children": [],
               "repo_info": {
@@ -9775,10 +9775,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-15T00:16:10Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "TomWright",
                 "repo": "dasel",
-                "stars": 8047,
+                "stars": 8048,
                 "topics": [
                   "cli",
                   "config",
@@ -9806,7 +9806,7 @@
             },
             {
               "node_type": "item",
-              "title": "2993⭐ 87🍴 yq",
+              "title": "2993⭐ 88🍴 yq",
               "description": ") - YAML processor.",
               "children": [],
               "repo_info": {
@@ -9820,7 +9820,7 @@
                 "open_issues": 20,
                 "owner": "kislyuk",
                 "repo": "yq",
-                "stars": 2993,
+                "stars": 2994,
                 "topics": [
                   "cli",
                   "command-line",
@@ -9849,7 +9849,7 @@
                 "open_issues": 10,
                 "owner": "sibprogrammer",
                 "repo": "xq",
-                "stars": 1160,
+                "stars": 1161,
                 "topics": [
                   "cli",
                   "formatter",
@@ -9865,7 +9865,7 @@
             },
             {
               "node_type": "item",
-              "title": "1056⭐ 22🍴 mq",
+              "title": "1058⭐ 22🍴 mq",
               "description": ") - Jq-like markdown processor.",
               "children": [],
               "repo_info": {
@@ -9875,11 +9875,11 @@
                 "id": 938149101,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-16T00:59:15Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-17T06:25:56Z",
+                "open_issues": 14,
                 "owner": "harehare",
                 "repo": "mq",
-                "stars": 1058,
+                "stars": 1060,
                 "topics": [
                   "cli",
                   "html-to-markdown",
@@ -9956,7 +9956,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "20678⭐ 499🍴 fx",
+              "title": "20683⭐ 505🍴 fx",
               "description": ") - Command-line JSON viewer.",
               "children": [],
               "repo_info": {
@@ -9967,10 +9967,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-08T08:28:20Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "antonmedv",
                 "repo": "fx",
-                "stars": 20683,
+                "stars": 20685,
                 "topics": [
                   "cli",
                   "command-line",
@@ -9982,7 +9982,7 @@
             },
             {
               "node_type": "item",
-              "title": "14528⭐ 344🍴 gron",
+              "title": "14528⭐ 345🍴 gron",
               "description": ") - Make JSON greppable.",
               "children": [],
               "repo_info": {
@@ -9996,7 +9996,7 @@
                 "open_issues": 51,
                 "owner": "tomnomnom",
                 "repo": "gron",
-                "stars": 14528,
+                "stars": 14529,
                 "topics": [
                   "cli",
                   "json"
@@ -10128,7 +10128,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "strip-json-comments-cli",
-                "stars": 82,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
@@ -10169,7 +10169,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1890⭐ 102🍴 dyff",
+              "title": "1895⭐ 102🍴 dyff",
               "description": ") - YAML diff tool.",
               "children": [],
               "repo_info": {
@@ -10183,7 +10183,7 @@
                 "open_issues": 72,
                 "owner": "homeport",
                 "repo": "dyff",
-                "stars": 1894,
+                "stars": 1897,
                 "topics": [
                   "bosh",
                   "diff",
@@ -10276,7 +10276,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3906⭐ 251🍴 stegcloak",
+              "title": "3909⭐ 251🍴 stegcloak",
               "description": ") - Hide secrets with invisible characters in plain text securely.",
               "children": [],
               "repo_info": {
@@ -10290,7 +10290,7 @@
                 "open_issues": 15,
                 "owner": "KuroLabs",
                 "repo": "stegcloak",
-                "stars": 3909,
+                "stars": 3908,
                 "topics": [
                   "cipher",
                   "compression",
@@ -10327,7 +10327,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "42815⭐ 1051🍴 yazi",
+              "title": "42860⭐ 1053🍴 yazi",
               "description": ") - Blazing fast file manager.",
               "children": [],
               "repo_info": {
@@ -10338,10 +10338,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:22:47Z",
-                "open_issues": 68,
+                "open_issues": 67,
                 "owner": "sxyazi",
                 "repo": "yazi",
-                "stars": 42859,
+                "stars": 42876,
                 "topics": [
                   "android",
                   "asyncio",
@@ -10368,7 +10368,7 @@
             },
             {
               "node_type": "item",
-              "title": "22070⭐ 829🍴 nnn",
+              "title": "22078⭐ 834🍴 nnn",
               "description": ") - File browser and disk usage analyzer with excellent desktop integration.",
               "children": [],
               "repo_info": {
@@ -10382,7 +10382,7 @@
                 "open_issues": 1,
                 "owner": "jarun",
                 "repo": "nnn",
-                "stars": 22078,
+                "stars": 22080,
                 "topics": [
                   "android",
                   "batch-rename",
@@ -10421,7 +10421,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-09T11:38:00Z",
-                "open_issues": 899,
+                "open_issues": 900,
                 "owner": "ranger",
                 "repo": "ranger",
                 "stars": 17422,
@@ -10437,7 +10437,7 @@
             },
             {
               "node_type": "item",
-              "title": "9552⭐ 382🍴 lf",
+              "title": "9558⭐ 383🍴 lf",
               "description": ") - Fast, extensively customizable file manager.",
               "children": [],
               "repo_info": {
@@ -10451,7 +10451,7 @@
                 "open_issues": 84,
                 "owner": "gokcehan",
                 "repo": "lf",
-                "stars": 9557,
+                "stars": 9565,
                 "topics": [
                   "file-manager",
                   "terminal"
@@ -10461,7 +10461,7 @@
             },
             {
               "node_type": "item",
-              "title": "4837⭐ 97🍴 xplr",
+              "title": "4839⭐ 98🍴 xplr",
               "description": ") - A hackable, minimal, fast TUI file explorer.",
               "children": [],
               "repo_info": {
@@ -10475,7 +10475,7 @@
                 "open_issues": 13,
                 "owner": "sayanarijit",
                 "repo": "xplr",
-                "stars": 4839,
+                "stars": 4841,
                 "topics": [
                   "cli",
                   "command-line",
@@ -10511,10 +10511,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-10T10:28:22Z",
-                "open_issues": 482,
+                "open_issues": 483,
                 "owner": "elfmz",
                 "repo": "far2l",
-                "stars": 2221,
+                "stars": 2222,
                 "topics": [
                   "filemanager",
                   "linux",
@@ -10541,7 +10541,7 @@
                 "open_issues": 26,
                 "owner": "leo-arch",
                 "repo": "clifm",
-                "stars": 1730,
+                "stars": 1731,
                 "topics": [
                   "autosuggestion",
                   "batch-rename",
@@ -10566,7 +10566,7 @@
             },
             {
               "node_type": "item",
-              "title": "1014⭐ 119🍴 midnight-commander",
+              "title": "1016⭐ 120🍴 midnight-commander",
               "description": ") - A feature rich visual file manager.",
               "children": [],
               "repo_info": {
@@ -10576,11 +10576,11 @@
                 "id": 939835394,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T11:49:00Z",
+                "last_commit": "2026-10-16T15:46:07Z",
                 "open_issues": 706,
                 "owner": "MidnightCommander",
                 "repo": "mc",
-                "stars": 1016,
+                "stars": 1018,
                 "topics": [
                   "c",
                   "console",
@@ -10593,7 +10593,7 @@
             },
             {
               "node_type": "item",
-              "title": "895⭐ 30🍴 elio",
+              "title": "896⭐ 30🍴 elio",
               "description": ") - Snappy, batteries-included file manager.",
               "children": [],
               "repo_info": {
@@ -10603,8 +10603,8 @@
                 "id": 1177113373,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-15T19:21:26Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-16T18:48:00Z",
+                "open_issues": 8,
                 "owner": "elio-fm",
                 "repo": "elio",
                 "stars": 896,
@@ -10706,7 +10706,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "cpy-cli",
-                "stars": 360,
+                "stars": 361,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
@@ -10788,7 +10788,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "15339⭐ 477🍴 duf",
+              "title": "15340⭐ 483🍴 duf",
               "description": ") - A better alternative.",
               "children": [],
               "repo_info": {
@@ -10802,7 +10802,7 @@
                 "open_issues": 84,
                 "owner": "muesli",
                 "repo": "duf",
-                "stars": 15340,
+                "stars": 15342,
                 "topics": [
                   "cli",
                   "df",
@@ -10824,7 +10824,7 @@
             },
             {
               "node_type": "item",
-              "title": "12497⭐ 297🍴 dust",
+              "title": "12505⭐ 297🍴 dust",
               "description": ") - A more intuitive version of in Rust.",
               "children": [],
               "repo_info": {
@@ -10838,14 +10838,14 @@
                 "open_issues": 14,
                 "owner": "bootandy",
                 "repo": "dust",
-                "stars": 12505,
+                "stars": 12509,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "6348⭐ 174🍴 dua-cli",
+              "title": "6353⭐ 174🍴 dua-cli",
               "description": ") - Disk usage analyzer.",
               "children": [],
               "repo_info": {
@@ -10855,11 +10855,11 @@
                 "id": 189215168,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-15T18:27:24Z",
+                "last_commit": "2026-10-17T02:48:44Z",
                 "open_issues": 0,
                 "owner": "Byron",
                 "repo": "dua-cli",
-                "stars": 6353,
+                "stars": 6357,
                 "topics": [
                   "cleaner",
                   "disk",
@@ -10878,7 +10878,7 @@
             },
             {
               "node_type": "item",
-              "title": "3144⭐ 99🍴 diskonaut",
+              "title": "3143⭐ 99🍴 diskonaut",
               "description": ") - Disk space navigator.",
               "children": [],
               "repo_info": {
@@ -10892,7 +10892,7 @@
                 "open_issues": 47,
                 "owner": "imsnif",
                 "repo": "diskonaut",
-                "stars": 3143,
+                "stars": 3144,
                 "topics": [
                   "cli",
                   "disk-space",
@@ -10957,7 +10957,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "60765⭐ 4431🍴 bat",
+              "title": "60800⭐ 4587🍴 bat",
               "description": ") - A cat clone with syntax highlighting.",
               "children": [],
               "repo_info": {
@@ -10968,10 +10968,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-14T19:41:07Z",
-                "open_issues": 557,
+                "open_issues": 565,
                 "owner": "sharkdp",
                 "repo": "bat",
-                "stars": 60799,
+                "stars": 60809,
                 "topics": [
                   "cli",
                   "command-line",
@@ -10987,7 +10987,7 @@
             },
             {
               "node_type": "item",
-              "title": "8816⭐ 354🍴 scc",
+              "title": "8826⭐ 356🍴 scc",
               "description": ") - Count lines of code, blank lines, comment lines, and physical lines of source code.",
               "children": [],
               "repo_info": {
@@ -11001,7 +11001,7 @@
                 "open_issues": 29,
                 "owner": "boyter",
                 "repo": "scc",
-                "stars": 8823,
+                "stars": 8825,
                 "topics": [
                   "cli",
                   "cloc",
@@ -11022,7 +11022,7 @@
             },
             {
               "node_type": "item",
-              "title": "5701⭐ 126🍴 entr",
+              "title": "5703⭐ 126🍴 entr",
               "description": ") - Run an arbitrary command when files change.",
               "children": [],
               "repo_info": {
@@ -11032,11 +11032,11 @@
                 "id": 126983399,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T17:42:40Z",
+                "last_commit": "2026-10-16T15:13:59Z",
                 "open_issues": 1,
                 "owner": "eradman",
                 "repo": "entr",
-                "stars": 5703,
+                "stars": 5706,
                 "topics": [
                   "inotify",
                   "kqueue",
@@ -11047,7 +11047,7 @@
             },
             {
               "node_type": "item",
-              "title": "2453⭐ 66🍴 f2",
+              "title": "2455⭐ 66🍴 f2",
               "description": ") - A cross-platform tool for fast, safe, and flexible batch renaming.",
               "children": [],
               "repo_info": {
@@ -11118,7 +11118,7 @@
             },
             {
               "node_type": "item",
-              "title": "1380⭐ 153🍴 webtorrent-cli",
+              "title": "1381⭐ 153🍴 webtorrent-cli",
               "description": ") – Streaming torrent client.",
               "children": [],
               "repo_info": {
@@ -11132,7 +11132,7 @@
                 "open_issues": 16,
                 "owner": "webtorrent",
                 "repo": "webtorrent-cli",
-                "stars": 1381,
+                "stars": 1382,
                 "topics": [
                   "bittorrent",
                   "cli",
@@ -11260,7 +11260,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "60300⭐ 5514🍴 rclone",
+              "title": "60323⭐ 5523🍴 rclone",
               "description": ") - Sync files with various cloud providers.",
               "children": [],
               "repo_info": {
@@ -11270,11 +11270,11 @@
                 "id": 17803236,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-15T16:41:49Z",
-                "open_issues": 1205,
+                "last_commit": "2026-10-16T16:43:49Z",
+                "open_issues": 1210,
                 "owner": "rclone",
                 "repo": "rclone",
-                "stars": 60321,
+                "stars": 60352,
                 "topics": [
                   "azure-blob",
                   "azure-blob-storage",
@@ -11302,7 +11302,7 @@
             },
             {
               "node_type": "item",
-              "title": "40583⭐ 1633🍴 croc",
+              "title": "40608⭐ 1634🍴 croc",
               "description": ") - Easily send things from one computer to another.",
               "children": [],
               "repo_info": {
@@ -11316,7 +11316,7 @@
                 "open_issues": 8,
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40608,
+                "stars": 40615,
                 "topics": [
                   "data-transfer",
                   "file-sharing",
@@ -11331,7 +11331,7 @@
             },
             {
               "node_type": "item",
-              "title": "7423⭐ 206🍴 ffsend",
+              "title": "7424⭐ 206🍴 ffsend",
               "description": ") - Quick file share.",
               "children": [],
               "repo_info": {
@@ -11360,7 +11360,7 @@
             },
             {
               "node_type": "item",
-              "title": "1842⭐ 76🍴 sharing",
+              "title": "1843⭐ 77🍴 sharing",
               "description": ") - Send and receive files on your mobile device.",
               "children": [],
               "repo_info": {
@@ -11411,7 +11411,7 @@
                 "open_issues": 29,
                 "owner": "SpatiumPortae",
                 "repo": "portal",
-                "stars": 1766,
+                "stars": 1765,
                 "topics": [
                   "data-transfer",
                   "e2e",
@@ -11627,7 +11627,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "23558⭐ 542🍴 eza",
+              "title": "23573⭐ 543🍴 eza",
               "description": ") - Improved version of .",
               "children": [],
               "repo_info": {
@@ -11641,7 +11641,7 @@
                 "open_issues": 465,
                 "owner": "eza-community",
                 "repo": "eza",
-                "stars": 23571,
+                "stars": 23582,
                 "topics": [
                   "color",
                   "command-line",
@@ -11659,7 +11659,7 @@
             },
             {
               "node_type": "item",
-              "title": "16259⭐ 516🍴 lsd",
+              "title": "16260⭐ 516🍴 lsd",
               "description": ") - with many extra features.",
               "children": [],
               "repo_info": {
@@ -11701,7 +11701,7 @@
                 "open_issues": 0,
                 "owner": "chaqchase",
                 "repo": "lla",
-                "stars": 1230,
+                "stars": 1231,
                 "topics": [
                   "cli",
                   "ls",
@@ -11714,7 +11714,7 @@
             },
             {
               "node_type": "item",
-              "title": "1227⭐ 31🍴 tre",
+              "title": "1228⭐ 31🍴 tre",
               "description": ") - with git awareness, editor aliasing, and more.",
               "children": [],
               "repo_info": {
@@ -11735,7 +11735,7 @@
             },
             {
               "node_type": "item",
-              "title": "966⭐ 35🍴 pls",
+              "title": "967⭐ 35🍴 pls",
               "description": ") - for the pros.",
               "children": [],
               "repo_info": {
@@ -11749,7 +11749,7 @@
                 "open_issues": 16,
                 "owner": "pls-rs",
                 "repo": "pls",
-                "stars": 967,
+                "stars": 966,
                 "topics": [
                   "cli",
                   "ls",
@@ -11853,7 +11853,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "40105⭐ 924🍴 zoxide",
+              "title": "40128⭐ 925🍴 zoxide",
               "description": ") - Fast directory jumper in Rust.",
               "children": [],
               "repo_info": {
@@ -11864,10 +11864,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-14T04:57:13Z",
-                "open_issues": 151,
+                "open_issues": 152,
                 "owner": "ajeetdsouza",
                 "repo": "zoxide",
-                "stars": 40127,
+                "stars": 40150,
                 "topics": [
                   "autojump",
                   "bash",
@@ -11909,7 +11909,7 @@
                 "open_issues": 108,
                 "owner": "rupa",
                 "repo": "z",
-                "stars": 17059,
+                "stars": 17060,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
@@ -11930,7 +11930,7 @@
                 "open_issues": 232,
                 "owner": "wting",
                 "repo": "autojump",
-                "stars": 16964,
+                "stars": 16963,
                 "topics": [
                   "autojump",
                   "command-line-tool",
@@ -12012,10 +12012,10 @@
                 "language": "Rust",
                 "license": "EUPL-1.2",
                 "last_commit": "2026-03-09T09:38:20Z",
-                "open_issues": 16,
+                "open_issues": 19,
                 "owner": "mgunyho",
                 "repo": "tere",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "file-explorer",
                   "rust",
@@ -12133,7 +12133,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "83558⭐ 5409🍴 fzf",
+              "title": "83593⭐ 5548🍴 fzf",
               "description": ") - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.",
               "children": [],
               "repo_info": {
@@ -12143,11 +12143,11 @@
                 "id": 13807606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-15T16:35:58Z",
-                "open_issues": 335,
+                "last_commit": "2026-10-17T02:11:02Z",
+                "open_issues": 333,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83592,
+                "stars": 83614,
                 "topics": [
                   "bash",
                   "cli",
@@ -12165,7 +12165,7 @@
             },
             {
               "node_type": "item",
-              "title": "69097⭐ 5436🍴 ripgrep",
+              "title": "69141⭐ 5586🍴 ripgrep",
               "description": ") - A line-oriented search tool that recursively searches your current directory for a regex pattern.",
               "children": [],
               "repo_info": {
@@ -12176,10 +12176,10 @@
                 "language": "Rust",
                 "license": "Unlicense",
                 "last_commit": "2026-08-04T13:59:44Z",
-                "open_issues": 215,
+                "open_issues": 217,
                 "owner": "BurntSushi",
                 "repo": "ripgrep",
-                "stars": 69137,
+                "stars": 69167,
                 "topics": [
                   "cli",
                   "command-line",
@@ -12197,7 +12197,7 @@
             },
             {
               "node_type": "item",
-              "title": "44745⭐ 1154🍴 fd",
+              "title": "44759⭐ 1157🍴 fd",
               "description": ") - A simple, fast and user-friendly alternative to .",
               "children": [],
               "repo_info": {
@@ -12207,11 +12207,11 @@
                 "id": 90793418,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:14:21Z",
-                "open_issues": 216,
+                "last_commit": "2026-10-17T06:12:35Z",
+                "open_issues": 220,
                 "owner": "sharkdp",
                 "repo": "fd",
-                "stars": 44758,
+                "stars": 44768,
                 "topics": [
                   "cli",
                   "command-line",
@@ -12228,7 +12228,7 @@
             },
             {
               "node_type": "item",
-              "title": "16237⭐ 474🍴 ast-grep",
+              "title": "16245⭐ 476🍴 ast-grep",
               "description": ") - A tool for code structural search, linting and rewriting.",
               "children": [],
               "repo_info": {
@@ -12239,10 +12239,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:53:39Z",
-                "open_issues": 62,
+                "open_issues": 64,
                 "owner": "ast-grep",
                 "repo": "ast-grep",
-                "stars": 16245,
+                "stars": 16254,
                 "topics": [
                   "ast",
                   "babel",
@@ -12265,7 +12265,7 @@
             },
             {
               "node_type": "item",
-              "title": "13070⭐ 325🍴 broot",
+              "title": "13070⭐ 326🍴 broot",
               "description": ") - Fuzzy finder similar to fzf, but with space usage visualization.",
               "children": [],
               "repo_info": {
@@ -12279,7 +12279,7 @@
                 "open_issues": 105,
                 "owner": "Canop",
                 "repo": "broot",
-                "stars": 13070,
+                "stars": 13075,
                 "topics": [
                   "balanced-bfs-descent",
                   "command-line",
@@ -12293,7 +12293,7 @@
             },
             {
               "node_type": "item",
-              "title": "6994⭐ 262🍴 skim",
+              "title": "6995⭐ 262🍴 skim",
               "description": ") - A general fuzzy finder written in Rust, similar to fzf.",
               "children": [],
               "repo_info": {
@@ -12318,7 +12318,7 @@
             },
             {
               "node_type": "item",
-              "title": "6342⭐ 189🍴 television",
+              "title": "6349⭐ 189🍴 television",
               "description": ") - A very fast general purpose fuzzy finder.",
               "children": [],
               "repo_info": {
@@ -12329,10 +12329,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-15T20:36:50Z",
-                "open_issues": 79,
+                "open_issues": 81,
                 "owner": "alexpasmantier",
                 "repo": "television",
-                "stars": 6349,
+                "stars": 6357,
                 "topics": [
                   "cli",
                   "command-line-tool",
@@ -12353,7 +12353,7 @@
             },
             {
               "node_type": "item",
-              "title": "4468⭐ 88🍴 fselect",
+              "title": "4469⭐ 89🍴 fselect",
               "description": ") - Find files with SQL-like queries.",
               "children": [],
               "repo_info": {
@@ -12363,11 +12363,11 @@
                 "id": 119048105,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T06:51:52Z",
+                "last_commit": "2026-10-16T21:54:23Z",
                 "open_issues": 6,
                 "owner": "jhspetersson",
                 "repo": "fselect",
-                "stars": 4469,
+                "stars": 4470,
                 "topics": [
                   "cli",
                   "command-line",
@@ -12595,7 +12595,7 @@
             },
             {
               "node_type": "item",
-              "title": "60⭐ 8🍴 ygrep",
+              "title": "61⭐ 8🍴 ygrep",
               "description": ") - Indexed code search backed by a local Tantivy full-text index.",
               "children": [],
               "repo_info": {
@@ -12605,7 +12605,7 @@
                 "id": 1113292031,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-15T00:16:01Z",
+                "last_commit": "2026-10-16T20:16:14Z",
                 "open_issues": 1,
                 "owner": "yetidevworks",
                 "repo": "ygrep",
@@ -12662,7 +12662,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "83170⭐ 3077🍴 lazygit",
+              "title": "83220⭐ 3081🍴 lazygit",
               "description": ") - Simple TUI for git commands.",
               "children": [],
               "repo_info": {
@@ -12672,11 +12672,11 @@
                 "id": 134017286,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-16T06:22:51Z",
-                "open_issues": 1050,
+                "last_commit": "2026-10-16T12:58:13Z",
+                "open_issues": 1045,
                 "owner": "jesseduffield",
                 "repo": "lazygit",
-                "stars": 83217,
+                "stars": 83253,
                 "topics": [
                   "cli",
                   "git",
@@ -12687,7 +12687,7 @@
             },
             {
               "node_type": "item",
-              "title": "22569⭐ 786🍴 gitui",
+              "title": "22576⭐ 786🍴 gitui",
               "description": ") - Blazing fast terminal-ui for git written in Rust.",
               "children": [],
               "repo_info": {
@@ -12718,7 +12718,7 @@
             },
             {
               "node_type": "item",
-              "title": "18119⭐ 1228🍴 git-extras",
+              "title": "18122⭐ 1227🍴 git-extras",
               "description": ") - Git utilities.",
               "children": [],
               "repo_info": {
@@ -12732,7 +12732,7 @@
                 "open_issues": 92,
                 "owner": "tj",
                 "repo": "git-extras",
-                "stars": 18122,
+                "stars": 18123,
                 "topics": [
                   "git"
                 ]
@@ -12741,7 +12741,7 @@
             },
             {
               "node_type": "item",
-              "title": "13363⭐ 672🍴 tig",
+              "title": "13365⭐ 672🍴 tig",
               "description": ") - Text-mode interface for git.",
               "children": [],
               "repo_info": {
@@ -12755,7 +12755,7 @@
                 "open_issues": 231,
                 "owner": "jonas",
                 "repo": "tig",
-                "stars": 13364,
+                "stars": 13368,
                 "topics": [
                   "c",
                   "git",
@@ -12767,7 +12767,7 @@
             },
             {
               "node_type": "item",
-              "title": "11139⭐ 1370🍴 readme-md-generator",
+              "title": "11137⭐ 1370🍴 readme-md-generator",
               "description": ") - Interactively generate README.md files.",
               "children": [],
               "repo_info": {
@@ -12781,7 +12781,7 @@
                 "open_issues": 30,
                 "owner": "kefranabg",
                 "repo": "readme-md-generator",
-                "stars": 11137,
+                "stars": 11135,
                 "topics": [
                   "cli",
                   "generator",
@@ -12796,7 +12796,7 @@
             },
             {
               "node_type": "item",
-              "title": "7857⭐ 321🍴 git-standup",
+              "title": "7856⭐ 321🍴 git-standup",
               "description": ") - Recall what you did on the last working day.",
               "children": [],
               "repo_info": {
@@ -12942,7 +12942,7 @@
                 "open_issues": 37,
                 "owner": "nosarthur",
                 "repo": "gita",
-                "stars": 1948,
+                "stars": 1951,
                 "topics": [
                   "cli",
                   "command-line",
@@ -12959,7 +12959,7 @@
             },
             {
               "node_type": "item",
-              "title": "1530⭐ 53🍴 czg",
+              "title": "1531⭐ 53🍴 czg",
               "description": ") - Interactively generate standardized commit messages.",
               "children": [],
               "repo_info": {
@@ -13047,7 +13047,7 @@
             },
             {
               "node_type": "item",
-              "title": "267⭐ 45🍴 gitlab-cli",
+              "title": "266⭐ 45🍴 gitlab-cli",
               "description": ") - Create GitLab merge requests.",
               "children": [],
               "repo_info": {
@@ -13261,7 +13261,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "22953⭐ 2223🍴 hub",
+              "title": "22952⭐ 2221🍴 hub",
               "description": ") - Make git easier to use with GitHub.",
               "children": [],
               "repo_info": {
@@ -13272,10 +13272,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2024-02-02T21:00:44Z",
-                "open_issues": 295,
+                "open_issues": 294,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22952,
+                "stars": 22954,
                 "topics": [
                   "git",
                   "github-api",
@@ -13401,7 +13401,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "4830⭐ 211🍴 gitmoji-cli",
+              "title": "4830⭐ 212🍴 gitmoji-cli",
               "description": ") - Use emoji in commit messages.",
               "children": [],
               "repo_info": {
@@ -13415,7 +13415,7 @@
                 "open_issues": 25,
                 "owner": "carloscuesta",
                 "repo": "gitmoji-cli",
-                "stars": 4830,
+                "stars": 4829,
                 "topics": [
                   "cli",
                   "emoji",
@@ -13471,7 +13471,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "22729⭐ 1490🍴 SVGO",
+          "title": "22744⭐ 1502🍴 SVGO",
           "description": ") - Optimize SVG files.",
           "children": [],
           "repo_info": {
@@ -13485,7 +13485,7 @@
             "open_issues": 275,
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22743,
+            "stars": 22747,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -13501,7 +13501,7 @@
         },
         {
           "node_type": "item",
-          "title": "6034⭐ 125🍴 carbon-now-cli",
+          "title": "6031⭐ 125🍴 carbon-now-cli",
           "description": ") - Generate beautiful images of your code.",
           "children": [],
           "repo_info": {
@@ -13533,7 +13533,7 @@
         },
         {
           "node_type": "item",
-          "title": "4884⭐ 108🍴 freeze",
+          "title": "4887⭐ 107🍴 freeze",
           "description": ") - Generate images of code and terminal output.",
           "children": [],
           "repo_info": {
@@ -13547,7 +13547,7 @@
             "open_issues": 79,
             "owner": "charmbracelet",
             "repo": "freeze",
-            "stars": 4887,
+            "stars": 4889,
             "topics": []
           },
           "first_seen": "2026-08-28T14:12:19.547Z"
@@ -13580,7 +13580,7 @@
         },
         {
           "node_type": "item",
-          "title": "1018⭐ 83🍴 rclip",
+          "title": "1020⭐ 82🍴 rclip",
           "description": ") - Semantic photo search.",
           "children": [],
           "repo_info": {
@@ -13611,7 +13611,7 @@
         },
         {
           "node_type": "item",
-          "title": "185⭐ 8🍴 optimizt",
+          "title": "186⭐ 8🍴 optimizt",
           "description": ") - Helps prepare images for the web.",
           "children": [],
           "repo_info": {
@@ -13668,7 +13668,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17874⭐ 1048🍴 asciinema",
+              "title": "17882⭐ 1054🍴 asciinema",
               "description": ") - Terminal session recorder and companion app for asciinema.org.",
               "children": [],
               "repo_info": {
@@ -13682,7 +13682,7 @@
                 "open_issues": 13,
                 "owner": "asciinema",
                 "repo": "asciinema",
-                "stars": 17879,
+                "stars": 17883,
                 "topics": [
                   "asciicast",
                   "asciinema",
@@ -13697,7 +13697,7 @@
             },
             {
               "node_type": "item",
-              "title": "4330⭐ 254🍴 gifsicle",
+              "title": "4331⭐ 254🍴 gifsicle",
               "description": ") - Create, manipulate, and optimize GIF images and animations.",
               "children": [],
               "repo_info": {
@@ -13711,14 +13711,14 @@
                 "open_issues": 23,
                 "owner": "kohler",
                 "repo": "gifsicle",
-                "stars": 4331,
+                "stars": 4333,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "4012⭐ 247🍴 ttygif",
+              "title": "4011⭐ 247🍴 ttygif",
               "description": ") - Convert terminal recordings to animated gifs.",
               "children": [],
               "repo_info": {
@@ -13763,7 +13763,7 @@
             },
             {
               "node_type": "item",
-              "title": "566⭐ 28🍴 gifgen",
+              "title": "567⭐ 28🍴 gifgen",
               "description": ") - Simple high quality GIF encoding.",
               "children": [],
               "repo_info": {
@@ -13842,7 +13842,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2315⭐ 38🍴 gowall",
+              "title": "2316⭐ 38🍴 gowall",
               "description": ") - Recolor images, OCR, image upscaling and more.",
               "children": [],
               "repo_info": {
@@ -13856,7 +13856,7 @@
                 "open_issues": 13,
                 "owner": "Achno",
                 "repo": "gowall",
-                "stars": 2316,
+                "stars": 2319,
                 "topics": [
                   "background-removal",
                   "cli",
@@ -13878,7 +13878,7 @@
             },
             {
               "node_type": "item",
-              "title": "1094⭐ 51🍴 imgp",
+              "title": "1095⭐ 51🍴 imgp",
               "description": ") - Blazing fast batch image resizer and rotator.",
               "children": [],
               "repo_info": {
@@ -13892,7 +13892,7 @@
                 "open_issues": 0,
                 "owner": "jarun",
                 "repo": "imgp",
-                "stars": 1095,
+                "stars": 1096,
                 "topics": [
                   "cli",
                   "command-line",
@@ -14020,10 +14020,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2024-08-21T02:41:08Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5277,
+            "stars": 5279,
             "topics": [
               "c",
               "matrix",
@@ -14034,7 +14034,7 @@
         },
         {
           "node_type": "item",
-          "title": "5110⭐ 120🍴 gitlogue",
+          "title": "5114⭐ 121🍴 gitlogue",
           "description": ") - Cinematic git commit replay.",
           "children": [],
           "repo_info": {
@@ -14048,7 +14048,7 @@
             "open_issues": 9,
             "owner": "unhappychoice",
             "repo": "gitlogue",
-            "stars": 5114,
+            "stars": 5119,
             "topics": [
               "cli",
               "cli-tool",
@@ -14102,7 +14102,7 @@
         },
         {
           "node_type": "item",
-          "title": "771⭐ 20🍴 drift",
+          "title": "770⭐ 20🍴 drift",
           "description": ") - Multiple animated scenes.",
           "children": [],
           "repo_info": {
@@ -14112,8 +14112,8 @@
             "id": 1186582345,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-15T21:13:48Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-16T07:16:45Z",
+            "open_issues": 0,
             "owner": "phlx0",
             "repo": "drift",
             "stars": 770,
@@ -14135,7 +14135,7 @@
         },
         {
           "node_type": "item",
-          "title": "187⭐ 6🍴 cbirds",
+          "title": "190⭐ 6🍴 cbirds",
           "description": ") - A flock of birds simulation.",
           "children": [],
           "repo_info": {
@@ -14149,7 +14149,7 @@
             "open_issues": 0,
             "owner": "clainstone",
             "repo": "cbirds",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "ascii-art",
               "boids",
@@ -14223,7 +14223,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "6516⭐ 136🍴 pastel",
+          "title": "6519⭐ 136🍴 pastel",
           "description": ") - Generate, analyze, convert and manipulate colors.",
           "children": [],
           "repo_info": {
@@ -14336,7 +14336,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "6588⭐ 233🍴 lolcat",
+          "title": "6587⭐ 233🍴 lolcat",
           "description": ") - Outputs text in rainbow colors.",
           "children": [],
           "repo_info": {
@@ -14350,7 +14350,7 @@
             "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6587,
+            "stars": 6588,
             "topics": [
               "cli",
               "essentials"
@@ -14360,7 +14360,7 @@
         },
         {
           "node_type": "item",
-          "title": "4288⭐ 95🍴 terminaltexteffects",
+          "title": "4289⭐ 96🍴 terminaltexteffects",
           "description": ") - Plays elaborate animations of text input.",
           "children": [],
           "repo_info": {
@@ -14370,11 +14370,11 @@
             "id": 670336299,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T02:15:13Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-17T02:53:35Z",
+            "open_issues": 7,
             "owner": "ChrisBuilds",
             "repo": "terminaltexteffects",
-            "stars": 4289,
+            "stars": 4288,
             "topics": [
               "ascii-art",
               "terminal-based",
@@ -14407,7 +14407,7 @@
         },
         {
           "node_type": "item",
-          "title": "555⭐ 75🍴 fortune",
+          "title": "557⭐ 75🍴 fortune",
           "description": ") - Shows a random fortune.",
           "children": [],
           "repo_info": {
@@ -14421,7 +14421,7 @@
             "open_issues": 12,
             "owner": "shlomif",
             "repo": "fortune-mod",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "floss",
               "fortune",
@@ -14643,7 +14643,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "213441⭐ 28617🍴 OpenCode",
+              "title": "214097⭐ 28729🍴 OpenCode",
               "description": ") - Open-source agent TUI.",
               "children": [],
               "repo_info": {
@@ -14653,18 +14653,18 @@
                 "id": 975734319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T06:51:16Z",
-                "open_issues": 4335,
+                "last_commit": "2026-10-17T05:51:07Z",
+                "open_issues": 4503,
                 "owner": "anomalyco",
                 "repo": "opencode",
-                "stars": 214039,
+                "stars": 214439,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:19.547Z"
             },
             {
               "node_type": "item",
-              "title": "10284⭐ 1899🍴 InkOS",
+              "title": "10326⭐ 1909🍴 InkOS",
               "description": ") - Novel-writing agent.",
               "children": [],
               "repo_info": {
@@ -14678,7 +14678,7 @@
                 "open_issues": 245,
                 "owner": "Narcooo",
                 "repo": "inkos",
-                "stars": 10322,
+                "stars": 10356,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -14697,7 +14697,7 @@
             },
             {
               "node_type": "item",
-              "title": "3878⭐ 353🍴 lean-ctx",
+              "title": "3880⭐ 353🍴 lean-ctx",
               "description": ") - Token-saving context runtime for agents.",
               "children": [],
               "repo_info": {
@@ -14707,11 +14707,11 @@
                 "id": 1189918673,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T11:57:39Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-16T22:46:54Z",
+                "open_issues": 10,
                 "owner": "yvgude",
                 "repo": "lean-ctx",
-                "stars": 3880,
+                "stars": 3882,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -14738,7 +14738,7 @@
             },
             {
               "node_type": "item",
-              "title": "3347⭐ 379🍴 agent-of-empires",
+              "title": "3357⭐ 382🍴 agent-of-empires",
               "description": ") - Coding agent session manager via tmux and git worktrees.",
               "children": [],
               "repo_info": {
@@ -14748,11 +14748,11 @@
                 "id": 1131238324,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-16T06:48:34Z",
-                "open_issues": 193,
+                "last_commit": "2026-10-17T06:43:08Z",
+                "open_issues": 216,
                 "owner": "agent-of-empires",
                 "repo": "agent-of-empires",
-                "stars": 3356,
+                "stars": 3363,
                 "topics": [
                   "ai-coding",
                   "claude",
@@ -14780,7 +14780,7 @@
             },
             {
               "node_type": "item",
-              "title": "2517⭐ 360🍴 Nanocoder",
+              "title": "2518⭐ 364🍴 Nanocoder",
               "description": ") - Local-first agent TUI.",
               "children": [],
               "repo_info": {
@@ -14790,8 +14790,8 @@
                 "id": 1029049168,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T06:45:03Z",
-                "open_issues": 216,
+                "last_commit": "2026-10-17T02:15:20Z",
+                "open_issues": 219,
                 "owner": "Nano-Collective",
                 "repo": "nanocoder",
                 "stars": 2519,
@@ -14825,7 +14825,7 @@
                 "open_issues": 11,
                 "owner": "actionbook",
                 "repo": "actionbook",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": [
                   "ai-agents",
                   "browser-automation",
@@ -14837,7 +14837,7 @@
             },
             {
               "node_type": "item",
-              "title": "1081⭐ 193🍴 agent-deck",
+              "title": "1094⭐ 195🍴 agent-deck",
               "description": ") - Dashboard for managing multiple AI coding agent sessions.",
               "children": [],
               "repo_info": {
@@ -14848,10 +14848,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-14T06:17:31Z",
-                "open_issues": 59,
+                "open_issues": 61,
                 "owner": "asheshgoplani",
                 "repo": "agent-deck",
-                "stars": 1094,
+                "stars": 1101,
                 "topics": [
                   "ai-agent",
                   "ai-agents",
@@ -14877,7 +14877,7 @@
             },
             {
               "node_type": "item",
-              "title": "747⭐ 65🍴 coi",
+              "title": "750⭐ 65🍴 coi",
               "description": ") - Incus container runtime for agents.",
               "children": [],
               "repo_info": {
@@ -14887,11 +14887,11 @@
                 "id": 1129585228,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-16T06:37:28Z",
+                "last_commit": "2026-10-16T20:20:21Z",
                 "open_issues": 31,
                 "owner": "coipond",
                 "repo": "coi",
-                "stars": 749,
+                "stars": 750,
                 "topics": [
                   "agentic-ai",
                   "ai-tools",
@@ -14919,7 +14919,7 @@
             },
             {
               "node_type": "item",
-              "title": "617⭐ 25🍴 agentty",
+              "title": "617⭐ 27🍴 agentty",
               "description": ") - C++ agent TUI.",
               "children": [],
               "repo_info": {
@@ -14929,11 +14929,11 @@
                 "id": 1213491458,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-16T02:25:47Z",
+                "last_commit": "2026-10-17T05:41:43Z",
                 "open_issues": 8,
                 "owner": "1ay1",
                 "repo": "agentty",
-                "stars": 617,
+                "stars": 618,
                 "topics": [
                   "agentic-coding",
                   "ai-agent",
@@ -14961,7 +14961,7 @@
             },
             {
               "node_type": "item",
-              "title": "571⭐ 88🍴 hcom",
+              "title": "573⭐ 90🍴 hcom",
               "description": ") - Orchestration and communication layer for managing multiple agents in their respective TUI apps.",
               "children": [],
               "repo_info": {
@@ -14972,10 +14972,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-15T17:46:51Z",
-                "open_issues": 26,
+                "open_issues": 30,
                 "owner": "aannoo",
                 "repo": "hcom",
-                "stars": 573,
+                "stars": 576,
                 "topics": [
                   "agent",
                   "agent-skills",
@@ -15003,7 +15003,7 @@
             },
             {
               "node_type": "item",
-              "title": "387⭐ 63🍴 AgentBridge",
+              "title": "395⭐ 64🍴 AgentBridge",
               "description": ") - Local bridge for bidirectional communication between Claude Code and Codex.",
               "children": [],
               "repo_info": {
@@ -15013,11 +15013,11 @@
                 "id": 1187349447,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T19:19:42Z",
+                "last_commit": "2026-10-16T18:55:27Z",
                 "open_issues": 50,
                 "owner": "raysonmeng",
                 "repo": "agent-bridge",
-                "stars": 394,
+                "stars": 401,
                 "topics": [
                   "agent-collaboration",
                   "ai",
@@ -15052,11 +15052,11 @@
                 "id": 1172933443,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-13T19:57:51Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-17T01:18:15Z",
+                "open_issues": 28,
                 "owner": "GreyhavenHQ",
                 "repo": "greywall",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "agents",
                   "ai-security",
@@ -15078,7 +15078,7 @@
             },
             {
               "node_type": "item",
-              "title": "263⭐ 64🍴 Shep",
+              "title": "265⭐ 64🍴 Shep",
               "description": ") - Multi-session SDLC control center for AI coding agents.",
               "children": [],
               "repo_info": {
@@ -15120,7 +15120,7 @@
             },
             {
               "node_type": "item",
-              "title": "195⭐ 20🍴 toktrack",
+              "title": "195⭐ 21🍴 toktrack",
               "description": ") - Track token usage and cost across all agents.",
               "children": [],
               "repo_info": {
@@ -15130,8 +15130,8 @@
                 "id": 1142477582,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-15T00:13:02Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-16T07:52:17Z",
+                "open_issues": 4,
                 "owner": "mag123c",
                 "repo": "toktrack",
                 "stars": 195,
@@ -15214,7 +15214,7 @@
                 "id": 1158827208,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-15T20:41:21Z",
+                "last_commit": "2026-10-16T21:39:37Z",
                 "open_issues": 9,
                 "owner": "mochow13",
                 "repo": "keen-code",
@@ -15238,7 +15238,7 @@
             },
             {
               "node_type": "item",
-              "title": "45⭐ 6🍴 bosun",
+              "title": "46⭐ 6🍴 bosun",
               "description": ") - Agent session manager built on tmux.",
               "children": [],
               "repo_info": {
@@ -15248,7 +15248,7 @@
                 "id": 1207896582,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-06T03:32:13Z",
+                "last_commit": "2026-10-16T20:46:42Z",
                 "open_issues": 0,
                 "owner": "yetidevworks",
                 "repo": "bosun",
@@ -15320,7 +15320,7 @@
                 "id": 1046716559,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T02:39:29Z",
+                "last_commit": "2026-10-17T06:06:42Z",
                 "open_issues": 1,
                 "owner": "Wolfe-Jam",
                 "repo": "faf-cli",
@@ -15369,8 +15369,8 @@
                 "id": 1173225605,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T07:43:30Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-17T06:45:13Z",
+                "open_issues": 8,
                 "owner": "tobocop2",
                 "repo": "lilbee",
                 "stars": 66,
@@ -15454,7 +15454,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "67116⭐ 6231🍴 awesome-nodejs clis",
+          "title": "67136⭐ 6229🍴 awesome-nodejs clis",
           "description": ") – Node.js modules and resources.",
           "children": [],
           "repo_info": {
@@ -15468,7 +15468,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67134,
+            "stars": 67143,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15482,7 +15482,7 @@
         },
         {
           "node_type": "item",
-          "title": "37783⭐ 2566🍴 awesome-shell",
+          "title": "37789⭐ 2566🍴 awesome-shell",
           "description": ") – Command-line utilities and frameworks.",
           "children": [],
           "repo_info": {
@@ -15496,7 +15496,7 @@
             "open_issues": 190,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37789,
+            "stars": 37793,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15512,7 +15512,7 @@
         },
         {
           "node_type": "item",
-          "title": "18056⭐ 617🍴 awesome-zsh-plugins",
+          "title": "18059⭐ 623🍴 awesome-zsh-plugins",
           "description": ") – ZSH frameworks, plugins, tutorials & themes.",
           "children": [],
           "repo_info": {
@@ -15526,7 +15526,7 @@
             "open_issues": 6,
             "owner": "unixorn",
             "repo": "awesome-zsh-plugins",
-            "stars": 18057,
+            "stars": 18060,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15547,7 +15547,7 @@
         },
         {
           "node_type": "item",
-          "title": "13139⭐ 653🍴 terminals-are-sexy",
+          "title": "13142⭐ 653🍴 terminals-are-sexy",
           "description": ") – Terminal frameworks, plugins & resources.",
           "children": [],
           "repo_info": {
@@ -15561,7 +15561,7 @@
             "open_issues": 157,
             "owner": "k4m4",
             "repo": "terminals-are-sexy",
-            "stars": 13141,
+            "stars": 13146,
             "topics": [
               "awesome-lists",
               "cli-lovers",
@@ -15573,7 +15573,7 @@
         },
         {
           "node_type": "item",
-          "title": "4707⭐ 172🍴 x-cmd",
+          "title": "4711⭐ 174🍴 x-cmd",
           "description": ") - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.",
           "children": [],
           "repo_info": {
@@ -15587,7 +15587,7 @@
             "open_issues": 110,
             "owner": "x-cmd",
             "repo": "x-cmd",
-            "stars": 4711,
+            "stars": 4713,
             "topics": [
               "agent",
               "ai",
@@ -15602,7 +15602,7 @@
         },
         {
           "node_type": "item",
-          "title": "2641⭐ 355🍴 awesome-cli-apps-in-a-csv",
+          "title": "2641⭐ 363🍴 awesome-cli-apps-in-a-csv",
           "description": ") - Extensive list of CLI apps.",
           "children": [],
           "repo_info": {
@@ -15613,10 +15613,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-21T22:56:28Z",
-            "open_issues": 273,
+            "open_issues": 278,
             "owner": "toolleeo",
             "repo": "awesome-cli-apps-in-a-csv",
-            "stars": 2641,
+            "stars": 2642,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15672,7 +15672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:54:47.057Z",
+    "last_updated": "2026-10-17T06:46:22.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 📊 🕹 🛠 A curated list of command line apps. With up-to-date repository stars⭐ and forks🍴",
@@ -15680,7 +15680,7 @@
       "id": 517293075,
       "language": "Shell",
       "license": null,
-      "last_commit": "2026-10-14T15:48:48Z",
+      "last_commit": "2026-10-16T09:10:34Z",
       "open_issues": 5,
       "owner": "Correia-jpv",
       "repo": "fucking-awesome-cli-apps",
@@ -15701,7 +15701,7 @@
         "commandline"
       ]
     },
-    "original_repository_sha": "dabc611019c7a14200b40a984b5755152761f878",
+    "original_repository_sha": "519745442c0beae828a8341af77dfd9883a069cb",
     "enhanced_repository": "enhansome/fucking-enhansome-cli-apps",
     "enhanced_repository_description": null,
     "title": "Awesome fucking awesome cli apps with stars"
